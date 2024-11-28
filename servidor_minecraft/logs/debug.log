@@ -25775,3 +25775,566 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [28Nov2024 20:48:48.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6564ms or 131 ticks behind
 [28Nov2024 20:49:04.716] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-1595, y=-25, z=2008} at Chest with:minecraft:chests/abandoned_mineshaft
 [28Nov2024 20:49:10.476] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[28Nov2024 20:49:12.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8376ms or 167 ticks behind
+[28Nov2024 20:49:17.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_ruin11
+[28Nov2024 20:49:20.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:49:21.408] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:49:27.015] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:49:36.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9039ms or 180 ticks behind
+[28Nov2024 20:49:40.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Mind Your Manors]
+[28Nov2024 20:49:45.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:49:46.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:49:46.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:49:47.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:49:48.408] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:snowy/starts/center
+[28Nov2024 20:49:48.419] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:giant_tree_taiga/starts/center
+[28Nov2024 20:49:48.426] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:icy/starts/center
+[28Nov2024 20:49:48.434] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:dark_forest/starts/center
+[28Nov2024 20:49:48.444] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:jungle/starts/center
+[28Nov2024 20:49:48.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:49:48.453] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:badlands/starts/center
+[28Nov2024 20:49:48.463] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:flower_forest/starts/center
+[28Nov2024 20:49:54.157] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:desert_ruin3
+[28Nov2024 20:49:54.174] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_pyramid2
+[28Nov2024 20:49:57.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6445ms or 128 ticks behind
+[28Nov2024 20:50:00.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:00.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Alligator In Name Only]
+[28Nov2024 20:50:00.973] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[28Nov2024 20:50:01.031] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin_26
+[28Nov2024 20:50:01.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:02.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:03.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:03.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:04.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:06.060] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_4
+[28Nov2024 20:50:07.248] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/center/center_waystones_01
+[28Nov2024 20:50:07.249] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/entity/witch
+[28Nov2024 20:50:07.250] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/house/small/small_house_03
+[28Nov2024 20:50:07.252] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/crossroad/crossroad_one_way_damaged
+[28Nov2024 20:50:07.256] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/house/medium/medium_house_01
+[28Nov2024 20:50:07.257] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/road_medium
+[28Nov2024 20:50:07.258] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/crossroad/crossroad_one_way
+[28Nov2024 20:50:07.258] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/crossroad/crossroad_one_way_broken
+[28Nov2024 20:50:07.259] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/crossroad/crossroad_two_way
+[28Nov2024 20:50:07.259] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/crossroad/crossroad_three_way
+[28Nov2024 20:50:07.260] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/crossroad/crossroad_four_way
+[28Nov2024 20:50:07.262] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/house/small/small_house_01
+[28Nov2024 20:50:07.265] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/house/small/small_house_02
+[28Nov2024 20:50:07.270] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/house/medium/medium_house_02
+[28Nov2024 20:50:07.272] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/entity/cat
+[28Nov2024 20:50:07.273] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/decoration/villager_cage_01
+[28Nov2024 20:50:07.273] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/decoration/villager_cage_02
+[28Nov2024 20:50:07.274] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/decoration/dead_tree_03
+[28Nov2024 20:50:07.275] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/decoration/dead_tree_01
+[28Nov2024 20:50:07.276] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/decoration/dead_tree_02
+[28Nov2024 20:50:07.278] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/road_long
+[28Nov2024 20:50:07.278] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/road_short
+[28Nov2024 20:50:07.279] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/end/road_end_medium
+[28Nov2024 20:50:07.279] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/end/road_end_long
+[28Nov2024 20:50:07.280] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/end/road_end_short
+[28Nov2024 20:50:07.280] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of villagesandpillages:village_witch/road/end/road_end_dead
+[28Nov2024 20:50:11.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:12.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:13.677] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[28Nov2024 20:50:17.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:18.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:19.638] [Worker-Main-15/DEBUG] [ModernFix/]: Structure philipsruins:level_one_ruins13 is being run through DFU (hash a72a4f5d4f7648fa4157a8ef2c71708f67ae00f279a7d3435106429be2a321f2), this will cause launch time delays
+[28Nov2024 20:50:22.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10056ms or 201 ticks behind
+[28Nov2024 20:50:26.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_14
+[28Nov2024 20:50:27.926] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:pillager_outpost/feature_cage1
+[28Nov2024 20:50:34.809] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[28Nov2024 20:50:34.825] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[28Nov2024 20:50:34.828] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[28Nov2024 20:50:36.031] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3b
+[28Nov2024 20:50:36.319] [Worker-Main-14/DEBUG] [ModernFix/]: Structure philipsruins:ancient_ruin12 is being run through DFU (hash 6b9ac79fb5f4bf30140bc3d6e5ff218a01132568d3829f2295dcdd4ac0365b38), this will cause launch time delays
+[28Nov2024 20:50:36.325] [Worker-Main-14/DEBUG] [ModernFix/]: Structure philipsruins:ruin3 is being run through DFU (hash 332b8b6c8fa68cbe22bb2da6a3c6d651f786e05d01cf8388eee454c7c4e2edee), this will cause launch time delays
+[28Nov2024 20:50:37.530] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[28Nov2024 20:50:37.532] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[28Nov2024 20:50:37.534] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[28Nov2024 20:50:37.537] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[28Nov2024 20:50:37.537] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[28Nov2024 20:50:37.538] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[28Nov2024 20:50:37.540] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[28Nov2024 20:50:37.542] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[28Nov2024 20:50:37.545] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[28Nov2024 20:50:37.547] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[28Nov2024 20:50:37.547] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[28Nov2024 20:50:37.549] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[28Nov2024 20:50:37.549] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[28Nov2024 20:50:37.551] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[28Nov2024 20:50:37.553] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[28Nov2024 20:50:37.555] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[28Nov2024 20:50:37.557] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[28Nov2024 20:50:37.557] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[28Nov2024 20:50:37.561] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[28Nov2024 20:50:37.563] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[28Nov2024 20:50:37.565] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[28Nov2024 20:50:37.567] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[28Nov2024 20:50:37.569] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[28Nov2024 20:50:37.570] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[28Nov2024 20:50:37.572] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[28Nov2024 20:50:37.574] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[28Nov2024 20:50:37.576] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[28Nov2024 20:50:37.578] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[28Nov2024 20:50:37.580] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[28Nov2024 20:50:37.581] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[28Nov2024 20:50:37.583] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[28Nov2024 20:50:37.585] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[28Nov2024 20:50:37.588] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[28Nov2024 20:50:37.590] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[28Nov2024 20:50:37.590] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[28Nov2024 20:50:37.593] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[28Nov2024 20:50:37.595] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[28Nov2024 20:50:37.597] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[28Nov2024 20:50:37.599] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[28Nov2024 20:50:37.600] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[28Nov2024 20:50:37.603] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[28Nov2024 20:50:37.604] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[28Nov2024 20:50:37.606] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[28Nov2024 20:50:37.608] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[28Nov2024 20:50:37.609] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[28Nov2024 20:50:37.614] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[28Nov2024 20:50:37.615] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[28Nov2024 20:50:37.615] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[28Nov2024 20:50:37.616] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[28Nov2024 20:50:37.618] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[28Nov2024 20:50:37.620] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[28Nov2024 20:50:37.621] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[28Nov2024 20:50:37.621] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[28Nov2024 20:50:37.621] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[28Nov2024 20:50:37.622] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[28Nov2024 20:50:37.624] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[28Nov2024 20:50:37.624] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[28Nov2024 20:50:37.630] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[28Nov2024 20:50:37.631] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[28Nov2024 20:50:37.633] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[28Nov2024 20:50:37.634] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[28Nov2024 20:50:37.634] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[28Nov2024 20:50:37.634] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[28Nov2024 20:50:37.635] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[28Nov2024 20:50:37.635] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[28Nov2024 20:50:37.636] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[28Nov2024 20:50:37.638] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[28Nov2024 20:50:37.638] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[28Nov2024 20:50:37.638] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[28Nov2024 20:50:37.641] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[28Nov2024 20:50:37.641] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[28Nov2024 20:50:37.643] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[28Nov2024 20:50:37.648] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[28Nov2024 20:50:37.648] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[28Nov2024 20:50:37.659] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[28Nov2024 20:50:37.659] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[28Nov2024 20:50:37.661] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[28Nov2024 20:50:37.661] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[28Nov2024 20:50:37.661] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[28Nov2024 20:50:37.662] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[28Nov2024 20:50:37.662] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[28Nov2024 20:50:37.664] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[28Nov2024 20:50:37.666] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[28Nov2024 20:50:37.667] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[28Nov2024 20:50:37.668] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[28Nov2024 20:50:37.670] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[28Nov2024 20:50:37.671] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[28Nov2024 20:50:37.674] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[28Nov2024 20:50:37.674] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[28Nov2024 20:50:37.675] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[28Nov2024 20:50:37.675] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[28Nov2024 20:50:37.677] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[28Nov2024 20:50:37.683] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[28Nov2024 20:50:37.684] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[28Nov2024 20:50:37.684] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[28Nov2024 20:50:37.684] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[28Nov2024 20:50:37.685] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[28Nov2024 20:50:37.685] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[28Nov2024 20:50:37.686] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[28Nov2024 20:50:37.686] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[28Nov2024 20:50:37.687] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[28Nov2024 20:50:37.687] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[28Nov2024 20:50:37.687] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[28Nov2024 20:50:37.688] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[28Nov2024 20:50:37.688] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[28Nov2024 20:50:37.689] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[28Nov2024 20:50:37.689] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[28Nov2024 20:50:37.692] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[28Nov2024 20:50:37.692] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[28Nov2024 20:50:37.695] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[28Nov2024 20:50:37.696] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[28Nov2024 20:50:37.696] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[28Nov2024 20:50:37.697] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[28Nov2024 20:50:43.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[28Nov2024 20:50:49.383] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Terrance'/101546, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1297.48, y=64.56, z=1884.50] died, message: 'Terrance suffocated in a wall'
+[28Nov2024 20:50:49.384] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Terrance'/101546, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1297.48, y=64.56, z=1884.50] died: Terrance suffocated in a wall
+[28Nov2024 20:50:51.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13345ms or 266 ticks behind
+[28Nov2024 20:50:52.528] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[28Nov2024 20:50:55.726] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:56.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:57.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:57.784] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:58.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:59.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:50:59.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:00.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:16.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10738ms or 214 ticks behind
+[28Nov2024 20:51:17.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:18.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:19.506] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:20.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:20.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:22.446] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:23.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:23.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:25.854] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:51:28.952] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/102614, l='ServerLevel[Boss_RPG_v16r2_World]', x=-898.50, y=71.00, z=-474.50]
+[28Nov2024 20:51:37.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[28Nov2024 20:51:37.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[28Nov2024 20:51:45.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13270ms or 265 ticks behind
+[28Nov2024 20:51:47.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lakesha'/101553, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1329.21, y=66.00, z=1908.56] died: Lakesha was shot by Stymphalian Bird
+[28Nov2024 20:51:51.884] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[28Nov2024 20:52:07.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Ettie'/101555, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1327.70, y=64.00, z=1912.30] died: Ettie was shot by Stymphalian Bird
+[28Nov2024 20:52:13.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13436ms or 268 ticks behind
+[28Nov2024 20:52:23.506] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:26.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:26.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:27.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Angelo'/101554, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1327.51, y=65.00, z=1912.30] died: Angelo was shot by Stymphalian Bird
+[28Nov2024 20:52:33.287] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[28Nov2024 20:52:35.665] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_start
+[28Nov2024 20:52:39.136] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=-1472, y=53, z=1591} at Chest with:dungeons_enhanced:chests/castle/prison
+[28Nov2024 20:52:41.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13441ms or 268 ticks behind
+[28Nov2024 20:52:44.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:45.047] [pool-14-thread-8/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes]] from pos BlockPos{x=-1445, y=80, z=1605}
+[28Nov2024 20:52:45.082] [pool-14-thread-8/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[28Nov2024 20:52:45.475] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[28Nov2024 20:52:45.484] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[28Nov2024 20:52:46.375] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1446, y=78, z=1606} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
+[28Nov2024 20:52:46.376] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location BlockPos{x=-1446, y=78, z=1606}
+[28Nov2024 20:52:46.376] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1445, y=80, z=1605} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[28Nov2024 20:52:46.377] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1445, y=80, z=1605}
+[28Nov2024 20:52:46.377] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1446, y=77, z=1605} but found not block entity block Block{minecraft:stone_stairs}[facing=south,half=bottom,shape=straight,waterlogged=false] at location
+[28Nov2024 20:52:46.377] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=south,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=-1446, y=77, z=1605}
+[28Nov2024 20:52:46.378] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1446, y=77, z=1606} but found not block entity block Block{minecraft:stone} at location
+[28Nov2024 20:52:46.378] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1446, y=77, z=1606}
+[28Nov2024 20:52:46.684] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:46.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:46.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:48.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:48.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:49.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:52.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:52.906] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:53.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[28Nov2024 20:52:53.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:54.448] [Worker-Main-15/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-1471, y=-37, z=1530} at Chest with:minecraft:chests/simple_dungeon
+[28Nov2024 20:52:55.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:52:55.293] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/104165, l='ServerLevel[Boss_RPG_v16r2_World]', x=-908.50, y=73.00, z=-494.50]
+[28Nov2024 20:53:04.279] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[28Nov2024 20:53:04.283] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[28Nov2024 20:53:09.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12550ms or 251 ticks behind
+[28Nov2024 20:53:13.347] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-1232, y=7, z=1486} at Chest with:minecraft:chests/simple_dungeon
+[28Nov2024 20:53:17.204] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:level_three_ruins3
+[28Nov2024 20:53:34.030] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[28Nov2024 20:53:35.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10741ms or 214 ticks behind
+[28Nov2024 20:53:41.580] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:42.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:43.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:44.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:45.285] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:45.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:46.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:47.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:47.937] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[28Nov2024 20:53:47.938] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[28Nov2024 20:53:47.938] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[28Nov2024 20:53:47.938] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[28Nov2024 20:53:48.697] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:49.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:52.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/feature/wolf_fence1
+[28Nov2024 20:53:52.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/feature/campfire
+[28Nov2024 20:53:52.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/shack/shack
+[28Nov2024 20:53:52.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/shack/basement
+[28Nov2024 20:53:52.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/entity/wolf
+[28Nov2024 20:53:52.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/entity/illusioner
+[28Nov2024 20:53:52.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/entity/villager
+[28Nov2024 20:53:52.764] [Worker-Main-15/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-1375, y=-7, z=1463} at Chest with:minecraft:chests/simple_dungeon
+[28Nov2024 20:53:59.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:53:59.842] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:00.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:00.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10438ms or 208 ticks behind
+[28Nov2024 20:54:02.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:03.205] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[28Nov2024 20:54:03.211] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[28Nov2024 20:54:03.215] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[28Nov2024 20:54:03.220] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[28Nov2024 20:54:03.226] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[28Nov2024 20:54:03.232] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[28Nov2024 20:54:03.405] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:04.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:05.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:06.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:14.384] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-928, y=45, z=-780} at Chest with:minecraft:chests/simple_dungeon
+[28Nov2024 20:54:14.715] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:26.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10526ms or 210 ticks behind
+[28Nov2024 20:54:27.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:27.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:27.751] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:28.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:28.445] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:29.147] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:29.151] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:29.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:29.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:29.902] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:29.902] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:29.905] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:30.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:30.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:31.366] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:32.190] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:32.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:33.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:33.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:34.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:34.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:34.999] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:35.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:35.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:35.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:50.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9847ms or 196 ticks behind
+[28Nov2024 20:54:52.715] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:53.332] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:53.402] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:53.403] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:53.405] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:53.487] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:53.558] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:53.646] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:54.068] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:54.723] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:54.808] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:54.812] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:54.923] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:55.009] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:55.090] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:55.178] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:55.282] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:55.381] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:55.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:56.184] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:56.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:56.276] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:56.361] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:56.458] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:56.551] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:56.641] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:56.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:56.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:56.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:57.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:58.042] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.120] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.218] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:58.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.435] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.507] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.578] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.650] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.720] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.788] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.871] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:58.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:58.953] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:59.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:54:59.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:54:59.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:00.143] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:00.146] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:01.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:01.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:02.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:02.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:03.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:05.156] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:05.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:12.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:13.580] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:13.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:14.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:15.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:15.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9617ms or 192 ticks behind
+[28Nov2024 20:55:15.710] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:15.715] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:17.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:18.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:21.211] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:21.300] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:21.399] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:21.496] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:21.594] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:21.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:21.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:21.855] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:21.948] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:22.034] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:22.120] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:31.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:32.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:32.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:33.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:34.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:35.139] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:35.221] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:35.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:35.373] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:35.459] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:35.542] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:35.615] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:35.691] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:35.762] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:55:39.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8766ms or 175 ticks behind
+[28Nov2024 20:55:43.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:49.110] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/106637, l='ServerLevel[Boss_RPG_v16r2_World]', x=-865.50, y=70.00, z=-544.50]
+[28Nov2024 20:55:49.642] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:55:51.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:02.434] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:02.522] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:02.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8390ms or 167 ticks behind
+[28Nov2024 20:56:02.607] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:02.717] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:02.808] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:05.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:07.057] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:07.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:09.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:10.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:10.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:11.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:11.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:12.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:12.138] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:12.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:12.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:13.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:14.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:14.116] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:14.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:15.549] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:16.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:20.929] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:21.016] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:21.095] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:21.180] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:21.269] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:21.347] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:56:26.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8973ms or 179 ticks behind
+[28Nov2024 20:56:28.529] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/107153, l='ServerLevel[Boss_RPG_v16r2_World]', x=-865.50, y=73.00, z=-551.50]
+[28Nov2024 20:56:29.087] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:30.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:34.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:39.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:42.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:43.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:56:45.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was blown up by Crawler
+[28Nov2024 20:56:48.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/streets/corner_01
+[28Nov2024 20:56:48.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/streets/crossroad_01
+[28Nov2024 20:56:48.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/streets/crossroad_02
+[28Nov2024 20:56:48.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/tudor_lamp_1
+[28Nov2024 20:56:48.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/tudor_table_1
+[28Nov2024 20:56:48.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/terminators/terminator_01
+[28Nov2024 20:56:48.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/terminators/terminator_02
+[28Nov2024 20:56:48.104] [Server thread/DEBUG] [twilightforest/]: Player zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc) respawned and received items held in storage
+[28Nov2024 20:56:50.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8881ms or 177 ticks behind
+[28Nov2024 20:56:53.425] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[28Nov2024 20:56:53.547] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[28Nov2024 20:57:04.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_farmer
+[28Nov2024 20:57:07.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:09.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:13.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8339ms or 166 ticks behind
+[28Nov2024 20:57:24.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:33.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3
+[28Nov2024 20:57:34.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:35.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:35.741] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:36.670] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:37.338] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:38.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9962ms or 199 ticks behind
+[28Nov2024 20:57:46.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:46.855] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:47.556] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:48.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:48.848] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_7
+[28Nov2024 20:57:49.097] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:50.134] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_2
+[28Nov2024 20:57:50.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_training_grounds/target_dummy
+[28Nov2024 20:57:50.920] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_11
+[28Nov2024 20:57:52.891] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_1
+[28Nov2024 20:57:53.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:57:54.935] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_0
+[28Nov2024 20:57:59.416] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_9
+[28Nov2024 20:58:03.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:04.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:04.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:04.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11153ms or 223 ticks behind
+[28Nov2024 20:58:05.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:07.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:08.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:09.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:09.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:16.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:17.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:18.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:18.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:19.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:19.429] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:20.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:20.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:20.146] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:20.219] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:20.300] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:20.372] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:20.396] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/109568, l='ServerLevel[Boss_RPG_v16r2_World]', x=-865.50, y=73.00, z=-552.50]
+[28Nov2024 20:58:20.462] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:20.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:20.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:20.975] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:21.063] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:21.139] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:21.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:21.306] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:21.378] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:29.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10123ms or 202 ticks behind
+[28Nov2024 20:58:44.144] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/110094, l='ServerLevel[Boss_RPG_v16r2_World]', x=-864.50, y=70.00, z=-543.50]
+[28Nov2024 20:58:45.474] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:45.652] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:45.782] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Nov2024 20:58:51.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:52.104] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:52.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:53.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:54.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:54.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:54.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:55.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10522ms or 210 ticks behind
+[28Nov2024 20:58:55.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:58:56.252] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:59:03.054] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:59:03.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:59:04.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:59:08.925] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_2
+[28Nov2024 20:59:08.944] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_3
+[28Nov2024 20:59:08.959] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/town_centers/savanna_meeting_point_1
+[28Nov2024 20:59:08.969] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/town_centers/desert_meeting_point_1
+[28Nov2024 20:59:08.974] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[28Nov2024 20:59:08.980] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[28Nov2024 20:59:09.027] [Worker-Main-14/DEBUG] [ModernFix/]: Structure philipsruins:level_ruin_three6 is being run through DFU (hash 95f5e1183b03703b039b85262cbddfd6af9b12aefd169dd7d8fac518043a7d53), this will cause launch time delays
+[28Nov2024 20:59:12.904] [Worker-Main-15/DEBUG] [ModernFix/]: Structure philipsruins:ancient_ruin_29 is being run through DFU (hash 08bc75ee2f19f36e3f5e1d95a3230f13567f3f31744b941dc97cd1e0bed2619d), this will cause launch time delays
+[28Nov2024 20:59:20.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9965ms or 199 ticks behind
+[28Nov2024 20:59:29.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin lost connection: Disconnected
+[28Nov2024 20:59:29.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin left the game
+[28Nov2024 20:59:29.986] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 349e4b3a-0018-34a8-a2fc-69a3b99167cc
+[28Nov2024 20:59:33.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[28Nov2024 20:59:33.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:castle/top2
+[28Nov2024 20:59:33.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:castle/bottom2
+[28Nov2024 20:59:36.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[28Nov2024 20:59:36.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[28Nov2024 20:59:36.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_8

@@ -139,6 +139,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-11-28 20:46:38 +0000",
       "shrubland": "2024-11-28 18:58:14 +0000",
       "rocky_shrubland": "2024-11-28 20:04:50 +0000",
       "highland": "2024-11-28 18:56:09 +0000",
@@ -413,6 +414,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-11-28 18:48:13 +0000",
+      "minecraft:frozen_river": "2024-11-28 20:49:39 +0000",
       "minecraft:birch_forest": "2024-11-28 18:52:38 +0000",
       "minecraft:beach": "2024-11-28 18:42:19 +0000",
       "minecraft:river": "2024-11-28 18:48:38 +0000",
@@ -447,6 +449,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_castle": "2024-11-28 20:46:47 +0000",
       "entered_ruined_building": "2024-11-28 18:45:03 +0000"
     },
     "done": false
@@ -7165,6 +7168,7 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "sweetpotato_seed": "2024-11-28 20:43:54 +0000",
       "soybean_seed": "2024-11-28 20:24:55 +0000"
     },
     "done": false
@@ -7201,6 +7205,7 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "sweetpotato_seed": "2024-11-28 20:43:54 +0000",
       "soybean_seed": "2024-11-28 20:24:55 +0000"
     },
     "done": false
@@ -7367,6 +7372,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2024-11-28 20:43:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2024-11-28 20:46:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-28 20:38:29 +0000"
@@ -7376,6 +7393,12 @@
   "diamethysts:items/diamethyst_prismarine_scales": {
     "criteria": {
       "has_items": "2024-11-28 20:42:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sweet_potato_fries": {
+    "criteria": {
+      "has_sweetpotatos": "2024-11-28 20:43:54 +0000"
     },
     "done": true
   },
@@ -7397,6 +7420,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2024-11-28 20:46:47 +0000"
+    },
+    "done": false
+  },
   "diamethysts:weapons/diamethyst_diamond_bow": {
     "criteria": {
       "has_string": "2024-11-28 20:38:29 +0000"
@@ -7415,15 +7444,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-11-28 20:51:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2024-11-28 20:36:20 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/sweetpotato_seed": {
+    "criteria": {
+      "has_sweetpotato": "2024-11-28 20:43:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2024-11-28 20:36:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2024-11-28 20:46:47 +0000"
     },
     "done": true
   },
@@ -7436,6 +7483,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-11-28 20:36:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_baked_sweet_potato": {
+    "criteria": {
+      "has_sweetpotato": "2024-11-28 20:43:54 +0000"
     },
     "done": true
   },
@@ -7469,6 +7522,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2024-11-28 20:50:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2024-11-28 20:36:20 +0000"
@@ -7496,6 +7555,12 @@
   "diamethysts:weapons/diamethyst_gold_bow": {
     "criteria": {
       "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2024-11-28 20:43:54 +0000"
     },
     "done": true
   },

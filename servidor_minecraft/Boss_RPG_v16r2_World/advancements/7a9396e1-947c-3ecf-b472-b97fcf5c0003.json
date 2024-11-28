@@ -1483,6 +1483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-11-28 20:50:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2024-11-28 18:47:35 +0000"
@@ -2523,6 +2529,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-11-28 20:50:30 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-11-28 18:48:39 +0000"
@@ -3120,6 +3132,12 @@
   "supplementaries:recipes/daub_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-11-28 18:47:39 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_illager_manor": "2024-11-28 20:49:40 +0000"
     },
     "done": true
   },
@@ -3921,6 +3939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-11-28 20:50:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_horse_trophy": {
     "criteria": {
       "has_skeleton_horse_trophy": "2024-11-28 18:47:35 +0000"
@@ -4200,6 +4224,12 @@
   "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 19:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-11-28 20:50:30 +0000"
     },
     "done": true
   },
@@ -4673,6 +4703,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2024-11-28 20:50:15 +0000",
       "entered_ruined_building": "2024-11-28 18:53:18 +0000"
     },
     "done": false
@@ -4747,6 +4778,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-28 19:36:05 +0000",
       "minecraft:skeleton": "2024-11-28 19:12:11 +0000",
+      "minecraft:vindicator": "2024-11-28 20:49:48 +0000",
       "minecraft:spider": "2024-11-28 18:51:15 +0000",
       "minecraft:cave_spider": "2024-11-28 20:41:28 +0000",
       "minecraft:zombie": "2024-11-28 18:49:43 +0000"
@@ -4960,6 +4992,12 @@
   "another_furniture:recipes/white_stool": {
     "criteria": {
       "has_wool": "2024-11-28 18:50:55 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_manor": {
+    "criteria": {
+      "nova_structures:illager_manor": "2024-11-28 20:49:40 +0000"
     },
     "done": true
   },
@@ -5419,6 +5457,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-11-28 20:50:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2024-11-28 18:58:14 +0000"
@@ -5764,6 +5808,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-11-28 19:24:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-11-28 20:45:27 +0000"
     },
     "done": true
   },
@@ -6297,6 +6347,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "illager_manor": "2024-11-28 20:49:40 +0000",
       "illager_camp": "2024-11-28 20:01:01 +0000"
     },
     "done": false
@@ -6412,6 +6463,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-28 19:00:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-11-28 20:50:30 +0000"
     },
     "done": true
   },
@@ -6550,6 +6607,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 19:00:22 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-11-28 20:44:12 +0000"
     },
     "done": true
   },
@@ -6819,6 +6882,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-11-28 20:50:19 +0000"
     },
     "done": true
   },
@@ -7735,6 +7804,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-11-28 20:50:30 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2024-11-28 18:50:55 +0000"
@@ -7812,6 +7887,7 @@
       "minecraft:cherry_grove": "2024-11-28 18:52:45 +0000",
       "minecraft:sunflower_plains": "2024-11-28 18:53:01 +0000",
       "minecraft:beach": "2024-11-28 18:51:27 +0000",
+      "minecraft:dark_forest": "2024-11-28 20:48:34 +0000",
       "minecraft:river": "2024-11-28 18:51:45 +0000",
       "minecraft:stony_shore": "2024-11-28 18:47:55 +0000",
       "minecraft:dripstone_caves": "2024-11-28 19:03:46 +0000",
