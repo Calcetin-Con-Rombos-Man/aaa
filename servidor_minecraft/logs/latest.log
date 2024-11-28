@@ -2871,3 +2871,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 18:22:39.773] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
 [28Nov2024 18:24:26.813] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
 [28Nov2024 18:24:33.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Battle Towers?]
+[28Nov2024 18:26:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was slain by Zombie
+[28Nov2024 18:26:04.359] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[28Nov2024 18:26:05.459] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[28Nov2024 18:26:07.214] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[28Nov2024 18:26:09.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Creative Mode]
+[28Nov2024 18:26:13.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to 5514.500000, 85.500000, 244.500000]
+[28Nov2024 18:26:55.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Survival Mode]
+[28Nov2024 18:28:06.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Convergent Evolution...]
+[28Nov2024 18:28:38.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[28Nov2024 18:29:31.621] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
