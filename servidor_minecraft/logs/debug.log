@@ -22956,3 +22956,151 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [28Nov2024 19:57:38.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin_18
 [28Nov2024 19:57:38.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:stables
 [28Nov2024 19:57:39.602] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_8
+[28Nov2024 19:57:45.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[28Nov2024 19:58:04.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3753ms or 75 ticks behind
+[28Nov2024 19:58:08.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:58:09.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:58:09.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:58:10.369] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:58:10.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:58:11.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:58:18.300] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:58:23.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
+[28Nov2024 19:58:36.133] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_11
+[28Nov2024 19:58:37.496] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-1513, y=-24, z=735} at Chest with:minecraft:chests/simple_dungeon
+[28Nov2024 19:58:39.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:58:40.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:58:40.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:58:42.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3626ms or 72 ticks behind
+[28Nov2024 19:58:59.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[28Nov2024 19:59:21.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Nov2024 19:59:31.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:59:33.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[28Nov2024 19:59:33.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[28Nov2024 19:59:36.440] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:59:37.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:59:39.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[28Nov2024 19:59:52.671] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_10
+[28Nov2024 19:59:55.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:59:56.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
+[28Nov2024 19:59:56.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:00:02.296] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:00:03.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:00:04.638] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:00:04.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:00:13.479] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[28Nov2024 20:00:13.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[28Nov2024 20:00:33.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Nov2024 20:00:51.802] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:iceologer_cabin/base_plate
+[28Nov2024 20:00:52.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[28Nov2024 20:00:53.318] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_9
+[28Nov2024 20:00:55.357] [pool-14-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes]] from pos BlockPos{x=-1515, y=68, z=1019}
+[28Nov2024 20:00:55.361] [pool-14-thread-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[28Nov2024 20:00:55.400] [pool-14-thread-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[28Nov2024 20:00:55.428] [pool-14-thread-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[28Nov2024 20:00:55.444] [pool-14-thread-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[28Nov2024 20:00:55.524] [pool-14-thread-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[28Nov2024 20:00:55.755] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[28Nov2024 20:00:55.760] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[28Nov2024 20:00:55.776] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[28Nov2024 20:00:55.782] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[28Nov2024 20:00:55.792] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[28Nov2024 20:00:55.799] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_03
+[28Nov2024 20:00:55.802] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_4
+[28Nov2024 20:00:55.803] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_03
+[28Nov2024 20:00:55.806] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_3
+[28Nov2024 20:00:55.807] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_1
+[28Nov2024 20:00:55.807] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_5
+[28Nov2024 20:00:55.808] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_fisher_1
+[28Nov2024 20:00:55.810] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/med_lamp_1
+[28Nov2024 20:00:55.816] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[28Nov2024 20:00:55.820] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/corner/med_small_house_1
+[28Nov2024 20:00:55.826] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_01
+[28Nov2024 20:00:55.826] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_02
+[28Nov2024 20:00:55.827] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/avenue/avenue_end_01
+[28Nov2024 20:00:55.827] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/avenue/avenue_end_02
+[28Nov2024 20:00:55.827] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_05
+[28Nov2024 20:00:55.838] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_04
+[28Nov2024 20:00:55.842] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/med_planter_1
+[28Nov2024 20:00:55.850] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_01
+[28Nov2024 20:00:55.850] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_02
+[28Nov2024 20:00:55.851] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/promenade/promenade_end_02
+[28Nov2024 20:00:55.851] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/terminators/promenade/promenade_end_01
+[28Nov2024 20:00:55.872] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/corner/med_small_house_2
+[28Nov2024 20:00:55.954] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_2
+[28Nov2024 20:00:55.956] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/houses/regular/med_farmer_and_mason_1
+[28Nov2024 20:00:56.414] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[28Nov2024 20:01:03.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:01:04.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:01:04.730] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:01:05.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:01:06.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:01:06.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [A Chip Off The Old Block!]
+[28Nov2024 20:01:10.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3558ms or 71 ticks behind
+[28Nov2024 20:01:28.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[28Nov2024 20:01:34.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin fell from a high place
+[28Nov2024 20:01:36.254] [Server thread/DEBUG] [twilightforest/]: Player Pilin (349e4b3a-0018-34a8-a2fc-69a3b99167cc) respawned and received items held in storage
+[28Nov2024 20:01:46.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[28Nov2024 20:01:46.798] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:miners_house
+[28Nov2024 20:01:46.817] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:monster_maze/root
+[28Nov2024 20:01:46.831] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_pyramid2
+[28Nov2024 20:01:47.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:01:50.474] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:01:51.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:01:51.741] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_7
+[28Nov2024 20:02:03.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
+[28Nov2024 20:02:24.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[28Nov2024 20:02:51.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[28Nov2024 20:03:08.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[28Nov2024 20:03:26.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:26.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind
+[28Nov2024 20:03:28.352] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[28Nov2024 20:03:28.355] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[28Nov2024 20:03:28.359] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[28Nov2024 20:03:28.361] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[28Nov2024 20:03:28.365] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[28Nov2024 20:03:28.367] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[28Nov2024 20:03:28.418] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[28Nov2024 20:03:28.842] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:29.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:31.305] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:32.919] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:33.882] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[28Nov2024 20:03:34.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:35.369] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:35.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:38.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:39.347] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:40.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:03:46.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4165ms or 83 ticks behind
+[28Nov2024 20:04:04.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3913ms or 78 ticks behind
+[28Nov2024 20:04:06.899] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[28Nov2024 20:04:13.865] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_6
+[28Nov2024 20:04:25.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5905ms or 118 ticks behind
+[28Nov2024 20:04:31.009] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of underground_jungle:temple_3
+[28Nov2024 20:04:31.022] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[28Nov2024 20:04:31.776] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_5
+[28Nov2024 20:04:46.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6052ms or 121 ticks behind
+[28Nov2024 20:05:06.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4836ms or 96 ticks behind
+[28Nov2024 20:05:26.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4627ms or 92 ticks behind
+[28Nov2024 20:05:34.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[28Nov2024 20:05:34.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[28Nov2024 20:05:46.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5501ms or 110 ticks behind
+[28Nov2024 20:06:05.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4144ms or 82 ticks behind
+[28Nov2024 20:06:08.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: Disconnected
+[28Nov2024 20:06:08.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[28Nov2024 20:06:08.247] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 433be659-15d5-3745-9436-55cee3bfccfc
+[28Nov2024 20:06:53.234] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[28Nov2024 20:06:53.387] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[28Nov2024 20:07:01.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Ace Trainer]
+[28Nov2024 20:07:48.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:07:49.429] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:07:50.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:07:50.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:07:52.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:07:52.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:07:53.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:07:54.196] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:07:54.858] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:07:57.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 20:07:57.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
