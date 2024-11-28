@@ -2881,3 +2881,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 18:28:06.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Convergent Evolution...]
 [28Nov2024 18:28:38.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [28Nov2024 18:29:31.621] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[28Nov2024 18:40:16.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zxymatthewyxz[/100.120.204.40:53450] logged in with entity id 6224 at (-45.5, 68.0, 81.5)
+[28Nov2024 18:40:16.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zxymatthewyxz
+[28Nov2024 18:40:16.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zxymatthewyxz
+[28Nov2024 18:40:16.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zxymatthewyxz
+[28Nov2024 18:40:16.380] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zxymatthewyxz
+[28Nov2024 18:40:16.383] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zxymatthewyxz
+[28Nov2024 18:40:16.386] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zxymatthewyxz
+[28Nov2024 18:40:16.386] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zxymatthewyxz
+[28Nov2024 18:40:16.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz joined the game
+[28Nov2024 18:40:16.439] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 433be659-15d5-3745-9436-55cee3bfccfc
+[28Nov2024 18:40:16.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Sustainability]
+[28Nov2024 18:40:16.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Ice and Fire]
+[28Nov2024 18:40:47.001] [defaultEventExecutorGroup-3-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting su/plo/voice/proto/data/audio/source/SourceInfo$Type
+[28Nov2024 18:42:03.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[28Nov2024 18:42:16.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[28Nov2024 18:42:16.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pilin> 5567 77 274
+[28Nov2024 18:42:20.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[28Nov2024 18:42:27.244] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[28Nov2024 18:42:27.245] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[28Nov2024 18:42:27.246] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[28Nov2024 18:42:27.246] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[28Nov2024 18:42:35.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was shot by Mutant Skeleton
+[28Nov2024 18:43:59.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bud'/115, l='ServerLevel[Boss_RPG_v16r2_World]', x=-164.70, y=83.00, z=141.69] died, message: 'Bud was slain by Ghost'
+[28Nov2024 18:43:59.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Bud'/115, l='ServerLevel[Boss_RPG_v16r2_World]', x=-164.70, y=83.00, z=141.69] died: Bud was slain by Ghost
+[28Nov2024 18:44:00.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[28Nov2024 18:44:05.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz fell from a high place

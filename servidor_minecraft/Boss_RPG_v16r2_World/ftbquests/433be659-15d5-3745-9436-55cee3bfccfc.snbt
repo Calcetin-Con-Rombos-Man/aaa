@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "433be65915d53745943655cee3bfccfc"
+	name: "zxymatthewyxz#433be659"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0F998B5ABA5A3DE8: 1
+	}
+	started: {
+		0F998B5ABA5A3DE8: 1732819216452L
+		0496E8E786262464: 1732819216452L
+		0000000000000001: 1732819216452L
+		59395B6806F2A98A: 1732819216452L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
