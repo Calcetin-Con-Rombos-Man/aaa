@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -518,6 +524,12 @@
   "stoneworks:recipes/building_blocks/cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -1022,6 +1034,7 @@
   "morevillagers:all_professions_traded": {
     "criteria": {
       "fletcher": "2024-11-28 19:42:28 +0000",
+      "librarian": "2024-11-28 20:22:32 +0000",
       "armorer": "2024-11-28 19:45:04 +0000"
     },
     "done": false
@@ -1242,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glacia_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_battleaxe": {
     "criteria": {
       "has_cobblestone": "2024-11-28 18:47:57 +0000"
@@ -1299,6 +1318,12 @@
   "spartanweaponry:recipes/wooden_throwing_knife": {
     "criteria": {
       "has_wood": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -1902,6 +1927,18 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-11-28 19:10:57 +0000"
@@ -2013,6 +2050,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2024-11-28 18:47:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -2153,6 +2196,12 @@
   "spartanweaponry:recipes/golden_throwing_knife": {
     "criteria": {
       "has_gold_ingot": "2024-11-28 20:01:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -2402,6 +2451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_ruined_building": "2024-11-28 18:53:18 +0000"
@@ -2624,6 +2679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jellyshroom_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tile_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:00:20 +0000"
@@ -2675,6 +2736,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-11-28 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -2801,6 +2868,12 @@
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_leather": "2024-11-28 18:51:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -3354,6 +3427,12 @@
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -3968,6 +4047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blightwillow_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-11-28 19:11:58 +0000"
@@ -4355,6 +4440,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -4448,6 +4539,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_spruce_planks": "2024-11-28 18:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -5207,6 +5304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-11-28 19:24:04 +0000"
@@ -5264,6 +5367,12 @@
   "diamethysts:armor/diamethyst_quartz_shield": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -5528,6 +5637,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -5972,6 +6087,12 @@
   "spartanweaponry:recipes/wooden_pike": {
     "criteria": {
       "has_wood": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -6450,6 +6571,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2024-11-28 18:58:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
@@ -7156,6 +7283,12 @@
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/fieldsproot_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-28 20:23:03 +0000"
     },
     "done": true
   },
