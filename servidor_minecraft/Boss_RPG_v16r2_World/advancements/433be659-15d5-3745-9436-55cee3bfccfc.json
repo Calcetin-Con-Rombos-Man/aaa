@@ -153,6 +153,7 @@
       "spider_nest": "2024-11-28 19:39:20 +0000",
       "dune_beach": "2024-11-28 18:42:28 +0000",
       "lavender_field": "2024-11-28 18:40:17 +0000",
+      "fir_clearing": "2024-11-28 20:43:36 +0000",
       "grassland": "2024-11-28 18:56:03 +0000"
     },
     "done": false
@@ -7330,9 +7331,51 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_prismarine_fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2024-11-28 20:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_prismarine_scales": {
+    "criteria": {
+      "has_items": "2024-11-28 20:42:13 +0000"
     },
     "done": true
   },
@@ -7342,9 +7385,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_lapis_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_diamond_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-11-28 20:36:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
     },
     "done": true
   },
@@ -7360,15 +7427,39 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_quartz_fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-11-28 20:36:20 +0000"
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_iron_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_copper_fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-11-28 20:36:20 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_emerald_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
     },
     "done": true
   },
@@ -7384,9 +7475,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-11-28 20:42:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-11-28 20:36:20 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_gold_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
     },
     "done": true
   },
@@ -7402,15 +7511,45 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-11-28 20:36:23 +0000"
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_quartz_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_gold_fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-11-28 20:36:20 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_prismarine_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
     },
     "done": true
   },
@@ -7423,6 +7562,24 @@
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-11-28 20:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_copper_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-28 20:38:29 +0000"
     },
     "done": true
   },

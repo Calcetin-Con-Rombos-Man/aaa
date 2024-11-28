@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2024-11-28 19:24:04 +0000"
@@ -122,6 +128,12 @@
   "stoneworks:recipes/building_blocks/cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_acacia_table": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -161,6 +173,18 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-11-28 20:36:51 +0000"
@@ -188,6 +212,12 @@
   "spartanweaponry:recipes/diamond_quarterstaff": {
     "criteria": {
       "has_diamond": "2024-11-28 19:11:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/acacia_table": {
+    "criteria": {
+      "has_bamboo": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -227,6 +257,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/acacia_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:00:20 +0000"
@@ -254,6 +290,18 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-11-28 19:02:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_prismarine_fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
     },
     "done": true
   },
@@ -287,6 +335,12 @@
     },
     "done": true
   },
+  "deep_aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_quail_egg": "2024-11-28 20:38:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2024-11-28 18:48:39 +0000"
@@ -308,6 +362,18 @@
   "spartanweaponry:recipes/stone_battle_hammer": {
     "criteria": {
       "has_cobblestone": "2024-11-28 18:47:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -350,6 +416,12 @@
   "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 18:58:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -533,6 +605,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_cupboard": {
+    "criteria": {
+      "has_acacia_cupboard": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-11-28 20:23:03 +0000"
@@ -665,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/gray_cushion": {
     "criteria": {
       "has_gray_cushion": "2024-11-28 18:51:06 +0000"
@@ -707,9 +791,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_desk": {
+    "criteria": {
+      "has_acacia_desk": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -722,6 +818,12 @@
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
     },
     "done": true
   },
@@ -851,6 +953,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_fancy_bed": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -938,6 +1046,12 @@
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2024-11-28 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_dining_bench": {
+    "criteria": {
+      "has_acacia_dining_bench": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -1075,6 +1189,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_pillar_trim": {
     "criteria": {
       "has_granite_pillar_trim": "2024-11-28 18:58:44 +0000"
@@ -1123,6 +1243,12 @@
     },
     "done": true
   },
+  "deep_aether:recipes/food/cake": {
+    "criteria": {
+      "has_quail_egg": "2024-11-28 20:38:45 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mixed_bricks": {
     "criteria": {
       "has_item": "2024-11-28 18:58:22 +0000"
@@ -1165,6 +1291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_glaive": {
     "criteria": {
       "has_gold_ingot": "2024-11-28 20:01:15 +0000"
@@ -1174,6 +1306,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2024-11-28 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_chair": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -1243,6 +1381,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2024-11-28 18:58:44 +0000"
@@ -1252,6 +1402,18 @@
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -1303,6 +1465,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -1330,6 +1498,12 @@
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 19:00:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -1759,6 +1933,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_acacia_pillar_trim": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2024-11-28 18:47:35 +0000"
@@ -1945,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_copper_bow_lower_section": {
     "criteria": {
       "has_stick": "2024-11-28 18:47:39 +0000"
@@ -2065,6 +2251,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_basin": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -2125,9 +2317,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_boomerang": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -2232,6 +2436,12 @@
   "spartanweaponry:recipes/golden_throwing_knife": {
     "criteria": {
       "has_gold_ingot": "2024-11-28 20:01:15 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_lapis_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
     },
     "done": true
   },
@@ -2340,6 +2550,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/strung_lapis": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
     },
     "done": true
   },
@@ -2595,6 +2811,12 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_diamond_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2024-11-28 18:55:48 +0000"
@@ -2625,6 +2847,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-11-28 18:48:39 +0000"
@@ -2634,6 +2862,12 @@
   "twigs:recipes/rocky_dirt": {
     "criteria": {
       "has_item": "2024-11-28 19:32:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2024-11-28 20:38:45 +0000"
     },
     "done": true
   },
@@ -2658,6 +2892,12 @@
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2024-11-28 20:38:45 +0000"
     },
     "done": true
   },
@@ -2751,6 +2991,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_tall_stool": {
     "criteria": {
       "has_wool": "2024-11-28 18:51:06 +0000"
@@ -2826,6 +3072,12 @@
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -2964,6 +3216,12 @@
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2024-11-28 20:38:45 +0000"
     },
     "done": true
   },
@@ -3207,6 +3465,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2024-11-28 20:38:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_longbow": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -3247,6 +3511,12 @@
     "criteria": {
       "has_item": "2024-11-28 19:11:58 +0000",
       "has_the_recipe": "2024-11-28 19:11:58 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_quartz_fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
     },
     "done": true
   },
@@ -3340,6 +3610,12 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_iron_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-11-28 18:48:39 +0000"
@@ -3379,6 +3655,12 @@
   "another_furniture:recipes/mangrove_drawer": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -3475,6 +3757,12 @@
   "blue_skies:recipes/building_blocks/lunar_bookshelf": {
     "criteria": {
       "has_item": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_copper_fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
     },
     "done": true
   },
@@ -3735,6 +4023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
@@ -3915,6 +4209,12 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_emerald_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "diamethysts:story/root": {
     "criteria": {
       "crafting_table": "2024-11-28 18:47:39 +0000"
@@ -4071,6 +4371,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_lapis_fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_katana": {
     "criteria": {
       "has_cobblestone": "2024-11-28 18:47:57 +0000"
@@ -4176,6 +4482,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_acacia_shelf": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -4311,6 +4623,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/acacia_table": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-28 19:09:06 +0000"
@@ -4407,6 +4725,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_acacia_chair": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/leather_bound_stick": {
     "criteria": {
       "has_stick": "2024-11-28 18:47:39 +0000"
@@ -4424,6 +4748,7 @@
       "minecraft:pillager": "2024-11-28 19:36:05 +0000",
       "minecraft:skeleton": "2024-11-28 19:12:11 +0000",
       "minecraft:spider": "2024-11-28 18:51:15 +0000",
+      "minecraft:cave_spider": "2024-11-28 20:41:28 +0000",
       "minecraft:zombie": "2024-11-28 18:49:43 +0000"
     },
     "done": false
@@ -4596,6 +4921,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-11-28 20:23:03 +0000"
@@ -4617,6 +4948,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-11-28 18:54:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2024-11-28 20:38:45 +0000"
     },
     "done": true
   },
@@ -4644,9 +4981,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-11-28 18:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-11-28 20:37:42 +0000"
     },
     "done": true
   },
@@ -4665,6 +5014,12 @@
   "stoneworks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 18:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -4740,6 +5095,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-11-28 20:37:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -4812,6 +5173,12 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2024-11-28 18:48:39 +0000"
@@ -4848,6 +5215,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_acacia_corner_trim": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/strung_diamond": {
     "criteria": {
       "has_gem": "2024-11-28 19:11:58 +0000"
@@ -4857,6 +5230,12 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2024-11-28 18:58:14 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_gold_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
     },
     "done": true
   },
@@ -5196,6 +5575,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2024-11-28 20:38:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2024-11-28 18:48:44 +0000"
@@ -5223,6 +5608,12 @@
   "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 19:00:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -5313,6 +5704,12 @@
   "twigs:recipes/bricks/mixed_bricks_stonecutting": {
     "criteria": {
       "has_item": "2024-11-28 18:58:22 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_acacia": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -5421,6 +5818,12 @@
   "diamethysts:armor/diamethyst_quartz_shield": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_acacia_couch": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -5598,6 +6001,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-11-28 19:11:58 +0000"
@@ -5625,6 +6034,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-11-28 18:47:57 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_quartz_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
     },
     "done": true
   },
@@ -5694,6 +6109,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_acacia_bench": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2024-11-28 20:23:03 +0000"
@@ -5751,6 +6172,12 @@
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2024-11-28 18:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-11-28 20:38:45 +0000"
     },
     "done": true
   },
@@ -5856,6 +6283,12 @@
     },
     "done": true
   },
+  "deep_aether:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_quail_egg": "2024-11-28 20:38:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -5946,6 +6379,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-11-28 20:38:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_halberd": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -6024,6 +6463,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2024-11-28 18:51:06 +0000"
@@ -6060,9 +6505,21 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_prismarine_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-11-28 19:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -6099,6 +6556,12 @@
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2024-11-28 19:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
     },
     "done": true
   },
@@ -6188,6 +6651,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 19:00:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -6317,6 +6786,12 @@
     },
     "done": true
   },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2024-11-28 20:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -6431,6 +6906,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2024-11-28 18:58:14 +0000"
@@ -6464,6 +6945,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-28 19:09:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -6542,6 +7029,12 @@
   "spartanweaponry:recipes/golden_javelin": {
     "criteria": {
       "has_gold_ingot": "2024-11-28 20:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -6632,6 +7125,12 @@
   "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2024-11-28 20:23:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -6845,6 +7344,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2024-11-28 19:24:04 +0000"
@@ -7010,6 +7515,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2024-11-28 20:40:34 +0000"
     },
     "done": true
   },
@@ -7206,6 +7717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_stool": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
@@ -7389,6 +7906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-11-28 20:37:42 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_crystal": {
     "criteria": {
       "has_items": "2024-11-28 20:01:06 +0000"
@@ -7443,6 +7966,12 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_copper_bow": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
@@ -7488,6 +8017,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-28 20:41:35 +0000"
     },
     "done": true
   },
