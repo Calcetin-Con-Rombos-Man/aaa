@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 20:36:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2024-11-28 18:48:44 +0000"
@@ -545,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-28 20:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-11-28 18:48:39 +0000"
@@ -566,6 +578,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-11-28 20:36:47 +0000"
     },
     "done": true
   },
@@ -1465,6 +1483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 20:36:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-11-28 18:47:39 +0000"
@@ -1813,6 +1837,12 @@
     },
     "done": true
   },
+  "seeds:does_not_die_easily": {
+    "criteria": {
+      "does_not_die_easily": "2024-11-28 20:31:54 +0000"
+    },
+    "done": true
+  },
   "diamethysts:items/diamethyst_bow_upper_section": {
     "criteria": {
       "has_item2": "2024-11-28 18:47:39 +0000"
@@ -2098,6 +2128,12 @@
   "spartanweaponry:recipes/iron_boomerang": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-11-28 20:30:19 +0000"
     },
     "done": true
   },
@@ -2472,6 +2508,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-11-28 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-11-28 20:30:19 +0000"
     },
     "done": true
   },
@@ -3651,6 +3693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-11-28 20:36:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -3768,6 +3816,12 @@
   "spartanweaponry:recipes/wooden_scythe": {
     "criteria": {
       "has_wood": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "seeds:forged_in_the_twilight": {
+    "criteria": {
+      "forged_in_the_twilight": "2024-11-28 20:32:13 +0000"
     },
     "done": true
   },
@@ -6120,6 +6174,7 @@
       "rocky_shrubland": "2024-11-28 19:27:13 +0000",
       "dune_beach": "2024-11-28 18:51:28 +0000",
       "lavender_field": "2024-11-28 18:46:29 +0000",
+      "grassland": "2024-11-28 20:32:54 +0000",
       "prairie": "2024-11-28 19:47:43 +0000"
     },
     "done": false
@@ -6739,6 +6794,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
       "has_spruce_planks": "2024-11-28 18:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 20:36:51 +0000"
     },
     "done": true
   },
