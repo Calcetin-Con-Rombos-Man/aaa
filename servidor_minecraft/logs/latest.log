@@ -3002,3 +3002,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 18:55:57.481] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
 [28Nov2024 18:56:00.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2978ms or 59 ticks behind
 [28Nov2024 18:56:18.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[28Nov2024 18:56:37.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
+[28Nov2024 18:56:57.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Suit Up]
+[28Nov2024 18:56:58.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Acquire Hardware]
+[28Nov2024 18:57:00.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Nov2024 18:57:06.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Diamonds!]
+[28Nov2024 18:57:08.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Amateur Archaeologist]
+[28Nov2024 18:57:18.524] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-388, y=-22, z=-539} but found not block entity block Block{minecraft:cave_air} at location
+[28Nov2024 18:57:18.524] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-388, y=-22, z=-539}
+[28Nov2024 18:57:19.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4319ms or 86 ticks behind
+[28Nov2024 18:57:22.187] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[28Nov2024 18:57:39.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4555ms or 91 ticks behind
+[28Nov2024 18:57:52.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Dark Metallurgy]
+[28Nov2024 18:57:59.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Nov2024 18:58:16.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[28Nov2024 18:58:36.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Richie'/17421, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1310.30, y=87.00, z=968.34] died, message: 'Richie was slain by Equestrian'
+[28Nov2024 18:58:36.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Richie'/17421, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1310.30, y=87.00, z=968.34] died: Richie was slain by Equestrian
+[28Nov2024 18:58:43.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Nov2024 18:58:50.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Monster Hunter]
+[28Nov2024 18:58:56.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Galen'/17343, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1297.35, y=86.00, z=969.99] died, message: 'Galen was slain by Richie'
+[28Nov2024 18:58:56.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Galen'/17343, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1297.35, y=86.00, z=969.99] died: Galen was slain by Richie
+[28Nov2024 18:59:02.730] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mandie'/17344, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1290.59, y=85.00, z=980.60] died, message: 'Mandie was slain by Equestrian'
+[28Nov2024 18:59:02.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mandie'/17344, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1290.59, y=85.00, z=980.60] died: Mandie was slain by Equestrian
+[28Nov2024 18:59:03.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Nov2024 18:59:05.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by Zombie
+[28Nov2024 18:59:22.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4113ms or 82 ticks behind
+[28Nov2024 18:59:47.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Nov2024 19:00:13.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Nov2024 19:00:32.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[28Nov2024 19:00:50.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Nov2024 19:01:09.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[28Nov2024 19:01:29.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Nov2024 19:01:52.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[28Nov2024 19:02:10.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Nov2024 19:02:15.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Stone Age]
+[28Nov2024 19:02:28.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[28Nov2024 19:02:53.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Nov2024 19:03:07.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [First Mistake]
+[28Nov2024 19:03:12.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[28Nov2024 19:03:31.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[28Nov2024 19:03:48.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[28Nov2024 19:04:11.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Nov2024 19:04:33.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: Disconnected
+[28Nov2024 19:04:33.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[28Nov2024 19:04:33.925] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 433be659-15d5-3745-9436-55cee3bfccfc

@@ -16114,3 +16114,127 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 18:56:19.104] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_iceandfire:village/plains_scriber_1
 [28Nov2024 18:56:19.353] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
 [28Nov2024 18:56:19.386] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[28Nov2024 18:56:21.059] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[28Nov2024 18:56:21.076] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[28Nov2024 18:56:24.283] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_pyramid1
+[28Nov2024 18:56:24.293] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:mod_structures/desert_ruin7
+[28Nov2024 18:56:37.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
+[28Nov2024 18:56:51.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:56:51.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:56:52.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:56:53.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:56:53.062] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[28Nov2024 18:56:53.184] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[28Nov2024 18:56:57.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Suit Up]
+[28Nov2024 18:56:57.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:56:58.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Acquire Hardware]
+[28Nov2024 18:56:59.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:00.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:00.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Nov2024 18:57:06.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Diamonds!]
+[28Nov2024 18:57:08.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Amateur Archaeologist]
+[28Nov2024 18:57:13.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_21
+[28Nov2024 18:57:13.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room2
+[28Nov2024 18:57:13.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/tunnel
+[28Nov2024 18:57:13.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room_small1
+[28Nov2024 18:57:17.323] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-423, y=65, z=-520} at Chest with:minecraft:chests/village/village_armorer
+[28Nov2024 18:57:18.524] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-388, y=-22, z=-539} but found not block entity block Block{minecraft:cave_air} at location
+[28Nov2024 18:57:18.524] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-388, y=-22, z=-539}
+[28Nov2024 18:57:18.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_4
+[28Nov2024 18:57:19.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4319ms or 86 ticks behind
+[28Nov2024 18:57:22.187] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[28Nov2024 18:57:23.391] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-437, y=12, z=-410} at Barrel with:minecraft:chests/abandoned_mineshaft
+[28Nov2024 18:57:24.299] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:24.464] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[28Nov2024 18:57:26.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:27.062] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:27.782] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:30.280] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:32.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:32.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:33.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:34.657] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:tower_of_the_undead/small
+[28Nov2024 18:57:35.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:39.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4555ms or 91 ticks behind
+[28Nov2024 18:57:40.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:40.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:41.325] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:41.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:42.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:44.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:45.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:45.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:46.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:47.285] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:49.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:49.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:50.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:57:52.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Dark Metallurgy]
+[28Nov2024 18:57:59.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Nov2024 18:58:04.709] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_11
+[28Nov2024 18:58:16.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[28Nov2024 18:58:19.233] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:toxic_ruins_10
+[28Nov2024 18:58:36.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Richie'/17421, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1310.30, y=87.00, z=968.34] died, message: 'Richie was slain by Equestrian'
+[28Nov2024 18:58:36.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Richie'/17421, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1310.30, y=87.00, z=968.34] died: Richie was slain by Equestrian
+[28Nov2024 18:58:39.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:41.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:41.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:42.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:43.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Nov2024 18:58:43.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:44.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:44.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:47.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:48.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:49.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:50.253] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:50.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:50.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Monster Hunter]
+[28Nov2024 18:58:51.536] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 18:58:56.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Galen'/17343, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1297.35, y=86.00, z=969.99] died, message: 'Galen was slain by Richie'
+[28Nov2024 18:58:56.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Galen'/17343, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1297.35, y=86.00, z=969.99] died: Galen was slain by Richie
+[28Nov2024 18:59:02.730] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mandie'/17344, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1290.59, y=85.00, z=980.60] died, message: 'Mandie was slain by Equestrian'
+[28Nov2024 18:59:02.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mandie'/17344, l='ServerLevel[Boss_RPG_v16r2_World]', x=-1290.59, y=85.00, z=980.60] died: Mandie was slain by Equestrian
+[28Nov2024 18:59:03.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Nov2024 18:59:05.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by Zombie
+[28Nov2024 18:59:06.584] [Server thread/DEBUG] [twilightforest/]: Player zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc) respawned and received items held in storage
+[28Nov2024 18:59:15.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[28Nov2024 18:59:15.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[28Nov2024 18:59:22.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4113ms or 82 ticks behind
+[28Nov2024 18:59:47.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Nov2024 18:59:55.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:00:11.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[28Nov2024 19:00:11.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:pumpkin_ruin_four
+[28Nov2024 19:00:13.207] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[28Nov2024 19:00:13.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Nov2024 19:00:27.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:00:32.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[28Nov2024 19:00:40.963] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:00:42.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:00:50.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Nov2024 19:01:09.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[28Nov2024 19:01:29.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Nov2024 19:01:52.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[28Nov2024 19:01:59.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:02:00.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:02:01.319] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:02:02.098] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:02:08.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:02:09.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:02:10.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Nov2024 19:02:10.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Nov2024 19:02:15.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Stone Age]
+[28Nov2024 19:02:28.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[28Nov2024 19:02:53.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Nov2024 19:03:07.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [First Mistake]
+[28Nov2024 19:03:12.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[28Nov2024 19:03:31.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[28Nov2024 19:03:33.195] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[28Nov2024 19:03:48.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[28Nov2024 19:04:11.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Nov2024 19:04:33.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: Disconnected
+[28Nov2024 19:04:33.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[28Nov2024 19:04:33.925] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 433be659-15d5-3745-9436-55cee3bfccfc
+[28Nov2024 19:04:46.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[28Nov2024 19:04:46.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[28Nov2024 19:05:35.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin_13
