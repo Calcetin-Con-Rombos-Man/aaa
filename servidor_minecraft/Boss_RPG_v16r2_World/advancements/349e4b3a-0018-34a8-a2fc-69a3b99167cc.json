@@ -149,6 +149,7 @@
       "old_growth_woodland": "2024-11-26 22:25:09 +0000",
       "maple_woods": "2024-11-26 21:50:49 +0000",
       "orchard": "2024-11-27 16:21:58 +0000",
+      "field": "2024-11-28 19:35:28 +0000",
       "lavender_forest": "2024-11-27 16:20:04 +0000",
       "moor": "2024-11-26 22:22:31 +0000",
       "coniferous_forest": "2024-11-27 16:22:27 +0000",
@@ -2587,7 +2588,8 @@
       "cooked_cod": "2024-11-26 21:41:39 +0000",
       "mutton": "2024-11-28 19:23:29 +0000",
       "bread": "2024-11-26 20:46:01 +0000",
-      "golden_apple": "2024-11-26 21:16:43 +0000"
+      "golden_apple": "2024-11-26 21:16:43 +0000",
+      "golden_carrot": "2024-11-28 19:46:15 +0000"
     },
     "done": false
   },
@@ -6124,6 +6126,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "wither_skeleton_skull": "2024-11-28 19:41:09 +0000",
       "skeleton_skull": "2024-11-26 21:16:54 +0000"
     },
     "done": false
@@ -9506,6 +9509,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2024-11-28 19:43:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 19:03:29 +0000"
@@ -9520,7 +9529,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -9560,9 +9569,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2024-11-28 19:41:39 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "diamethyst_arrows:items/da_water_sponge_arrow": {
+    "criteria": {
+      "has_items": "2024-11-28 19:46:02 +0000"
     },
     "done": true
   },
@@ -9581,6 +9602,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2024-11-28 19:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-11-28 19:40:31 +0000"
     },
     "done": true
   },
@@ -9617,6 +9644,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:01:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2024-11-28 19:41:46 +0000"
     },
     "done": true
   },
@@ -9658,7 +9691,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -9706,7 +9739,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -9760,7 +9793,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -9778,7 +9811,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -9830,6 +9863,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-11-28 19:40:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2024-11-28 19:44:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 18:59:32 +0000"
@@ -9856,13 +9901,14 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "brewingstand": "2024-11-28 19:44:53 +0000",
       "blastfurnace": "2024-11-28 19:09:08 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -9875,6 +9921,12 @@
   "stoneworks:recipes/building_blocks/andesite_plate_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-11-28 19:39:48 +0000"
     },
     "done": true
   },
@@ -9908,9 +9960,15 @@
     },
     "done": true
   },
+  "diamethyst_arrows:items/da_lava_sponge_arrow": {
+    "criteria": {
+      "has_items": "2024-11-28 19:46:02 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -9934,7 +9992,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -9947,6 +10005,12 @@
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2024-11-28 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "diamethyst_arrows:items/da_wither_arrow": {
+    "criteria": {
+      "has_items": "2024-11-28 19:41:09 +0000"
     },
     "done": true
   },
@@ -9964,7 +10028,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -9986,9 +10050,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-11-28 19:41:46 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-11-28 19:41:09 +0000"
     },
     "done": true
   },
@@ -10022,9 +10098,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-11-28 19:44:46 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:01:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-11-28 19:41:39 +0000"
     },
     "done": true
   },
@@ -10043,6 +10131,12 @@
   "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-11-28 19:43:09 +0000"
     },
     "done": true
   },
@@ -10076,9 +10170,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-11-28 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-11-28 19:41:39 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/raisins_from_smoking_grape": {
     "criteria": {
       "has_grape": "2024-11-28 19:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-11-28 19:48:06 +0000"
     },
     "done": true
   },
@@ -10109,6 +10221,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-28 19:41:46 +0000"
     },
     "done": true
   },
@@ -10174,7 +10292,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -10187,6 +10305,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:01:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2024-11-28 19:44:44 +0000"
     },
     "done": true
   },
@@ -10229,6 +10353,12 @@
   "stoneworks:recipes/building_blocks/diorite_paver_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-11-28 19:44:46 +0000"
     },
     "done": true
   },
@@ -10412,6 +10542,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-11-28 19:41:39 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:01:03 +0000"
@@ -10451,6 +10587,12 @@
   "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-28 19:41:46 +0000"
     },
     "done": true
   },
@@ -10552,13 +10694,19 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
   "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-11-28 19:46:25 +0000"
     },
     "done": true
   },
@@ -10571,6 +10719,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-11-28 19:01:27 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/misc/squash_seeds_enchanting": {
+    "criteria": {
+      "has_pumpkin_seeds": "2024-11-28 19:43:45 +0000"
     },
     "done": true
   },
@@ -10598,9 +10752,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-11-28 19:41:46 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "bushierflowers:recipes/grown_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-11-28 19:39:48 +0000"
     },
     "done": true
   },
@@ -10625,6 +10791,12 @@
   "sophisticatedstorage:recipes/misc/copper_chest": {
     "criteria": {
       "has_chest": "2024-11-28 18:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-11-28 19:44:44 +0000"
     },
     "done": true
   },
@@ -10678,7 +10850,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 19:34:01 +0000"
+      "log_spam_fixer": "2024-11-28 19:53:30 +0000"
     },
     "done": false
   },
@@ -10694,9 +10866,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-11-28 19:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-11-28 19:01:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-11-28 19:41:25 +0000"
     },
     "done": true
   },
@@ -10805,6 +10989,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-11-28 19:39:48 +0000"
     },
     "done": true
   },

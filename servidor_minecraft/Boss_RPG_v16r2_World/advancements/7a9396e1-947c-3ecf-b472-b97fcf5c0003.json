@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-11-28 19:36:37 +0000"
+    },
+    "done": true
+  },
   "diamethysts:weapons/diamethyst_emerald_battle_axe": {
     "criteria": {
       "has_gem": "2024-11-28 19:30:09 +0000"
@@ -377,6 +383,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-28 19:44:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
@@ -394,6 +406,12 @@
       "has_bricks": "2024-11-28 18:58:22 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2024-11-28 19:35:05 +0000"
+    },
+    "done": false
   },
   "morevillagers:first_village": {
     "criteria": {
@@ -521,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-11-28 19:49:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
@@ -626,6 +650,12 @@
   "diamethysts:items/diamethyst_emerald_bow_lower_section": {
     "criteria": {
       "has_stick": "2024-11-28 18:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-28 19:38:47 +0000"
     },
     "done": true
   },
@@ -785,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-11-28 19:50:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2024-11-28 18:48:44 +0000"
@@ -794,6 +830,12 @@
   "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 18:58:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-28 19:44:42 +0000"
     },
     "done": true
   },
@@ -881,6 +923,13 @@
     },
     "done": true
   },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2024-11-28 19:42:28 +0000",
+      "armorer": "2024-11-28 19:45:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-11-28 18:52:32 +0000"
@@ -908,6 +957,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2024-11-28 19:34:53 +0000"
     },
     "done": true
   },
@@ -1145,6 +1200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-11-28 19:49:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:00:20 +0000"
@@ -1160,6 +1221,12 @@
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2024-11-28 19:32:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-11-28 19:45:04 +0000"
     },
     "done": true
   },
@@ -1301,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-11-28 19:39:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2024-11-28 18:50:55 +0000"
@@ -1316,6 +1389,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-11-28 19:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 19:38:47 +0000"
     },
     "done": true
   },
@@ -1819,7 +1898,9 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "fletchingtable": "2024-11-28 19:32:50 +0000"
+      "fletchingtable": "2024-11-28 19:32:50 +0000",
+      "blastfurnace": "2024-11-28 19:44:47 +0000",
+      "lectern": "2024-11-28 19:50:31 +0000"
     },
     "done": false
   },
@@ -1982,6 +2063,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-11-28 19:07:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2024-11-28 19:36:37 +0000"
     },
     "done": true
   },
@@ -2267,6 +2354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-28 19:44:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
@@ -2399,6 +2492,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-11-28 19:45:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2024-11-28 18:47:35 +0000"
@@ -2513,6 +2612,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-11-28 19:48:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2024-11-28 18:47:35 +0000"
@@ -2588,6 +2693,12 @@
   "another_furniture:recipes/white_sofa": {
     "criteria": {
       "has_wool": "2024-11-28 18:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-11-28 19:48:32 +0000"
     },
     "done": true
   },
@@ -2781,6 +2892,12 @@
     "criteria": {
       "has_item": "2024-11-28 19:11:58 +0000",
       "has_the_recipe": "2024-11-28 19:11:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-28 19:44:42 +0000"
     },
     "done": true
   },
@@ -3222,6 +3339,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-28 19:44:42 +0000"
     },
     "done": true
   },
@@ -3857,6 +3980,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-11-28 19:36:05 +0000",
       "minecraft:skeleton": "2024-11-28 19:12:11 +0000",
       "minecraft:spider": "2024-11-28 18:51:15 +0000",
       "minecraft:zombie": "2024-11-28 18:49:43 +0000"
@@ -4112,6 +4236,12 @@
   "croptopia:recipes/food/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2024-11-28 18:51:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2024-11-28 19:36:37 +0000"
     },
     "done": true
   },
@@ -4382,6 +4512,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 18:58:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-11-28 19:34:49 +0000"
     },
     "done": true
   },
@@ -4661,6 +4797,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2024-11-28 19:42:28 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mixed_bricks_stonecutting": {
     "criteria": {
       "has_item": "2024-11-28 18:58:22 +0000"
@@ -4682,6 +4824,12 @@
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2024-11-28 19:34:22 +0000"
     },
     "done": true
   },
@@ -5369,6 +5517,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-11-28 19:36:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-28 19:09:06 +0000"
@@ -5434,7 +5588,8 @@
       "shrubland": "2024-11-28 18:57:25 +0000",
       "rocky_shrubland": "2024-11-28 19:27:13 +0000",
       "dune_beach": "2024-11-28 18:51:28 +0000",
-      "lavender_field": "2024-11-28 18:46:29 +0000"
+      "lavender_field": "2024-11-28 18:46:29 +0000",
+      "prairie": "2024-11-28 19:47:43 +0000"
     },
     "done": false
   },
@@ -5459,6 +5614,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_cooler": {
     "criteria": {
       "has_planks": "2024-11-28 18:47:35 +0000"
+    },
+    "done": true
+  },
+  "bushierflowers:recipes/grown_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2024-11-28 19:39:13 +0000"
     },
     "done": true
   },
@@ -5501,6 +5662,12 @@
   "spartanweaponry:recipes/iron_longsword": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/stone_column": {
+    "criteria": {
+      "has_item": "2024-11-28 19:44:42 +0000"
     },
     "done": true
   },
@@ -5618,6 +5785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 19:44:42 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/lamps/lamp": {
     "criteria": {
       "has_item": "2024-11-28 18:58:28 +0000"
@@ -5696,6 +5869,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-11-28 19:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-28 19:09:06 +0000"
@@ -5705,6 +5884,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-11-28 18:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-11-28 19:50:05 +0000"
     },
     "done": true
   },
@@ -5723,6 +5908,12 @@
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 19:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-28 19:44:43 +0000"
     },
     "done": true
   },
@@ -6020,6 +6211,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-28 19:44:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_heavy_crossbow": {
     "criteria": {
       "has_diamond": "2024-11-28 19:11:58 +0000"
@@ -6071,6 +6268,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-11-28 18:50:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2024-11-28 19:39:13 +0000"
     },
     "done": true
   },
@@ -6203,6 +6406,18 @@
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2024-11-28 18:48:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2024-11-28 19:35:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2024-11-28 19:36:37 +0000"
     },
     "done": true
   },
@@ -6468,6 +6683,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-28 19:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-28 18:47:57 +0000"
@@ -6495,6 +6716,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-11-28 19:50:05 +0000"
     },
     "done": true
   },
