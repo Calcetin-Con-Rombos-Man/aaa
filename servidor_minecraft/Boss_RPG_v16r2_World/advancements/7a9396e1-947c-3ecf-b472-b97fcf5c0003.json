@@ -2646,6 +2646,7 @@
       "minecraft:creeper": "2024-11-28 23:30:04 +0000",
       "minecraft:wither": "2024-11-29 02:26:58 +0000",
       "minecraft:evoker": "2024-11-28 20:56:15 +0000",
+      "minecraft:phantom": "2024-11-29 20:34:06 +0000",
       "minecraft:witch": "2024-11-28 20:55:33 +0000",
       "minecraft:wither_skeleton": "2024-11-29 00:55:40 +0000",
       "minecraft:cave_spider": "2024-11-28 20:41:28 +0000",
@@ -11118,88 +11119,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-11-29 02:27:03 +0000",
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:27:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
+      "killed_fire_dragon": "2024-11-29 00:17:21 +0000"
     },
     "done": true
   },
@@ -11209,279 +11131,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragon_bone_parrying_dagger": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/columns/blackstone_column": {
-    "criteria": {
-      "has_item": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2024-11-29 01:19:46 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
-    "criteria": {
-      "has_birch_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_leggings": {
-    "criteria": {
-      "has_item": "2024-11-29 00:37:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2024-11-29 02:05:36 +0000"
-    },
-    "done": true
-  },
-  "spartantwilight:recipes/misc/blaze_pole": {
-    "criteria": {
-      "has_blaze_rod": "2024-11-29 01:19:45 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/black_sheet": {
-    "criteria": {
-      "has_black_sheet": "2024-11-29 01:17:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_shelf": {
-    "criteria": {
-      "has_birch_shelf": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_boomerang": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "horseexpert:recipes/tools/monocle": {
-    "criteria": {
-      "has_gold_nugget": "2024-11-29 00:38:08 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_greatsword": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-11-29 01:19:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mercy_cross": {
-    "criteria": {
-      "has_withered_rib": "2024-11-29 00:55:52 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_longsword": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_dagger": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:loot_vase_broken": {
-    "criteria": {
-      "criteria": "2024-11-29 01:15:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_nightstand": {
-    "criteria": {
-      "has_birch_nightstand": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2024-11-29 00:37:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_longbow": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "paraglider:paraglider": {
-    "criteria": {
-      "paraglider": "2024-11-29 02:24:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_lance": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_battleaxe": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_katana": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/levitation_block": {
-    "criteria": {
-      "has_blazing_eye": "2024-11-29 02:04:31 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2024-11-29 00:21:40 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_cupboard": {
-    "criteria": {
-      "has_birch_cupboard": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2024-11-29 01:08:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2024-11-29 00:48:46 +0000"
     },
     "done": true
   },
@@ -11491,153 +11143,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_stymphalian_bird": {
-    "criteria": {
-      "killed_fire_dragon": "2024-11-29 01:42:04 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_counter": {
-    "criteria": {
-      "has_birch_counter": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
-    "criteria": {
-      "has_birch_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/blast_amplifier": {
-    "criteria": {
-      "has_blazing_eye": "2024-11-29 02:04:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2024-11-29 01:34:39 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_tomahawk": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2024-11-29 00:21:40 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2024-11-29 02:25:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_halberd": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_desk": {
-    "criteria": {
-      "has_birch_desk": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
-    "criteria": {
-      "has_birch_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/black_cushion": {
-    "criteria": {
-      "has_black_cushion": "2024-11-29 01:17:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:junior_summoner": {
-    "criteria": {
-      "junior_summoner_0": "2024-11-29 01:22:42 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_flanged_mace": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
-    "criteria": {
-      "has_witherbone": "2024-11-29 00:55:42 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_netherwart_stew": {
-    "criteria": {
-      "has_nether_wart": "2024-11-29 01:19:54 +0000"
     },
     "done": true
   },
@@ -11653,261 +11161,15 @@
     },
     "done": true
   },
-  "spartanweaponry:collect_heads": {
-    "criteria": {
-      "wither_skeleton_skull": "2024-11-29 01:00:04 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2024-11-29 00:37:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2024-11-29 01:03:20 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_quarterstaff": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_light_gray_sheet": "2024-11-29 00:21:40 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
-    "criteria": {
-      "has_dragonscales_bronze": "2024-11-29 00:41:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2024-11-29 01:03:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_boots": {
-    "criteria": {
-      "has_item": "2024-11-29 00:41:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_leggings": {
-    "criteria": {
-      "has_item": "2024-11-29 00:41:53 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_fancy_bed": {
-    "criteria": {
-      "has_birch_fancy_bed": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/columns/blackstone_column_stonecutting": {
-    "criteria": {
-      "has_item": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2024-11-29 02:27:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackboard": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/deku_leaf": {
-    "criteria": {
-      "has_paragliders": "2024-11-29 02:24:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/birch_chest": {
-    "criteria": {
-      "has_birch_plank": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2024-11-29 00:37:03 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:pieceof_chaos": {
-    "criteria": {
-      "pieceof_chaos_0": "2024-11-29 01:06:47 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "diamethyst_arrows:items/da_wither_arrow": {
-    "criteria": {
-      "has_items": "2024-11-29 01:00:04 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/light_gray_tall_stool": {
     "criteria": {
       "has_wool": "2024-11-29 00:21:40 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
-    "criteria": {
-      "has_birch_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_table": {
-    "criteria": {
-      "has_birch_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2024-11-29 00:36:43 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_plates_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2024-11-29 01:00:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_birch_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_stool": {
-    "criteria": {
-      "has_wool": "2024-11-29 01:17:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2024-11-29 02:23:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_sofa": {
-    "criteria": {
-      "has_wool": "2024-11-29 01:17:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_drawer": {
-    "criteria": {
-      "has_birch_drawer": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
     },
     "done": true
   },
@@ -11923,117 +11185,63 @@
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragon_bone_scythe": {
+  "comforts:hammock_light_gray": {
     "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+      "has_light_gray_wool": "2024-11-29 00:21:40 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/birch_table": {
+  "another_furniture:recipes/light_gray_lamp": {
     "criteria": {
-      "has_planks": "2024-11-29 00:49:08 +0000"
+      "has_wool": "2024-11-29 00:21:40 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragon_bone_battle_hammer": {
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
     "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+      "has_lilac": "2024-11-29 00:36:43 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_item": "2024-11-29 00:41:53 +0000"
+      "has_lilac": "2024-11-29 00:36:43 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragon_bone_saber": {
+  "iceandfire:recipes/combat/armor_green_leggings": {
     "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+      "has_item": "2024-11-29 00:37:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "iceandfire:recipes/combat/armor_green_helmet": {
     "criteria": {
-      "has_wither_skeleton_skull": "2024-11-29 01:00:04 +0000"
+      "has_item": "2024-11-29 00:37:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
-      "has_blaze_rod": "2024-11-29 01:19:45 +0000"
+      "has_item": "2024-11-29 00:37:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
     "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
+      "has_dragonscales_green": "2024-11-29 00:37:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+  "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
+      "has_item": "2024-11-29 00:37:03 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
+  "horseexpert:recipes/tools/monocle": {
     "criteria": {
-      "has_witherbone": "2024-11-29 00:55:42 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
-    "criteria": {
-      "has_birch_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_pike": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_tall_stool": {
-    "criteria": {
-      "has_wool": "2024-11-29 01:17:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2024-11-29 01:17:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
-    "criteria": {
-      "has_witherbone": "2024-11-29 00:55:42 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+      "has_gold_nugget": "2024-11-29 00:38:08 +0000"
     },
     "done": true
   },
@@ -12043,15 +11251,57 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/glowing_water": {
+  "iceandfire:recipes/food/gold_pile": {
     "criteria": {
-      "has_nether_wart": "2024-11-29 01:19:54 +0000"
+      "has_item": "2024-11-29 00:38:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_birch_planks": "2024-11-29 00:49:08 +0000"
+      "has_gold_nugget": "2024-11-29 00:38:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/gold_chain_links": {
+    "criteria": {
+      "has_nugget": "2024-11-29 00:38:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-11-29 00:41:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-11-29 00:41:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-11-29 00:41:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-11-29 00:41:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-11-29 00:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 00:48:46 +0000"
     },
     "done": true
   },
@@ -12061,27 +11311,141 @@
     },
     "done": true
   },
-  "supplementaries:recipes/blackstone_lamp": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
+      "has_planks": "2024-11-29 00:49:08 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragon_bone_rapier": {
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
     "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+      "has_birch_planks": "2024-11-29 00:49:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+  "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
+      "has_planks": "2024-11-29 00:49:08 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:dismantledto_bones": {
+  "handcrafted:recipes/misc/birch_shelf": {
     "criteria": {
-      "dismantledto_bones_0": "2024-11-29 01:08:12 +0000"
+      "has_birch_shelf": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_birch_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2024-11-29 00:49:08 +0000"
     },
     "done": true
   },
@@ -12097,75 +11461,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/misc/witherbone_pole_from_string": {
-    "criteria": {
-      "has_witherbone": "2024-11-29 00:55:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2024-11-29 01:19:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-11-29 02:23:01 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_glaive": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-11-29 02:05:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blackstone_pillar_trim": {
-    "criteria": {
-      "has_blackstone_pillar_trim": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_handle_from_string": {
-    "criteria": {
-      "has_witherbone": "2024-11-29 00:55:42 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/wither_skeleton": {
-    "criteria": {
-      "has_withered_rib": "2024-11-29 00:55:52 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_birch": {
     "criteria": {
       "has_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_recipe": "2024-11-29 01:39:31 +0000"
     },
     "done": true
   },
@@ -12175,69 +11473,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragon_bone_javelin": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
-    "criteria": {
-      "has_item": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2024-11-29 00:57:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2024-11-29 01:17:03 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bowfor_wizards": {
-    "criteria": {
-      "bowfor_wizards_0": "2024-11-29 01:06:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-11-29 01:46:47 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2024-11-29 01:08:43 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
     },
     "done": true
   },
@@ -12247,81 +11485,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/gold_pile": {
-    "criteria": {
-      "has_item": "2024-11-29 00:38:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2024-11-29 01:19:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2024-11-29 01:08:43 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2024-11-29 01:34:39 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2024-11-29 00:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2024-11-29 01:08:43 +0000"
     },
     "done": true
   },
@@ -12355,33 +11521,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-11-29 00:38:08 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blackstone_corner_trim": {
-    "criteria": {
-      "has_blackstone_corner_trim": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2024-11-29 00:17:21 +0000"
     },
     "done": true
   },
@@ -12397,75 +11539,9 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_black": {
-    "criteria": {
-      "has_black_wool": "2024-11-29 01:17:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_throwing_knife": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2024-11-29 01:19:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-11-29 02:05:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2024-11-29 01:17:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
-    "criteria": {
-      "has_witherbone": "2024-11-29 00:55:42 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_cobweb": "2024-11-29 01:39:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2024-11-29 01:08:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2024-11-29 01:19:54 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
     },
     "done": true
   },
@@ -12475,27 +11551,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2024-11-29 00:49:08 +0000"
-    },
-    "done": true
-  },
-  "diamethysts:items/gold_chain_links": {
-    "criteria": {
-      "has_nugget": "2024-11-29 00:38:08 +0000"
     },
     "done": true
   },
@@ -12511,9 +11569,315 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+  "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
-      "has_cobweb": "2024-11-29 01:39:31 +0000"
+      "has_birch_bench": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:49:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/blackstone_column": {
+    "criteria": {
+      "has_item": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/blackstone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plates_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
     },
     "done": true
   },
@@ -12529,39 +11893,9 @@
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2024-11-29 01:39:31 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
-    "criteria": {
-      "bosses_of_mass_destruction:gauntlet": "2024-11-29 02:04:15 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_black": {
-    "criteria": {
-      "has_black_wool": "2024-11-29 01:17:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-11-29 00:53:46 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragon_bone_warhammer": {
-    "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_lamp": {
-    "criteria": {
-      "has_wool": "2024-11-29 01:17:03 +0000"
     },
     "done": true
   },
@@ -12571,33 +11905,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+      "has_blackstone": "2024-11-29 00:53:46 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragon_bone_spear": {
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_bench": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
-      "has_birch_bench": "2024-11-29 00:49:08 +0000"
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+  "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
-      "has_birch_planks": "2024-11-29 00:49:08 +0000"
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragon_bone_heavy_crossbow": {
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
-      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
     },
     "done": true
   },
@@ -12607,33 +11989,57 @@
     },
     "done": true
   },
-  "another_furniture:recipes/birch_shelf": {
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {
-      "has_planks": "2024-11-29 00:49:08 +0000"
+      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
     "criteria": {
-      "has_blaze_rod": "2024-11-29 01:19:45 +0000"
+      "has_witherbone": "2024-11-29 00:55:42 +0000"
     },
     "done": true
   },
-  "comforts:hammock_light_gray": {
+  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
     "criteria": {
-      "has_light_gray_wool": "2024-11-29 00:21:40 +0000"
+      "has_witherbone": "2024-11-29 00:55:42 +0000"
     },
     "done": true
   },
-  "twigs:recipes/tables/birch_table": {
+  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
     "criteria": {
-      "has_bamboo": "2024-11-29 00:49:08 +0000"
+      "has_witherbone": "2024-11-29 00:55:42 +0000"
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/paraglider": {
+  "spartanfire:recipes/misc/witherbone_pole_from_string": {
     "criteria": {
-      "has_paragliders": "2024-11-29 02:24:52 +0000"
+      "has_witherbone": "2024-11-29 00:55:42 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_string": {
+    "criteria": {
+      "has_witherbone": "2024-11-29 00:55:42 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
+    "criteria": {
+      "has_witherbone": "2024-11-29 00:55:42 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mercy_cross": {
+    "criteria": {
+      "has_withered_rib": "2024-11-29 00:55:52 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/wither_skeleton": {
+    "criteria": {
+      "has_withered_rib": "2024-11-29 00:55:52 +0000"
     },
     "done": true
   },
@@ -12643,27 +12049,165 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_boots": {
+  "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
-      "has_item": "2024-11-29 00:37:03 +0000"
+      "has_golden_leggings": "2024-11-29 00:57:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "spartanweaponry:collect_heads": {
     "criteria": {
-      "has_planks": "2024-11-29 00:49:08 +0000"
+      "wither_skeleton_skull": "2024-11-29 01:00:04 +0000"
+    },
+    "done": false
+  },
+  "diamethyst_arrows:items/da_wither_arrow": {
+    "criteria": {
+      "has_items": "2024-11-29 01:00:04 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_item": "2024-11-29 00:41:53 +0000"
+      "wither_skull": "2024-11-29 01:00:04 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_blackstone": "2024-11-29 00:53:46 +0000"
+      "has_wither_skeleton_skull": "2024-11-29 01:00:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-11-29 01:03:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-11-29 01:03:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2024-11-29 01:06:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-11-29 01:06:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-11-29 01:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-11-29 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-11-29 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-11-29 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-11-29 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-11-29 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2024-11-29 01:15:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2024-11-29 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2024-11-29 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2024-11-29 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-11-29 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-11-29 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-11-29 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-11-29 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2024-11-29 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-11-29 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2024-11-29 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2024-11-29 01:17:03 +0000"
     },
     "done": true
   },
@@ -12673,9 +12217,117 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/blackstone_tile": {
+  "spartantwilight:recipes/misc/blaze_pole": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+      "has_blaze_rod": "2024-11-29 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-11-29 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-29 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-29 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2024-11-29 01:19:54 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2024-11-29 01:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-11-29 01:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-11-29 01:19:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-11-29 01:22:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-11-29 01:34:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 01:34:39 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2024-11-29 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-11-29 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-11-29 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2024-11-29 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-29 01:42:04 +0000"
     },
     "done": true
   },
@@ -12685,15 +12337,730 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "has_polished_blackstone": "2024-11-29 00:54:35 +0000"
+      "bastion": "2024-11-29 01:46:47 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/light_gray_lamp": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
-      "has_wool": "2024-11-29 00:21:40 +0000"
+      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-11-29 01:55:04 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2024-11-29 02:04:15 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2024-11-29 02:04:31 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2024-11-29 02:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-11-29 02:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-11-29 02:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-11-29 02:05:36 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_boomerang": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_greatsword": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_longsword": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_dagger": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_longbow": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_lance": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_katana": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_halberd": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_scythe": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_saber": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_pike": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_rapier": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_glaive": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_javelin": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_warhammer": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_spear": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2024-11-29 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-11-29 02:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-11-29 02:23:01 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-11-29 02:24:52 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2024-11-29 02:24:52 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2024-11-29 02:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-11-29 02:25:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-11-29 20:38:16 +0000",
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 20:37:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-11-29 02:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_netherite_chestplate": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_netherite_axe": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_pike_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_netherite_battle_axe": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_bolt": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_netherite_crossbow": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_boomerang_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/netherite_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_longsword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_netherite_pickaxe": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_netherite_helmet": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_netherite_leggings": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_netherite_fishing_rod": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_netherite_shovel": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_tomahawk_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_greatsword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_quarterstaff_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_tower_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_katana_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_halberd_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_longbow_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-11-29 20:34:06 +0000"
+    },
+    "done": false
+  },
+  "diamethysts:armor/diamethyst_netherite_shield": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_throwing_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_battle_hammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_javelin_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_netherite_boots": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_spear_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_netherite_bow": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_flanged_mace_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_rapier_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_dagger_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_netherite_sword": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_heavy_crossbow_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:armor/diamethyst_netherite_horse_armor": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_parrying_dagger_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_netherite_sickle": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_battleaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_netherite_scimitar": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_lance_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_basic_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_glaive_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_warhammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_netherite_hoe": {
+    "criteria": {
+      "has_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_saber_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-11-29 20:31:08 +0000"
     },
     "done": true
   },
