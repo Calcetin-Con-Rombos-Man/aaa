@@ -2897,3 +2897,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 16:52:12.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Pic-A-Nic Basket?]
 [29Nov2024 17:00:01.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Voluntary Exile]
 [29Nov2024 17:00:56.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was slain by Inquisitor
+[29Nov2024 17:03:05.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [The Wind Darkening]
+[29Nov2024 17:04:55.737] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[29Nov2024 17:05:51.036] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[29Nov2024 17:06:20.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Creative Mode]
+[29Nov2024 17:06:26.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Survival Mode]
+[29Nov2024 17:06:43.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[29Nov2024 17:06:43.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[29Nov2024 17:06:46.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Piece of Chaos]
+[29Nov2024 17:07:18.770] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21970, l='ServerLevel[Boss_RPG_v16r2_World]', x=5422.50, y=70.00, z=274.50]
+[29Nov2024 17:10:21.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[29Nov2024 17:10:29.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Auto-blasting Upgrade] to Pilin]
+[29Nov2024 17:10:34.047] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
