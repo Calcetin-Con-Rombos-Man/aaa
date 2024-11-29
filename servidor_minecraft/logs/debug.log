@@ -25915,3 +25915,391 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 19:47:12.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_5
 [29Nov2024 19:47:19.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
 [29Nov2024 19:47:24.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 10510.500000, 68.500000, 10438.500000]
+[29Nov2024 19:47:28.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:29.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:29.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:29.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:29.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:29.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:29.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:30.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:30.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:30.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:30.541] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:30.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:30.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:31.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:31.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:31.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:31.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:31.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:31.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:32.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:32.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:32.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:32.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:32.863] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:33.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:33.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:33.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:33.511] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:33.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:33.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:34.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:34.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:34.304] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:34.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:34.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:34.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:34.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:35.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:35.254] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:35.455] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:35.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:35.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:35.882] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:36.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:36.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:36.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:36.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:36.768] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:36.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:37.017] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:37.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:37.283] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:37.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:37.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:37.948] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:38.152] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:38.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:38.429] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:38.660] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:38.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:39.133] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:39.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:39.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:39.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:39.684] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:39.853] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:39.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5499ms or 109 ticks behind
+[29Nov2024 19:47:39.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:40.187] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:40.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:40.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:40.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:40.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:40.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:41.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:41.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:41.448] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:41.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:41.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:41.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:42.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:42.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:42.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:42.604] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:42.801] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:42.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:43.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:43.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:43.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:43.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:43.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:43.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:44.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:44.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by Vindicator
+[29Nov2024 19:47:44.806] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:44.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:46.356] [Server thread/DEBUG] [twilightforest/]: Player zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc) respawned and received items held in storage
+[29Nov2024 19:47:48.735] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:50.000] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:10.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[29Nov2024 19:48:15.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 10507.500000, 68.500000, 10439.500000]
+[29Nov2024 19:48:15.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[29Nov2024 19:48:15.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[29Nov2024 19:48:15.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_bottom
+[29Nov2024 19:48:16.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/main
+[29Nov2024 19:48:16.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[29Nov2024 19:48:17.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[29Nov2024 19:48:17.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:blank
+[29Nov2024 19:48:17.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:17.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:17.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:17.955] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:19.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[29Nov2024 19:48:19.649] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:19.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:20.990] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:21.138] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:21.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:21.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:21.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:21.854] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:21.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:22.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:22.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:22.643] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:23.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:23.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:23.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:23.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:23.758] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:23.902] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:24.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:24.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:30.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:chest
+[29Nov2024 19:48:30.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:tower
+[29Nov2024 19:48:30.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_7
+[29Nov2024 19:48:30.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:stone
+[29Nov2024 19:48:30.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:camp
+[29Nov2024 19:48:30.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_11
+[29Nov2024 19:48:30.176] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_main
+[29Nov2024 19:48:30.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part1
+[29Nov2024 19:48:30.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part2
+[29Nov2024 19:48:30.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part3
+[29Nov2024 19:48:30.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/engineer
+[29Nov2024 19:48:30.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/ocean/copper_golem_area
+[29Nov2024 19:48:30.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/woodworker
+[29Nov2024 19:48:30.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/florist
+[29Nov2024 19:48:30.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/ocean/beekeeper_area
+[29Nov2024 19:48:30.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_0
+[29Nov2024 19:48:30.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[29Nov2024 19:48:30.440] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[29Nov2024 19:48:30.463] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/town_centers/meeting_point_2
+[29Nov2024 19:48:31.052] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_2
+[29Nov2024 19:48:31.054] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_3
+[29Nov2024 19:48:31.055] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_1
+[29Nov2024 19:48:31.057] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[29Nov2024 19:48:31.059] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[29Nov2024 19:48:31.147] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[29Nov2024 19:48:31.410] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/mushroom_3
+[29Nov2024 19:48:31.413] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/mushroom_2
+[29Nov2024 19:48:31.428] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/mushroom_1
+[29Nov2024 19:48:32.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_13
+[29Nov2024 19:48:32.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_12
+[29Nov2024 19:48:39.024] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:40.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:45.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:48:46.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:49:22.955] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:49:24.711] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:24.761] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:24.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:49:24.853] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:24.906] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:24.953] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:25.006] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:25.069] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:25.125] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:25.182] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:25.234] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:26.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:49:33.743] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:49:34.684] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:49:35.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:49:37.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_10
+[29Nov2024 19:49:40.427] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 19:49:41.741] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:41.803] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:41.852] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:41.900] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:41.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:41.990] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.046] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.102] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.186] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.283] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.332] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.381] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.435] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.491] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.603] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.813] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.863] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:42.913] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:43.164] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:43.214] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:43.269] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:43.326] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:43.385] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:43.883] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:43.934] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:43.984] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.033] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.086] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.198] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.266] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.323] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.382] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.470] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.524] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.576] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.630] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:44.680] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:45.069] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:45.115] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:45.158] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:45.205] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:45.253] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:45.298] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:45.342] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:49:48.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[29Nov2024 19:49:57.528] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/base_plate
+[29Nov2024 19:50:16.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_start
+[29Nov2024 19:50:16.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room1
+[29Nov2024 19:50:16.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room2
+[29Nov2024 19:50:16.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room3
+[29Nov2024 19:50:16.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room4
+[29Nov2024 19:50:16.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room5
+[29Nov2024 19:50:16.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room6
+[29Nov2024 19:50:22.358] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:iceologer_cabin/base_plate
+[29Nov2024 19:50:25.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_3
+[29Nov2024 19:50:25.230] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[29Nov2024 19:50:26.676] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[29Nov2024 19:50:27.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 19:50:29.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[29Nov2024 19:50:29.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[29Nov2024 19:51:09.395] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:51:15.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:51:16.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:51:17.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:51:18.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:51:19.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:51:21.087] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:51:23.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:51:42.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 19:51:42.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 19:51:44.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[29Nov2024 19:52:16.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:52:17.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:52:51.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:52:52.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:52:53.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:52:54.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:52:54.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:52:55.856] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:52:56.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:52:58.511] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:00.394] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 19:53:00.394] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 19:53:21.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:22.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:23.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:23.891] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:24.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:25.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:26.513] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:27.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:28.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:29.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:31.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[29Nov2024 19:53:42.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:42.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:43.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:44.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:46.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin_13
+[29Nov2024 19:53:48.395] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[29Nov2024 19:53:48.498] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[29Nov2024 19:53:51.131] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of underground_jungle:temple_3
+[29Nov2024 19:53:51.140] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_20
+[29Nov2024 19:53:52.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Nov2024 19:53:52.695] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[29Nov2024 19:53:54.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:55.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:53:55.697] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[29Nov2024 19:53:55.790] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_4
+[29Nov2024 19:53:55.802] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_1
+[29Nov2024 19:53:58.636] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[29Nov2024 19:53:58.652] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4b
+[29Nov2024 19:54:01.148] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/top
+[29Nov2024 19:54:01.163] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/var1
+[29Nov2024 19:54:01.253] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:miners_house
+[29Nov2024 19:54:02.020] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:jungle_monument
+[29Nov2024 19:54:07.091] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:54:08.419] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:stables
+[29Nov2024 19:54:09.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
+[29Nov2024 19:54:14.946] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[29Nov2024 19:54:14.953] [pool-14-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle]] from pos BlockPos{x=5851, y=75, z=-197}
+[29Nov2024 19:54:15.040] [pool-14-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_2
+[29Nov2024 19:54:15.067] [pool-14-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[29Nov2024 19:54:15.087] [pool-14-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[29Nov2024 19:54:15.101] [pool-14-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[29Nov2024 19:54:15.299] [pool-14-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_1
+[29Nov2024 19:54:16.019] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/town_centers/desert_meeting_point_1
+[29Nov2024 19:54:16.027] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/town_centers/savanna_meeting_point_1
+[29Nov2024 19:54:16.040] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_2
+[29Nov2024 19:54:16.077] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_engineer
+[29Nov2024 19:54:16.100] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_iceandfire:village/snowy_scriber_1
+[29Nov2024 19:54:16.147] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[29Nov2024 19:54:16.629] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_plains
+[29Nov2024 19:54:17.313] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[29Nov2024 19:54:17.318] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[29Nov2024 19:54:17.359] [pool-14-thread-4/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[29Nov2024 19:54:17.576] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5851, y=75, z=-197} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[29Nov2024 19:54:17.576] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=5851, y=75, z=-197}
+[29Nov2024 19:54:17.576] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5851, y=75, z=-196} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[29Nov2024 19:54:17.576] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=5851, y=75, z=-196}
+[29Nov2024 19:54:17.576] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5851, y=74, z=-196} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[29Nov2024 19:54:17.577] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=5851, y=74, z=-196}
+[29Nov2024 19:54:22.878] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/snow_2
+[29Nov2024 19:54:23.995] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:54:24.057] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:54:24.113] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:54:24.170] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Nov2024 19:54:27.202] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/snow_3
+[29Nov2024 19:54:27.204] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/snow_1
+[29Nov2024 19:54:29.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4086ms or 81 ticks behind
+[29Nov2024 19:54:29.569] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[29Nov2024 19:54:29.668] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_taiga
+[29Nov2024 19:54:29.811] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_hunter
+[29Nov2024 19:54:29.814] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_engineer
+[29Nov2024 19:54:29.816] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_oceanographer
+[29Nov2024 19:54:29.819] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/taiga/taiga_oceanographer
+[29Nov2024 19:54:29.823] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/taiga/taiga_occultist
+[29Nov2024 19:54:29.829] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/taiga/taiga_horticulturist
+[29Nov2024 19:54:29.833] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[29Nov2024 19:54:29.834] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:village/taiga/houses/taiga_beekeeper_area
+[29Nov2024 19:54:29.842] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[29Nov2024 19:54:29.844] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_florist
+[29Nov2024 19:54:29.846] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_woodworker
+[29Nov2024 19:54:29.984] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:taiga_village_horned_statue
+[29Nov2024 19:54:29.987] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/taiga/taiga_alchemist
+[29Nov2024 19:54:30.441] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[29Nov2024 19:54:30.450] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[29Nov2024 19:54:33.938] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_training_grounds/illusioner_training_grounds
+[29Nov2024 19:54:35.345] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[29Nov2024 19:54:40.928] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[29Nov2024 19:54:41.066] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illager_fort/illager_fort
+[29Nov2024 19:54:46.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2460ms or 49 ticks behind
+[29Nov2024 19:55:17.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:55:18.868] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:55:20.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:55:21.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:55:22.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:55:40.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:55:41.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:55:41.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:56:18.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:56:18.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:56:19.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:56:19.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:56:20.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:56:20.563] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 19:56:27.133] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[29Nov2024 19:56:27.152] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[29Nov2024 19:56:27.155] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[29Nov2024 19:56:27.160] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[29Nov2024 19:56:27.165] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[29Nov2024 19:56:27.170] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[29Nov2024 19:56:27.175] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[29Nov2024 19:56:27.257] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_temple/main
+[29Nov2024 19:56:32.535] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[29Nov2024 19:56:32.542] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[29Nov2024 19:56:32.581] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_start_dungeon
+[29Nov2024 19:56:32.589] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_pyramid2
+[29Nov2024 19:56:32.597] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:mod_structures/desert_ruin8
+[29Nov2024 19:56:57.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 19:56:57.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 19:56:57.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind

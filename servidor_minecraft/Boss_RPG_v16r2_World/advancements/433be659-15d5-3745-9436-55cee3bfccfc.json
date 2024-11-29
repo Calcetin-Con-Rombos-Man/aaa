@@ -4626,6 +4626,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-28 19:16:05 +0000",
       "minecraft:skeleton": "2024-11-28 19:40:25 +0000",
+      "minecraft:guardian": "2024-11-29 19:53:55 +0000",
       "minecraft:vindicator": "2024-11-28 21:58:53 +0000",
       "minecraft:spider": "2024-11-29 01:36:30 +0000",
       "minecraft:evoker": "2024-11-29 00:01:19 +0000",
@@ -10652,6 +10653,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_prismarine_pickaxe": {
+    "criteria": {
+      "has_items": "2024-11-29 19:53:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2024-11-29 19:26:50 +0000"
@@ -10667,6 +10674,18 @@
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-29 18:45:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2024-11-29 19:52:29 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_prismarine_axe": {
+    "criteria": {
+      "has_items": "2024-11-29 19:53:57 +0000"
     },
     "done": true
   },
@@ -10700,6 +10719,12 @@
     },
     "done": true
   },
+  "diamethysts:items/diamethyst_prismarine_hilt": {
+    "criteria": {
+      "has_items": "2024-11-29 19:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-29 19:26:50 +0000"
@@ -10721,6 +10746,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-29 19:26:50 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_prismarine_shovel": {
+    "criteria": {
+      "has_items": "2024-11-29 19:53:57 +0000"
     },
     "done": true
   },
@@ -10760,6 +10791,12 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_prismarine_battle_axe": {
+    "criteria": {
+      "has_items": "2024-11-29 19:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-11-29 18:31:03 +0000"
@@ -10781,6 +10818,12 @@
   "aquamirae:recipes/anglers_fang": {
     "criteria": {
       "has_item": "2024-11-29 18:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-11-29 19:53:57 +0000"
     },
     "done": true
   },
@@ -10811,6 +10854,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-11-29 19:26:50 +0000"
+    },
+    "done": true
+  },
+  "diamethyst_arrows:items/da_prismarine_arrow": {
+    "criteria": {
+      "has_items": "2024-11-29 19:53:57 +0000"
     },
     "done": true
   },
@@ -10889,6 +10938,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-11-29 19:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-11-29 19:53:57 +0000"
     },
     "done": true
   },
@@ -11006,6 +11061,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_prismarine_hoe": {
+    "criteria": {
+      "has_items": "2024-11-29 19:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-11-29 19:26:47 +0000"
@@ -11069,6 +11130,12 @@
   "suppsquared:recipes/decorations/biomesoplenty/item_shelf_redwood": {
     "criteria": {
       "has_planks": "2024-11-29 18:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-11-29 19:53:57 +0000"
     },
     "done": true
   },
