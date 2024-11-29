@@ -10627,6 +10627,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_swamp": "2024-11-29 19:15:57 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-29 18:45:23 +0000"
@@ -10723,6 +10729,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-11-29 19:18:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/dead_planks": {
     "criteria": {
       "has_logs": "2024-11-29 19:04:15 +0000"
@@ -10774,6 +10786,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-11-29 18:35:51 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/copper_chain_links": {
+    "criteria": {
+      "has_nugget": "2024-11-29 19:16:50 +0000"
     },
     "done": true
   },
@@ -10843,6 +10861,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-11-29 19:16:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
     "criteria": {
       "has_planks": "2024-11-29 18:45:23 +0000"
@@ -10858,6 +10882,12 @@
   "aquamirae:recipes/oxygelium": {
     "criteria": {
       "has_item": "2024-11-29 18:59:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-11-29 19:16:50 +0000"
     },
     "done": true
   },

@@ -14503,6 +14503,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_empty_bullet": "2024-11-29 19:19:04 +0000"
+    },
+    "done": true
+  },
   "diamethysts:tools/diamethyst_quartz_axe": {
     "criteria": {
       "has_gem": "2024-11-29 18:33:24 +0000"
