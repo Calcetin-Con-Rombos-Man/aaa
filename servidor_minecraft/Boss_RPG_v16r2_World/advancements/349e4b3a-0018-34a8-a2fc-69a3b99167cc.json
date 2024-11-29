@@ -14239,6 +14239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-11-29 06:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2024-11-29 04:20:26 +0000"
@@ -14256,6 +14262,18 @@
       "entered_nether": "2024-11-29 04:31:52 +0000"
     },
     "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-11-29 06:01:30 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2024-11-29 06:02:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
