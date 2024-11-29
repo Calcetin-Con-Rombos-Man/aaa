@@ -3199,3 +3199,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 19:05:17.290] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
 [29Nov2024 19:05:17.290] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
 [29Nov2024 19:05:29.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3870ms or 77 ticks behind
+[29Nov2024 19:05:52.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7306ms or 146 ticks behind
+[29Nov2024 19:06:03.413] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[29Nov2024 19:06:12.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
+[29Nov2024 19:06:48.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 19:07:34.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pilin> hearth
+[29Nov2024 19:07:50.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pilin> nebulous
+[29Nov2024 19:08:26.351] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[29Nov2024 19:08:26.352] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[29Nov2024 19:08:26.353] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[29Nov2024 19:08:26.353] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[29Nov2024 19:08:26.353] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Nov2024 19:08:26.353] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Nov2024 19:08:26.354] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[29Nov2024 19:08:26.354] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Nov2024 19:09:23.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [My Name is Nobody]
+[29Nov2024 19:09:56.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Double Trouble]
+[29Nov2024 19:10:08.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Life turned out to be a comedy]
+[29Nov2024 19:10:26.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[29Nov2024 19:11:11.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[29Nov2024 19:11:32.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was slain by Enderman
+[29Nov2024 19:11:53.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[29Nov2024 19:12:11.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[29Nov2024 19:12:30.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Nov2024 19:12:36.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to 655.500000, 69.500000, 2.500000]
+[29Nov2024 19:12:58.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Fighting Nightmares]
+[29Nov2024 19:13:06.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Herc was on a Roll!]
+[29Nov2024 19:13:22.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 19:14:06.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[29Nov2024 19:14:49.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Who You Gonna Call?]
+[29Nov2024 19:15:11.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[29Nov2024 19:15:18.629] [pool-14-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic]] from pos BlockPos{x=9813, y=69, z=9451}
+[29Nov2024 19:15:21.098] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=9813, y=69, z=9451} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[29Nov2024 19:15:21.098] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=9813, y=69, z=9451}
+[29Nov2024 19:15:30.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4172ms or 83 ticks behind
+[29Nov2024 19:15:50.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
