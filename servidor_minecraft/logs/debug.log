@@ -25096,3 +25096,272 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 19:25:40.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
 [29Nov2024 19:25:40.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
 [29Nov2024 19:26:20.513] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 19:26:51.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_fountain_01
+[29Nov2024 19:26:51.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_horticulturist
+[29Nov2024 19:26:51.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_occultist
+[29Nov2024 19:26:51.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_engineer
+[29Nov2024 19:26:51.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_oceanographer
+[29Nov2024 19:26:51.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[29Nov2024 19:26:51.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_oceanographer
+[29Nov2024 19:26:51.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[29Nov2024 19:26:51.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_alchemist
+[29Nov2024 19:26:51.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:village/plains/houses/plains_beekeeper_area
+[29Nov2024 19:26:51.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:village/plains/houses/plains_copper_golem_area
+[29Nov2024 19:26:52.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_start
+[29Nov2024 19:26:52.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room1
+[29Nov2024 19:26:52.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room3
+[29Nov2024 19:26:52.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room4
+[29Nov2024 19:26:52.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room5
+[29Nov2024 19:26:52.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room6
+[29Nov2024 19:26:52.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room2
+[29Nov2024 19:26:52.490] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room7
+[29Nov2024 19:26:52.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room8
+[29Nov2024 19:26:58.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[29Nov2024 19:27:01.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_10
+[29Nov2024 19:27:23.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:27:44.945] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:27:49.891] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:28:09.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[29Nov2024 19:28:09.519] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/waystone_derelict_grass_tower_top
+[29Nov2024 19:28:09.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_11
+[29Nov2024 19:28:10.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[29Nov2024 19:28:11.220] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[29Nov2024 19:28:11.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/root
+[29Nov2024 19:28:11.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/cross
+[29Nov2024 19:28:11.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/parkour
+[29Nov2024 19:28:11.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room2
+[29Nov2024 19:28:11.644] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room_small2
+[29Nov2024 19:28:11.645] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/stairs
+[29Nov2024 19:28:11.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/tunnel
+[29Nov2024 19:28:11.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/storage
+[29Nov2024 19:28:11.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room_big
+[29Nov2024 19:28:18.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_2
+[29Nov2024 19:28:20.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Nov2024 19:28:21.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_5
+[29Nov2024 19:28:25.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[29Nov2024 19:28:26.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[29Nov2024 19:28:27.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[29Nov2024 19:28:27.654] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[29Nov2024 19:28:27.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_7
+[29Nov2024 19:28:27.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_training_grounds/illusioner_training_grounds
+[29Nov2024 19:28:27.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_training_grounds/target_dummy
+[29Nov2024 19:28:27.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:illusioner_shack/entity/illusioner
+[29Nov2024 19:28:27.769] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[29Nov2024 19:28:27.779] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[29Nov2024 19:28:27.785] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[29Nov2024 19:28:27.844] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_0
+[29Nov2024 19:28:28.127] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_1
+[29Nov2024 19:28:28.128] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_2
+[29Nov2024 19:28:28.161] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_3
+[29Nov2024 19:28:38.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_farmer
+[29Nov2024 19:28:45.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 19:28:46.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tosha'/128731, l='ServerLevel[Boss_RPG_v16r2_World]', x=8820.71, y=60.00, z=9953.15] died, message: 'Tosha froze to death'
+[29Nov2024 19:28:46.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tosha'/128731, l='ServerLevel[Boss_RPG_v16r2_World]', x=8820.71, y=60.00, z=9953.15] died: Tosha froze to death
+[29Nov2024 19:28:50.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[29Nov2024 19:29:07.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_start
+[29Nov2024 19:29:07.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room1
+[29Nov2024 19:29:07.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room2
+[29Nov2024 19:29:07.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room3
+[29Nov2024 19:29:07.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room4
+[29Nov2024 19:29:07.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room5
+[29Nov2024 19:29:07.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room6
+[29Nov2024 19:29:12.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[29Nov2024 19:29:12.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[29Nov2024 19:29:12.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[29Nov2024 19:29:12.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[29Nov2024 19:29:12.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[29Nov2024 19:29:16.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_3
+[29Nov2024 19:29:20.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_0
+[29Nov2024 19:29:40.385] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 19:30:09.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 19:30:43.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_4
+[29Nov2024 19:30:44.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_3
+[29Nov2024 19:30:44.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[29Nov2024 19:30:44.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_snowy
+[29Nov2024 19:30:44.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:snowy_village_horned_statue
+[29Nov2024 19:30:44.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_woodworker
+[29Nov2024 19:30:44.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_florist
+[29Nov2024 19:30:44.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_horticulturist
+[29Nov2024 19:30:44.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_oceanographer
+[29Nov2024 19:30:44.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_alchemist
+[29Nov2024 19:30:44.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_occultist
+[29Nov2024 19:30:44.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_hunter
+[29Nov2024 19:30:44.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[29Nov2024 19:30:44.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[29Nov2024 19:30:44.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_oceanographer
+[29Nov2024 19:30:44.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[29Nov2024 19:30:44.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_9
+[29Nov2024 19:30:45.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_8
+[29Nov2024 19:30:46.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[29Nov2024 19:30:47.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 19:30:47.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 19:30:48.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_2
+[29Nov2024 19:30:49.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[29Nov2024 19:30:50.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Nov2024 19:30:50.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Nov2024 19:30:51.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_5
+[29Nov2024 19:33:00.313] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 19:33:00.313] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 19:33:38.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[29Nov2024 19:33:44.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 19:33:55.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[29Nov2024 19:33:57.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_farmer
+[29Nov2024 19:34:04.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_start
+[29Nov2024 19:34:04.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room1
+[29Nov2024 19:34:04.406] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room2
+[29Nov2024 19:34:04.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room3
+[29Nov2024 19:34:04.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room4
+[29Nov2024 19:34:04.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room5
+[29Nov2024 19:34:04.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room6
+[29Nov2024 19:34:06.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[29Nov2024 19:34:06.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[29Nov2024 19:34:06.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[29Nov2024 19:34:06.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[29Nov2024 19:34:06.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[29Nov2024 19:34:11.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_3
+[29Nov2024 19:34:18.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_0
+[29Nov2024 19:34:20.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_11
+[29Nov2024 19:34:25.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_butcher
+[29Nov2024 19:34:25.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock6
+[29Nov2024 19:34:27.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:iceologer_cabin/base_plate
+[29Nov2024 19:34:27.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:iceologer_cabin/feature/campfire
+[29Nov2024 19:34:27.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:iceologer_cabin/cabin/cabin
+[29Nov2024 19:34:27.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:iceologer_cabin/entity/screaming_goat
+[29Nov2024 19:34:27.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:iceologer_cabin/entity/iceologer
+[29Nov2024 19:34:27.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:iceologer_cabin/entity/goat
+[29Nov2024 19:34:38.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[29Nov2024 19:34:41.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_13
+[29Nov2024 19:34:56.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_12
+[29Nov2024 19:34:58.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/town_centers/meeting_point_2
+[29Nov2024 19:34:58.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/villagers/baby
+[29Nov2024 19:34:58.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/villagers/unemployed
+[29Nov2024 19:34:58.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/common/iron_golem
+[29Nov2024 19:34:58.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/common/animals/cat_british
+[29Nov2024 19:34:58.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/straight_02
+[29Nov2024 19:34:58.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/common/animals/cat_jellie
+[29Nov2024 19:34:58.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/corner_01
+[29Nov2024 19:34:58.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/straight_03
+[29Nov2024 19:34:58.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/straight_01
+[29Nov2024 19:34:58.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/turn_01
+[29Nov2024 19:34:58.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/small_house_3
+[29Nov2024 19:34:58.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/corner_02
+[29Nov2024 19:34:58.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/lamp_1
+[29Nov2024 19:34:58.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/crossroad_06
+[29Nov2024 19:34:58.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/small_farm_1
+[29Nov2024 19:34:58.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/straight_06
+[29Nov2024 19:34:58.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/straight_04
+[29Nov2024 19:34:58.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/corner_03
+[29Nov2024 19:34:58.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/small_house_6
+[29Nov2024 19:34:58.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/animal_pen_1
+[29Nov2024 19:34:58.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/temple_4
+[29Nov2024 19:34:58.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/small_house_4
+[29Nov2024 19:34:58.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/crossroad_01
+[29Nov2024 19:34:58.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/small_house_1
+[29Nov2024 19:34:58.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/accessory_1
+[29Nov2024 19:34:58.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/crossroad_02
+[29Nov2024 19:34:58.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/masons_house_1
+[29Nov2024 19:34:58.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/common/animals/cows_1
+[29Nov2024 19:34:58.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/crossroad_05
+[29Nov2024 19:34:58.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/small_house_7
+[29Nov2024 19:34:58.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/streets/crossroad_04
+[29Nov2024 19:34:58.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/common/animals/pigs_1
+[29Nov2024 19:34:58.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/houses/big_house_1
+[29Nov2024 19:34:58.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/terminators/terminator_01
+[29Nov2024 19:34:58.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/terminators/terminator_03
+[29Nov2024 19:34:58.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/terminators/terminator_02
+[29Nov2024 19:34:58.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/terminators/terminator_04
+[29Nov2024 19:34:58.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[29Nov2024 19:35:02.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[29Nov2024 19:35:07.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:antiquus_crypta_main
+[29Nov2024 19:35:07.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room1_antiquus
+[29Nov2024 19:35:07.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room3_antiquus
+[29Nov2024 19:35:07.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room2_antiquus
+[29Nov2024 19:35:07.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room4_antiquus
+[29Nov2024 19:35:11.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_7
+[29Nov2024 19:35:15.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/top
+[29Nov2024 19:35:15.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/var3
+[29Nov2024 19:35:24.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_fountain_01
+[29Nov2024 19:35:24.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_horticulturist
+[29Nov2024 19:35:24.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_occultist
+[29Nov2024 19:35:24.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_engineer
+[29Nov2024 19:35:24.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_oceanographer
+[29Nov2024 19:35:24.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[29Nov2024 19:35:24.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[29Nov2024 19:35:24.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_oceanographer
+[29Nov2024 19:35:24.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[29Nov2024 19:35:24.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_alchemist
+[29Nov2024 19:35:24.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:village/plains/houses/plains_beekeeper_area
+[29Nov2024 19:35:24.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_plains
+[29Nov2024 19:35:24.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:village/plains/houses/plains_copper_golem_area
+[29Nov2024 19:35:25.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_start
+[29Nov2024 19:35:25.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room1
+[29Nov2024 19:35:25.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room3
+[29Nov2024 19:35:25.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room4
+[29Nov2024 19:35:25.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room5
+[29Nov2024 19:35:25.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room6
+[29Nov2024 19:35:25.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room2
+[29Nov2024 19:35:25.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room7
+[29Nov2024 19:35:25.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room8
+[29Nov2024 19:35:28.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[29Nov2024 19:35:28.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[29Nov2024 19:35:32.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2987ms or 59 ticks behind
+[29Nov2024 19:35:33.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_10
+[29Nov2024 19:35:35.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Nov2024 19:35:39.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[29Nov2024 19:35:49.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[29Nov2024 19:35:54.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 19:35:54.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 19:35:59.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/swamp/engineer
+[29Nov2024 19:35:59.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/swamp/beekeeper_area
+[29Nov2024 19:35:59.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/swamp/copper_golem_area
+[29Nov2024 19:35:59.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/swamp/woodworker
+[29Nov2024 19:35:59.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:villages/swamp/occultist
+[29Nov2024 19:35:59.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/swamp/florist
+[29Nov2024 19:35:59.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:villages/swamp/alchemist
+[29Nov2024 19:35:59.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/swamp/hunter
+[29Nov2024 19:36:00.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_1
+[29Nov2024 19:36:03.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_2
+[29Nov2024 19:36:07.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[29Nov2024 19:36:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by Tusklin
+[29Nov2024 19:36:17.447] [Server thread/DEBUG] [twilightforest/]: Player zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc) respawned and received items held in storage
+[29Nov2024 19:36:17.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_3
+[29Nov2024 19:36:17.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_snowy
+[29Nov2024 19:36:17.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:snowy_village_horned_statue
+[29Nov2024 19:36:17.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_woodworker
+[29Nov2024 19:36:17.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_florist
+[29Nov2024 19:36:17.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_horticulturist
+[29Nov2024 19:36:17.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_oceanographer
+[29Nov2024 19:36:17.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_alchemist
+[29Nov2024 19:36:17.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_occultist
+[29Nov2024 19:36:17.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_hunter
+[29Nov2024 19:36:17.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_oceanographer
+[29Nov2024 19:36:18.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_8
+[29Nov2024 19:36:19.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[29Nov2024 19:36:20.542] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 19:36:26.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_2
+[29Nov2024 19:36:27.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[29Nov2024 19:36:28.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Nov2024 19:36:28.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Nov2024 19:36:34.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_5
+[29Nov2024 19:36:36.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[29Nov2024 19:36:45.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 9524.500000, 99.500000, 9748.500000]
+[29Nov2024 19:36:46.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[29Nov2024 19:36:47.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_10
+[29Nov2024 19:36:50.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_12
+[29Nov2024 19:36:51.318] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:antiquus_crypta_main
+[29Nov2024 19:36:51.319] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room1_antiquus
+[29Nov2024 19:36:51.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room3_antiquus
+[29Nov2024 19:36:51.323] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room2_antiquus
+[29Nov2024 19:36:51.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room4_antiquus
+[29Nov2024 19:36:53.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/swamp/engineer
+[29Nov2024 19:36:53.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/swamp/beekeeper_area
+[29Nov2024 19:36:53.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/swamp/copper_golem_area
+[29Nov2024 19:36:53.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/swamp/woodworker
+[29Nov2024 19:36:53.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[29Nov2024 19:36:53.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:villages/swamp/occultist
+[29Nov2024 19:36:53.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/swamp/florist
+[29Nov2024 19:36:53.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:villages/swamp/alchemist
+[29Nov2024 19:36:53.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/swamp/hunter
+[29Nov2024 19:36:55.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Nov2024 19:36:55.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[29Nov2024 19:36:56.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_13
