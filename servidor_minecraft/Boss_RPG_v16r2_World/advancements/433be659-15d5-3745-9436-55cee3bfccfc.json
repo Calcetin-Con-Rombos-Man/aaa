@@ -11262,9 +11262,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-11-29 20:58:12 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/angelic_feather": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-11-29 20:37:18 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:enlightened_end_root": {
+    "criteria": {
+      "enlightened_end_root": "2024-11-29 21:00:55 +0000"
     },
     "done": true
   },
@@ -11277,6 +11295,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/ender_staff": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
     },
     "done": true
   },
@@ -11301,6 +11325,18 @@
   "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
     "criteria": {
       "crab_meat": "2024-11-29 20:35:31 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/void_tear": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/alkahestry_altar": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
     },
     "done": true
   },
@@ -11334,6 +11370,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-11-29 21:00:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
@@ -11343,6 +11385,12 @@
   "stoneworks:recipes/building_blocks/end_stone_pavers_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-11-29 20:58:12 +0000"
     },
     "done": true
   },
@@ -11358,9 +11406,21 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/crimson_cloth": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2024-11-29 20:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-11-29 20:58:13 +0000"
     },
     "done": true
   },
@@ -11385,6 +11445,12 @@
   "stoneworks:recipes/building_blocks/end_stone_plate_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:upper_end_advancement": {
+    "criteria": {
+      "upper_end_advancement": "2024-11-29 21:00:22 +0000"
     },
     "done": true
   },
@@ -11466,6 +11532,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2024-11-29 21:02:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_end_stone_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
@@ -11538,9 +11610,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-11-29 20:59:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_tiles_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/magicbane": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
     },
     "done": true
   },
@@ -11577,6 +11661,12 @@
   "stoneworks:recipes/building_blocks/mossy_end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/ender_pearl": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
     },
     "done": true
   },
@@ -11634,9 +11724,21 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/fortune_coin": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_paver_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-11-29 20:58:13 +0000"
     },
     "done": true
   },
@@ -11652,6 +11754,24 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/enderman": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-11-29 20:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-11-29 20:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2024-11-29 20:48:38 +0000"
@@ -11661,6 +11781,12 @@
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-11-29 20:36:04 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/wraith_node": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
     },
     "done": true
   },

@@ -14299,6 +14299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-11-29 20:58:10 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/angelic_feather": {
     "criteria": {
       "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
@@ -14308,6 +14314,12 @@
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:enlightened_end_root": {
+    "criteria": {
+      "enlightened_end_root": "2024-11-29 21:03:24 +0000"
     },
     "done": true
   },
@@ -14659,6 +14671,12 @@
     },
     "done": true
   },
+  "diamethyst_arrows:items/da_dragon_breath_arrow": {
+    "criteria": {
+      "has_items": "2024-11-29 20:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
@@ -14680,6 +14698,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-11-29 20:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-11-29 21:03:02 +0000"
     },
     "done": true
   },
@@ -14740,6 +14764,12 @@
   "reliquary:recipes/misc/mob_charm_fragments/cave_spider": {
     "criteria": {
       "has_chelicerae": "2024-11-29 18:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-11-29 20:58:10 +0000"
     },
     "done": true
   },
@@ -14854,6 +14884,12 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-11-29 20:58:10 +0000"
     },
     "done": true
   },
@@ -15022,6 +15058,12 @@
   "handcrafted:recipes/misc/white_bowl": {
     "criteria": {
       "has_white_bowl": "2024-11-29 20:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-11-29 20:57:20 +0000"
     },
     "done": true
   },
@@ -15463,9 +15505,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2024-11-29 21:06:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2024-11-29 17:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-11-29 20:58:37 +0000"
     },
     "done": true
   },
@@ -15787,6 +15841,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-11-29 21:06:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_paver_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:52:03 +0000"
@@ -15868,6 +15928,12 @@
   "stoneworks:recipes/building_blocks/mossy_end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_dragon_breath": "2024-11-29 20:57:20 +0000"
     },
     "done": true
   },
@@ -16165,6 +16231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-11-29 20:58:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -16237,6 +16309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-11-29 20:58:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/gray_sheet": {
     "criteria": {
       "has_gray_sheet": "2024-11-29 20:10:41 +0000"
@@ -16246,6 +16324,12 @@
   "spartanfire:recipes/iced_dragon_bone_parrying_dagger": {
     "criteria": {
       "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-11-29 20:58:10 +0000"
     },
     "done": true
   },
