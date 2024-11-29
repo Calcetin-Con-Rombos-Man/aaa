@@ -14713,3 +14713,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 06:12:23.699] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [29Nov2024 06:13:02.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
 [29Nov2024 06:13:02.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 06:15:43.999] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 06:17:48.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jorge'/28840, l='ServerLevel[Boss_RPG_v16r2_World]', x=8393.50, y=64.00, z=-56.22] died, message: 'Jorge was slain by Zombie Villager'
+[29Nov2024 06:17:48.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jorge'/28840, l='ServerLevel[Boss_RPG_v16r2_World]', x=8393.50, y=64.00, z=-56.22] died: Jorge was slain by Zombie Villager
+[29Nov2024 06:18:02.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 06:18:02.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 06:19:03.898] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 06:19:15.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dianna'/28854, l='ServerLevel[Boss_RPG_v16r2_World]', x=8291.70, y=64.00, z=-39.60] died, message: 'Dianna was slain by Decaying Zombie'
+[29Nov2024 06:19:15.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dianna'/28854, l='ServerLevel[Boss_RPG_v16r2_World]', x=8291.70, y=64.00, z=-39.60] died: Dianna was slain by Decaying Zombie
+[29Nov2024 06:19:32.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Vickey'/28898, l='ServerLevel[Boss_RPG_v16r2_World]', x=8286.62, y=64.00, z=-11.43] died, message: 'Vickey was slain by Door Knight'
+[29Nov2024 06:19:32.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Vickey'/28898, l='ServerLevel[Boss_RPG_v16r2_World]', x=8286.62, y=64.00, z=-11.43] died: Vickey was slain by Door Knight
+[29Nov2024 06:22:23.700] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 06:22:23.700] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 06:22:33.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_13
+[29Nov2024 06:22:33.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_start
+[29Nov2024 06:22:33.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room1
+[29Nov2024 06:22:33.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room3
+[29Nov2024 06:22:33.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room2
+[29Nov2024 06:22:33.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room4
+[29Nov2024 06:22:33.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room5
+[29Nov2024 06:22:33.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:bone_dungeon_room6
+[29Nov2024 06:22:33.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_fountain_01
+[29Nov2024 06:22:33.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[29Nov2024 06:22:33.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_horticulturist
+[29Nov2024 06:22:33.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_occultist
+[29Nov2024 06:22:33.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_engineer
+[29Nov2024 06:22:33.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_oceanographer
+[29Nov2024 06:22:33.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[29Nov2024 06:22:33.490] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[29Nov2024 06:22:33.519] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_oceanographer
+[29Nov2024 06:22:33.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[29Nov2024 06:22:33.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_alchemist
+[29Nov2024 06:22:33.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[29Nov2024 06:22:33.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:village/plains/houses/plains_beekeeper_area
+[29Nov2024 06:22:33.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[29Nov2024 06:22:33.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:village/plains/houses/plains_copper_golem_area
+[29Nov2024 06:22:34.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_start
+[29Nov2024 06:22:34.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room1
+[29Nov2024 06:22:34.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room3
+[29Nov2024 06:22:34.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room4
+[29Nov2024 06:22:34.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room5
+[29Nov2024 06:22:34.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room6
+[29Nov2024 06:22:34.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room2
+[29Nov2024 06:22:34.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room7
+[29Nov2024 06:22:34.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_room8
+[29Nov2024 06:22:34.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_3
+[29Nov2024 06:22:35.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[29Nov2024 06:22:35.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[29Nov2024 06:22:36.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Nov2024 06:23:02.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 06:23:02.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 06:25:44.049] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
