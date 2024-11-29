@@ -14329,6 +14329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-11-29 18:39:09 +0000"
@@ -14350,6 +14356,12 @@
   "spartanfire:recipes/iced_dragon_bone_scythe": {
     "criteria": {
       "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -14419,6 +14431,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-11-29 17:40:03 +0000"
@@ -14434,6 +14452,12 @@
   "reliquary:recipes/misc/uncrafting/snowball": {
     "criteria": {
       "has_frozen_core": "2024-11-29 17:47:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -14467,6 +14491,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-11-29 20:10:41 +0000"
@@ -14482,6 +14512,12 @@
   "handcrafted:recipes/misc/gray_cushion": {
     "criteria": {
       "has_gray_cushion": "2024-11-29 20:10:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_plates_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -14593,6 +14629,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_shingle_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_halberd": {
     "criteria": {
       "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
@@ -14608,6 +14650,12 @@
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -14638,6 +14686,12 @@
   "diamethysts:tools/diamethyst_quartz_axe": {
     "criteria": {
       "has_gem": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -14674,6 +14728,12 @@
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2024-11-29 17:59:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_pavers_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -14725,6 +14785,12 @@
     },
     "done": false
   },
+  "stoneworks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2024-11-29 20:16:52 +0000"
@@ -14767,6 +14833,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-11-29 20:48:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/ham_sandwich": {
     "criteria": {
       "has_cooked_porkchop": "2024-11-29 18:17:31 +0000"
@@ -14791,9 +14863,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_plate_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -14851,6 +14935,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_plate_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_glaive": {
     "criteria": {
       "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
@@ -14860,6 +14950,12 @@
   "spartanfire:recipes/iced_dragon_bone_longbow": {
     "criteria": {
       "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -14875,6 +14971,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -14884,6 +14986,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2024-11-29 17:31:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -14932,6 +15040,12 @@
   "morevillagers:recipes/woodworking_table": {
     "criteria": {
       "has_leaves": "2024-11-29 20:06:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -15127,6 +15241,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_rapier": {
     "criteria": {
       "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
@@ -15139,9 +15259,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/lantern_of_paranoia": {
     "criteria": {
       "has_molten_core": "2024-11-29 18:13:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_shingle_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -15205,9 +15337,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-11-29 20:16:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_shingles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -15256,6 +15400,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -15319,9 +15469,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_boomerang": {
     "criteria": {
       "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_plate_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -15343,6 +15505,18 @@
     },
     "done": true
   },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_pillar_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2024-11-29 18:38:18 +0000"
@@ -15361,6 +15535,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_paver_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -15370,6 +15550,18 @@
   "reliquary:recipes/misc/midas_touchstone": {
     "criteria": {
       "has_molten_core": "2024-11-29 18:13:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -15457,6 +15649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-11-29 20:51:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -15490,6 +15688,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2024-11-29 20:16:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_tiles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -15583,6 +15787,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_paver_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2024-11-29 20:16:52 +0000"
@@ -15631,15 +15841,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_shingle_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/white_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-11-29 20:16:52 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/brown_sheet": {
     "criteria": {
       "has_brown_sheet": "2024-11-29 20:08:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -15658,6 +15886,12 @@
   "reliquary:recipes/misc/uncrafting/ender_pearl": {
     "criteria": {
       "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -15763,6 +15997,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-11-29 20:10:41 +0000"
@@ -15778,6 +16018,12 @@
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2024-11-29 18:56:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_end_stone_tiles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
@@ -15829,6 +16075,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_paver_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_link": {
     "criteria": {
       "has_repeater": "2024-11-29 20:29:25 +0000"
@@ -15874,6 +16126,12 @@
   "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
       "has_golden_sword": "2024-11-29 18:38:18 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:enderstride_advancement": {
+    "criteria": {
+      "enderstride_advancement": "2024-11-29 20:57:08 +0000"
     },
     "done": true
   },
@@ -16051,6 +16309,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-11-29 20:48:38 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2024-11-29 18:33:24 +0000"
@@ -16129,9 +16393,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-11-29 20:19:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-11-29 20:52:03 +0000"
     },
     "done": true
   },
