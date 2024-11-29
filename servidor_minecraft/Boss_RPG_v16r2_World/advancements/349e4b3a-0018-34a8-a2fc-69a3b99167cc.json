@@ -193,6 +193,7 @@
       "minecraft:old_growth_pine_taiga": "2024-11-26 22:16:22 +0000",
       "minecraft:taiga": "2024-11-26 21:59:23 +0000",
       "minecraft:eroded_badlands": "2024-11-29 00:19:50 +0000",
+      "minecraft:frozen_river": "2024-11-29 18:59:09 +0000",
       "minecraft:sunflower_plains": "2024-11-26 21:34:56 +0000",
       "minecraft:birch_forest": "2024-11-27 16:17:26 +0000",
       "minecraft:bamboo_jungle": "2024-11-27 15:00:09 +0000",
@@ -14292,9 +14293,75 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-11-29 18:52:00 +0000"
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-29 19:04:31 +0000"
     },
     "done": false
   },
@@ -14313,6 +14380,12 @@
   "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
     "criteria": {
       "has_zombie_heart": "2024-11-29 18:51:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-11-29 18:56:12 +0000"
     },
     "done": true
   },
@@ -14538,6 +14611,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/cave_spider": {
+    "criteria": {
+      "has_chelicerae": "2024-11-29 18:53:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2024-11-29 17:33:46 +0000"
@@ -14601,6 +14680,12 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/string": {
+    "criteria": {
+      "has_chelicerae": "2024-11-29 18:53:35 +0000"
     },
     "done": true
   },
@@ -14802,6 +14887,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-11-29 18:56:12 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/fertile_essence": {
     "criteria": {
       "has_slime_pearl": "2024-11-29 17:43:14 +0000"
@@ -14865,6 +14956,12 @@
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/spider_eye": {
+    "criteria": {
+      "has_chelicerae": "2024-11-29 18:53:35 +0000"
     },
     "done": true
   },
@@ -15210,6 +15307,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-11-29 18:56:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -15306,6 +15409,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2024-11-29 18:58:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -15375,6 +15484,12 @@
   "reliquary:recipes/misc/interdiction_torch": {
     "criteria": {
       "has_molten_core": "2024-11-29 18:13:18 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/spider": {
+    "criteria": {
+      "has_chelicerae": "2024-11-29 18:53:35 +0000"
     },
     "done": true
   },
