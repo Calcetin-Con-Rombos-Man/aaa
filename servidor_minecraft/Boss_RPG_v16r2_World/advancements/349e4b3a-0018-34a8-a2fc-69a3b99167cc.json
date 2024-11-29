@@ -14857,6 +14857,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-11-29 19:44:36 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/lantern_of_paranoia": {
     "criteria": {
       "has_molten_core": "2024-11-29 18:13:18 +0000"
@@ -15340,6 +15346,12 @@
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-11-29 19:43:52 +0000"
     },
     "done": true
   },

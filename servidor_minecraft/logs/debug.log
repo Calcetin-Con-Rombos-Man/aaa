@@ -25365,3 +25365,553 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 19:36:55.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
 [29Nov2024 19:36:55.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [29Nov2024 19:36:56.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_13
+[29Nov2024 19:37:00.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_2
+[29Nov2024 19:37:01.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:tower_of_the_undead/small
+[29Nov2024 19:37:01.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[29Nov2024 19:37:04.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_4
+[29Nov2024 19:37:14.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/top
+[29Nov2024 19:37:14.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/var3
+[29Nov2024 19:37:14.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_1
+[29Nov2024 19:37:14.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4044ms or 80 ticks behind
+[29Nov2024 19:37:19.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_ruin2
+[29Nov2024 19:37:25.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[29Nov2024 19:37:25.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/top
+[29Nov2024 19:37:25.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[29Nov2024 19:37:25.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:blank
+[29Nov2024 19:37:28.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_7
+[29Nov2024 19:37:28.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:tower
+[29Nov2024 19:37:31.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[29Nov2024 19:37:32.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[29Nov2024 19:37:32.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:chest
+[29Nov2024 19:37:39.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:stone
+[29Nov2024 19:37:42.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[29Nov2024 19:37:44.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[29Nov2024 19:37:44.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[29Nov2024 19:37:45.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[29Nov2024 19:37:45.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:camp
+[29Nov2024 19:37:53.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_11
+[29Nov2024 19:37:54.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/start/start_1
+[29Nov2024 19:37:54.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/props/prop_campsite_1
+[29Nov2024 19:37:54.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/props/prop_statue_1
+[29Nov2024 19:37:54.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/stairs/stairs_0
+[29Nov2024 19:37:54.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/props/prop_statue_0
+[29Nov2024 19:37:54.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/props/prop_statue_2
+[29Nov2024 19:37:54.939] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/stairs/stairs_5
+[29Nov2024 19:37:54.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/floor_2/room/floor_2_puzzle_room_0
+[29Nov2024 19:37:54.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/floor_1/room/floor_1_room_11
+[29Nov2024 19:37:54.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/floor_2/hallway/floor_2_hallway_1
+[29Nov2024 19:37:54.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/entrance/entrance_0
+[29Nov2024 19:37:54.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/challenge_room/challenge_room_statue_trade
+[29Nov2024 19:37:54.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/floor_2/room/floor_2_pressure_plate_room_3
+[29Nov2024 19:37:54.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/floor_2/pit/floor_2_pit_dripstone
+[29Nov2024 19:37:54.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/props/prop_campsite_4
+[29Nov2024 19:37:54.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/top/top_2
+[29Nov2024 19:37:54.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/challenge_room/statue/challenge_statue_iron
+[29Nov2024 19:37:54.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/treasure_room/treasure_room_3
+[29Nov2024 19:37:54.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/challenge_room/statue/challenge_statue_cocoabeans
+[29Nov2024 19:37:54.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:ocean/floor_2/pit/floor_2_pit_magma
+[29Nov2024 19:38:53.405] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:38:55.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:39:25.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:39:26.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:39:27.185] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:39:40.392] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 19:40:29.225] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:40:29.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/var1
+[29Nov2024 19:41:06.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 19:41:06.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 19:41:08.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:netherrack_spiral/base/0
+[29Nov2024 19:41:08.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:netherrack_spiral/top/netherrack
+[29Nov2024 19:41:08.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twigs:bloodstone_obelisk/bloodstone_obelisk
+[29Nov2024 19:41:08.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[29Nov2024 19:41:08.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/start/start_2
+[29Nov2024 19:41:08.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/props/prop_statue_1
+[29Nov2024 19:41:08.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/stairs/stairs_3
+[29Nov2024 19:41:08.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/floor_2/room/floor_2_dripstone_room_1
+[29Nov2024 19:41:08.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/props/prop_statue_2
+[29Nov2024 19:41:08.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/mod_integration/create_floor_2_supp_crushing_corridor
+[29Nov2024 19:41:08.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/props/prop_campsite_1
+[29Nov2024 19:41:08.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/challenge_room/challenge_room_emerald_water_l
+[29Nov2024 19:41:08.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/props/prop_statue_0
+[29Nov2024 19:41:08.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/entrance/entrance_5
+[29Nov2024 19:41:08.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/floor_1/room/floor_1_room_5
+[29Nov2024 19:41:08.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/floor_2/hallway/floor_2_hallway_1
+[29Nov2024 19:41:08.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/treasure_room/treasure_room_3
+[29Nov2024 19:41:08.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/props/prop_campsite_2
+[29Nov2024 19:41:08.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/top/top_3
+[29Nov2024 19:41:08.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/floor_1/room_back/floor_1_room_back_2
+[29Nov2024 19:41:08.951] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_fire
+[29Nov2024 19:41:08.952] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_warped_event_2 is being run through DFU (hash a1088ff26176f74d18df411e67e2e41c06128ba1787e134d4026f9d2e6f3ef3f), this will cause launch time delays
+[29Nov2024 19:41:08.954] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_6
+[29Nov2024 19:41:08.954] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_3
+[29Nov2024 19:41:08.954] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_4
+[29Nov2024 19:41:08.955] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_waste_event_4 is being run through DFU (hash 3542c2a86a365fad10305344850b3972e47b55c173811d5c5bd2631f5c3d2191), this will cause launch time delays
+[29Nov2024 19:41:08.955] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_waste_event_7 is being run through DFU (hash 167ff63e6d561d6e724d4dcbfda621f0b88228540a48fd6279b40b95a7c63b27), this will cause launch time delays
+[29Nov2024 19:41:08.956] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:skeleton_camp/skeleton_camp_waste_event_1 is being run through DFU (hash f25568908accb5be974fc79388c913a209d30643d89d1c9c96219172ac38722f), this will cause launch time delays
+[29Nov2024 19:41:08.957] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_fail
+[29Nov2024 19:41:09.186] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_1
+[29Nov2024 19:41:09.187] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_3
+[29Nov2024 19:41:09.187] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_2
+[29Nov2024 19:41:18.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_start
+[29Nov2024 19:41:18.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_part1
+[29Nov2024 19:41:18.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_part4
+[29Nov2024 19:41:18.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_part2
+[29Nov2024 19:41:18.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_part3
+[29Nov2024 19:41:20.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins10
+[29Nov2024 19:41:20.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[29Nov2024 19:41:22.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_18
+[29Nov2024 19:41:22.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_2
+[29Nov2024 19:41:22.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_woodworker
+[29Nov2024 19:41:22.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[29Nov2024 19:41:22.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_horticulturist
+[29Nov2024 19:41:22.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_florist
+[29Nov2024 19:41:22.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_oceanographer
+[29Nov2024 19:41:22.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_occultist
+[29Nov2024 19:41:22.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_plains
+[29Nov2024 19:41:22.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_oceanographer
+[29Nov2024 19:41:22.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[29Nov2024 19:41:22.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/plains/plains_alchemist
+[29Nov2024 19:41:22.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[29Nov2024 19:41:22.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_engineer
+[29Nov2024 19:41:22.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:village/plains/houses/plains_beekeeper_area
+[29Nov2024 19:41:22.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[29Nov2024 19:41:22.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/plains/plains_hunter
+[29Nov2024 19:41:23.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[29Nov2024 19:41:31.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_8
+[29Nov2024 19:42:09.237] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:42:10.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:42:11.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:42:12.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:42:12.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:42:14.753] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:42:16.352] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:42:26.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_3
+[29Nov2024 19:42:31.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_3
+[29Nov2024 19:42:31.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_oceanographer
+[29Nov2024 19:42:31.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_woodworker
+[29Nov2024 19:42:31.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:snowy_village_horned_statue
+[29Nov2024 19:42:31.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_iceandfire:village/snowy_scriber_1
+[29Nov2024 19:42:31.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_florist
+[29Nov2024 19:42:31.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_horticulturist
+[29Nov2024 19:42:31.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_engineer
+[29Nov2024 19:42:31.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_snowy
+[29Nov2024 19:42:40.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_0
+[29Nov2024 19:43:00.334] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 19:43:00.334] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 19:43:24.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Nov2024 19:43:28.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_butcher
+[29Nov2024 19:43:47.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:47.101] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:47.205] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:47.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:47.402] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:47.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:47.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:47.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:47.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:47.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:47.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.148] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.531] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.633] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.903] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:48.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:49.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:49.179] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:49.270] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:49.358] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:49.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:49.541] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:49.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:49.733] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:49.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:49.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.093] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.180] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.274] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.543] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.757] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:50.963] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:51.066] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:51.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:51.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:51.367] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:51.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:51.557] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:51.670] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:51.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:51.874] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:51.981] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:52.090] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:52.193] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:52.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:52.403] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:52.502] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:52.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:52.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:52.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:52.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:52.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Deceived Hopes]
+[29Nov2024 19:43:53.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:53.132] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:53.233] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:53.334] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:53.434] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:53.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:53.637] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:53.740] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:53.847] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:53.948] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:54.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:54.152] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:54.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:54.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:54.437] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:54.534] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:54.634] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:54.728] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:54.832] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:54.935] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:55.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:55.128] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:55.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:43:55.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:55.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:55.432] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:55.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:55.673] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:55.892] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:56.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:56.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:56.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:56.479] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:56.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:56.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:56.837] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:56.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:57.068] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:57.147] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:43:57.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:57.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:57.399] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:57.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:57.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:57.741] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:57.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:58.040] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:58.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:58.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:58.380] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:58.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:58.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:58.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:58.829] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:58.932] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:59.027] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:59.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:59.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:59.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:59.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:59.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:59.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:59.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:59.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:43:59.903] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:00.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:00.106] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:00.201] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:00.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:00.402] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:00.500] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:00.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:00.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:00.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:00.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:01.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:01.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:01.231] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:01.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:01.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:01.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:01.696] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:01.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:01.880] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:01.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:02.080] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:02.172] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:02.263] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:02.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:02.468] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:02.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:02.664] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:02.771] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:02.872] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:02.966] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:03.071] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:03.171] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:03.279] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:03.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:03.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:03.572] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:03.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:03.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:03.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:03.994] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:04.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:04.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:04.301] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:04.399] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:04.496] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:04.591] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:04.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:04.901] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:05.026] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:05.141] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:05.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:05.381] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:05.490] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:05.634] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:05.740] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:05.847] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:05.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:06.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:06.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:06.430] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:06.581] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:06.770] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:06.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:07.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:07.163] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:07.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:07.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:07.455] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:07.558] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:07.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:07.752] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:07.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:07.973] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:08.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:08.204] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:08.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:08.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:08.529] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:08.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:08.750] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:08.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:08.991] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:09.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:09.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:09.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:09.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:09.559] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:09.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Nov2024 19:44:11.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[29Nov2024 19:44:13.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[29Nov2024 19:44:13.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_bottom
+[29Nov2024 19:44:13.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/main
+[29Nov2024 19:44:29.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:31.284] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:31.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:32.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:33.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:34.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:36.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:36.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Exorcism]
+[29Nov2024 19:44:38.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:40.606] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:42.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:43.501] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:43.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:44.151] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:44:44.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[29Nov2024 19:44:46.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:03.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 19:45:10.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:11.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:11.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:11.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:12.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:14.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:15.147] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:15.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:18.612] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:19.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:21.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:23.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 19:45:29.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:29.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:31.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:33.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:45:38.983] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_2
+[29Nov2024 19:45:38.984] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_1
+[29Nov2024 19:45:38.986] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[29Nov2024 19:45:38.987] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[29Nov2024 19:45:39.062] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_3
+[29Nov2024 19:45:39.064] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[29Nov2024 19:45:41.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3087ms or 61 ticks behind
+[29Nov2024 19:46:02.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_ruin8
+[29Nov2024 19:46:08.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/starts/center
+[29Nov2024 19:46:08.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/top_center
+[29Nov2024 19:46:08.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/left_puzzle_connector
+[29Nov2024 19:46:08.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/front_puzzle_connector
+[29Nov2024 19:46:08.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/entrance_connector
+[29Nov2024 19:46:08.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/right_puzzle_connector
+[29Nov2024 19:46:08.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/top_center/top_shell_mid_0
+[29Nov2024 19:46:08.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/top_center/top_shell_top_2
+[29Nov2024 19:46:08.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/top_center/top_shell_bot_0
+[29Nov2024 19:46:08.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/puzzle_big/puzzle_big_6_4
+[29Nov2024 19:46:08.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/main_puzzle_connector_top
+[29Nov2024 19:46:08.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/bottom_entrance_corner/bottom_left_entrance_corner_1
+[29Nov2024 19:46:08.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/puzzle_big/puzzle_big_7_4
+[29Nov2024 19:46:08.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/bottom_main_corner/bottom_left_main_corner_0
+[29Nov2024 19:46:08.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/main_corner
+[29Nov2024 19:46:08.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/main_entrance_corner_left
+[29Nov2024 19:46:08.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main_entrance_hall/main_entrance_hall_0
+[29Nov2024 19:46:08.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/main_entrance_corner_right
+[29Nov2024 19:46:08.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/hall_entrance_corridor
+[29Nov2024 19:46:08.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/puzzle_big/puzzle_big_7_3
+[29Nov2024 19:46:08.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/bottom_main_corner/bottom_right_main_corner_2
+[29Nov2024 19:46:08.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/bottom_entrance_corner/bottom_right_entrance_corner_1
+[29Nov2024 19:46:08.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/balcony_straight
+[29Nov2024 19:46:08.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/walls/outer_row_11x1
+[29Nov2024 19:46:08.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/main_puzzle_top
+[29Nov2024 19:46:08.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_4
+[29Nov2024 19:46:08.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_filled
+[29Nov2024 19:46:08.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/parkour/parkour_top_4
+[29Nov2024 19:46:08.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/parkour/parkour_top_5
+[29Nov2024 19:46:08.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_24
+[29Nov2024 19:46:08.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/bottom_left_entrance_corner_front
+[29Nov2024 19:46:08.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_10
+[29Nov2024 19:46:08.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_26
+[29Nov2024 19:46:08.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/statue_corner
+[29Nov2024 19:46:08.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/bottom_entrance_corner_side
+[29Nov2024 19:46:08.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_12
+[29Nov2024 19:46:08.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/middle_end_hall/middle_end_hall_2
+[29Nov2024 19:46:08.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/water_maze/water_maze_1
+[29Nov2024 19:46:08.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/bottom_main_corner_front
+[29Nov2024 19:46:08.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_19
+[29Nov2024 19:46:08.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_25
+[29Nov2024 19:46:08.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_37
+[29Nov2024 19:46:08.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_34
+[29Nov2024 19:46:08.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/room_doorway/room_doorway_1
+[29Nov2024 19:46:08.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/room_doorway/room_doorway_8
+[29Nov2024 19:46:08.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/room_doorway/room_doorway_2
+[29Nov2024 19:46:08.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/room_doorway/room_doorway_9
+[29Nov2024 19:46:08.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/room_doorway/room_doorway_3
+[29Nov2024 19:46:08.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/room_doorway/room_doorway_6
+[29Nov2024 19:46:08.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/rooms/room_empty
+[29Nov2024 19:46:08.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/rooms/room_tomb_2
+[29Nov2024 19:46:08.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/room_doorway/room_doorway_4
+[29Nov2024 19:46:08.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/rooms/room_pillar
+[29Nov2024 19:46:08.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/room_doorway/room_doorway_0
+[29Nov2024 19:46:08.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/main_corner_top
+[29Nov2024 19:46:08.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/rooms/room_tomb_3
+[29Nov2024 19:46:08.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/room_doorway/room_doorway_5
+[29Nov2024 19:46:08.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/room_doorway/room_doorway_7
+[29Nov2024 19:46:08.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/rooms/room_filled
+[29Nov2024 19:46:08.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/main_entrance_cover
+[29Nov2024 19:46:08.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/outside_left
+[29Nov2024 19:46:08.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main_entrance_doorway/main_entrance_doorway_3
+[29Nov2024 19:46:08.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/rooms/room_tomb_1
+[29Nov2024 19:46:08.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/outside_right
+[29Nov2024 19:46:08.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/rooms/room_tomb_0
+[29Nov2024 19:46:08.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/middle_end_hall/middle_end_hall_empty
+[29Nov2024 19:46:08.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_empty
+[29Nov2024 19:46:08.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_27
+[29Nov2024 19:46:08.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_29
+[29Nov2024 19:46:08.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_31
+[29Nov2024 19:46:08.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_30
+[29Nov2024 19:46:08.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/statue_corner_empty
+[29Nov2024 19:46:08.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_9
+[29Nov2024 19:46:08.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_exit
+[29Nov2024 19:46:08.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_11
+[29Nov2024 19:46:08.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_35
+[29Nov2024 19:46:08.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/throne_room
+[29Nov2024 19:46:08.973] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_28
+[29Nov2024 19:46:08.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/main/bottom_right_entrance_corner_front
+[29Nov2024 19:46:08.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_14
+[29Nov2024 19:46:08.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_8
+[29Nov2024 19:46:08.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_10
+[29Nov2024 19:46:08.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_6
+[29Nov2024 19:46:08.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/parkour/parkour_bottom_2
+[29Nov2024 19:46:08.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_4
+[29Nov2024 19:46:08.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/parkour/parkour_bottom_4
+[29Nov2024 19:46:08.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_11
+[29Nov2024 19:46:08.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_3
+[29Nov2024 19:46:08.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_5
+[29Nov2024 19:46:08.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/statues/statue_6
+[29Nov2024 19:46:08.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/slopes/slope_6x11_floored
+[29Nov2024 19:46:08.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/slopes/slope_6x11
+[29Nov2024 19:46:08.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/parkour/parkour_bottom_6
+[29Nov2024 19:46:08.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_1
+[29Nov2024 19:46:08.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_wall/hall_wall_0
+[29Nov2024 19:46:08.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_2
+[29Nov2024 19:46:08.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_7
+[29Nov2024 19:46:08.988] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/statues/statue_5
+[29Nov2024 19:46:08.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/pillars/pillar_bottom_2
+[29Nov2024 19:46:08.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/pillars/pillar_bottom_1
+[29Nov2024 19:46:08.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_long_6
+[29Nov2024 19:46:08.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_0
+[29Nov2024 19:46:08.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_doorway/hall_doorway_long_0
+[29Nov2024 19:46:08.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/statues/statue_2
+[29Nov2024 19:46:08.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/mobs/pharaoh
+[29Nov2024 19:46:08.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_16
+[29Nov2024 19:46:08.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_20
+[29Nov2024 19:46:08.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_33
+[29Nov2024 19:46:08.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/mobs/slime
+[29Nov2024 19:46:08.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_18
+[29Nov2024 19:46:08.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/pillars/pillar_top_8
+[29Nov2024 19:46:08.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/pillars/pillar_top_7
+[29Nov2024 19:46:08.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_1
+[29Nov2024 19:46:08.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdeserttemples:ocean/hall_room/5x5/hall_room_5x5_32
+[29Nov2024 19:46:13.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 19:46:20.546] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 19:46:25.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 19:46:25.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 19:46:32.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[29Nov2024 19:46:42.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_main
+[29Nov2024 19:46:42.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part1
+[29Nov2024 19:46:42.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part2
+[29Nov2024 19:46:42.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part3
+[29Nov2024 19:46:42.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/engineer
+[29Nov2024 19:46:42.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/ocean/copper_golem_area
+[29Nov2024 19:46:42.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/woodworker
+[29Nov2024 19:46:42.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/florist
+[29Nov2024 19:46:42.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/ocean/beekeeper_area
+[29Nov2024 19:46:44.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:46:44.975] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:46:45.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:46:51.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:46:52.044] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:46:53.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:46:54.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:46:56.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[29Nov2024 19:46:56.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[29Nov2024 19:46:57.858] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:46:58.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:46:59.542] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:00.387] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 19:47:01.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Nov2024 19:47:02.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by Vindicator
+[29Nov2024 19:47:03.882] [Server thread/DEBUG] [twilightforest/]: Player zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc) respawned and received items held in storage
+[29Nov2024 19:47:04.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_alchemist
+[29Nov2024 19:47:04.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of villagersplus:village/snowy/snowy_occultist
+[29Nov2024 19:47:04.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_hunter
+[29Nov2024 19:47:04.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bettervillage_morevillagers:village/snowy/snowy_oceanographer
+[29Nov2024 19:47:11.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[29Nov2024 19:47:11.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[29Nov2024 19:47:12.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_2
+[29Nov2024 19:47:12.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_5
+[29Nov2024 19:47:19.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[29Nov2024 19:47:24.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 10510.500000, 68.500000, 10438.500000]
