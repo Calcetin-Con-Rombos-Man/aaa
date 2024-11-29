@@ -4628,7 +4628,8 @@
       "minecraft:witch": "2024-11-28 20:36:16 +0000",
       "minecraft:stray": "2024-11-29 00:16:06 +0000",
       "minecraft:vex": "2024-11-29 00:00:59 +0000",
-      "minecraft:zombie": "2024-11-28 18:58:50 +0000"
+      "minecraft:zombie": "2024-11-28 18:58:50 +0000",
+      "minecraft:drowned": "2024-11-29 18:22:11 +0000"
     },
     "done": false
   },
@@ -10629,6 +10630,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/anglers_fang": {
+    "criteria": {
+      "has_item": "2024-11-29 18:24:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_boots": {
     "criteria": {
       "has_item": "2024-11-29 18:17:35 +0000"
@@ -10650,6 +10657,12 @@
   "iceandfire:recipes/combat/tide_green_leggings": {
     "criteria": {
       "has_item": "2024-11-29 18:17:35 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_anglers_fang": {
+    "criteria": {
+      "anglers_fang": "2024-11-29 18:24:24 +0000"
     },
     "done": true
   },

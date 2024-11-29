@@ -3033,3 +3033,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 18:23:23.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/obscuria/obscureapi/api/utils/Icons
 [29Nov2024 18:23:28.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [29Nov2024 18:23:51.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 18:24:11.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
+[29Nov2024 18:24:24.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Perfect Instance]
+[29Nov2024 18:24:29.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2608ms or 52 ticks behind
+[29Nov2024 18:24:48.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3777ms or 75 ticks behind
+[29Nov2024 18:24:56.789] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[29Nov2024 18:25:12.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 18:25:29.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[29Nov2024 18:26:00.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 18:29:13.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Nov2024 18:30:29.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[29Nov2024 18:30:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Vault Breaker]
+[29Nov2024 18:31:43.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[29Nov2024 18:32:02.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3512ms or 70 ticks behind
+[29Nov2024 18:32:08.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Radioactive]
+[29Nov2024 18:32:23.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6385ms or 127 ticks behind
+[29Nov2024 18:32:28.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Christopher'/76814, l='ServerLevel[Boss_RPG_v16r2_World]', x=9632.15, y=78.00, z=9717.35] died, message: 'Christopher was shot by Stymphalian Bird'
+[29Nov2024 18:32:28.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Christopher'/76814, l='ServerLevel[Boss_RPG_v16r2_World]', x=9632.15, y=78.00, z=9717.35] died: Christopher was shot by Stymphalian Bird
+[29Nov2024 18:32:42.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
+[29Nov2024 18:33:00.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[29Nov2024 18:33:19.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3840ms or 76 ticks behind
+[29Nov2024 18:33:26.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[29Nov2024 18:33:36.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[29Nov2024 18:34:19.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind

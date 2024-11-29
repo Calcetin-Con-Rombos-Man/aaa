@@ -21150,3 +21150,192 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 18:23:54.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [29Nov2024 18:23:54.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [29Nov2024 18:23:54.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:55.405] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:55.408] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:55.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:57.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:57.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:57.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:57.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:57.804] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:57.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:57.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:58.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:58.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:58.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:58.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:23:59.586] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:24:11.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
+[29Nov2024 18:24:21.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:24:22.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:24:23.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:24:24.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:24:24.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Perfect Instance]
+[29Nov2024 18:24:25.548] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[29Nov2024 18:24:29.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 18:24:29.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 18:24:29.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2608ms or 52 ticks behind
+[29Nov2024 18:24:32.654] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=250, y=77, z=490} at Chest with:minecraft:chests/ruined_portal
+[29Nov2024 18:24:38.688] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[29Nov2024 18:24:38.708] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[29Nov2024 18:24:38.735] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[29Nov2024 18:24:38.758] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[29Nov2024 18:24:38.763] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[29Nov2024 18:24:48.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3777ms or 75 ticks behind
+[29Nov2024 18:24:48.464] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:24:49.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_soul
+[29Nov2024 18:24:49.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_soul
+[29Nov2024 18:24:49.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_5_soul
+[29Nov2024 18:24:49.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_8_soul
+[29Nov2024 18:24:49.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_7_soul
+[29Nov2024 18:24:49.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_10_soul
+[29Nov2024 18:24:49.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_4_soul
+[29Nov2024 18:24:49.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_12_soul
+[29Nov2024 18:24:49.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_9_soul
+[29Nov2024 18:24:49.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_3_soul
+[29Nov2024 18:24:49.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_crossbow
+[29Nov2024 18:24:49.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_sword
+[29Nov2024 18:24:50.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:24:50.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:24:51.799] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:24:56.789] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[29Nov2024 18:25:02.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:03.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:03.994] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:05.697] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:12.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 18:25:15.106] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:warped/start/start_2
+[29Nov2024 18:25:15.113] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/stairs/stairs_2
+[29Nov2024 18:25:15.114] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/floor_2/hallway/floor_2_hallway_6
+[29Nov2024 18:25:15.116] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/floor_2/hallway/floor_2_hallway_1
+[29Nov2024 18:25:15.118] [Worker-Main-2/DEBUG] [ModernFix/]: Structure bettertemples:wasteland/floor_1/room/floor_1_room_10 is being run through DFU (hash 49d7cbbfa3b71d8318a7ef209850c14596a23c82d75eaed0f45e330258fd048b), this will cause launch time delays
+[29Nov2024 18:25:15.124] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/stairs/stairs_5
+[29Nov2024 18:25:15.126] [Worker-Main-2/DEBUG] [ModernFix/]: Structure bettertemples:wasteland/floor_2/room/floor_2_pressure_plate_room_4 is being run through DFU (hash a4059c6980d5fa38b1700fb5484d9251acc5ee945857e9abf50689eba5cc0e0c), this will cause launch time delays
+[29Nov2024 18:25:15.197] [Worker-Main-2/DEBUG] [ModernFix/]: Structure bettertemples:wasteland/props/prop_campsite_0 is being run through DFU (hash f9e536ca0f12b463a96f960a630b5ffb89964f9d9f863515041d9f28704700d8), this will cause launch time delays
+[29Nov2024 18:25:15.199] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/props/prop_emerald_block
+[29Nov2024 18:25:15.200] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/props/prop_campsite_3
+[29Nov2024 18:25:15.202] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/treasure_room/treasure_room_2
+[29Nov2024 18:25:15.203] [Worker-Main-2/DEBUG] [ModernFix/]: Structure bettertemples:wasteland/challenge_room/statue/challenge_statue_honey is being run through DFU (hash 76dd4b5912b48be4e7d8568ef2fe494dac229f9e3f72d4c98cac3218c377dc20), this will cause launch time delays
+[29Nov2024 18:25:15.254] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bettertemples:wasteland/mod_integration/alexsmobs_floor_2_pit_crocodiles
+[29Nov2024 18:25:15.255] [Worker-Main-2/DEBUG] [ModernFix/]: Structure bettertemples:wasteland/floor_2/pit/floor_2_pit_dripstone is being run through DFU (hash 8f7bb80263f47b0df7e33e055e14e5cda6e07ef8ff84b3ce37a3b84db58977c9), this will cause launch time delays
+[29Nov2024 18:25:18.105] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gold_blocks
+[29Nov2024 18:25:24.955] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_empty
+[29Nov2024 18:25:24.955] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_piglin_sword
+[29Nov2024 18:25:24.956] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton
+[29Nov2024 18:25:25.664] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=231, y=82, z=845} at Chest with:minecraft:chests/bastion_other
+[29Nov2024 18:25:27.060] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:start_nether_dungeon
+[29Nov2024 18:25:27.070] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room3
+[29Nov2024 18:25:27.073] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_ruin1
+[29Nov2024 18:25:27.075] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room4
+[29Nov2024 18:25:27.079] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room2
+[29Nov2024 18:25:27.084] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room6
+[29Nov2024 18:25:27.087] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room1
+[29Nov2024 18:25:29.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[29Nov2024 18:25:44.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:44.253] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:44.253] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:44.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:44.936] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:44.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:48.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:48.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:48.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:48.641] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:25:52.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:26:00.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 18:26:11.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:26:12.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:26:20.285] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 18:26:40.193] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:26:41.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:26:42.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:28:37.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:28:38.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:28:39.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:28:40.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:28:49.555] [Worker-Main-3/DEBUG] [ModernFix/]: Structure philipsruins:nether_structures/lava_ruin3 is being run through DFU (hash c5545bd0cecafaeebed5980a2b923f6c088aca71030b39c84628199b60c16f31), this will cause launch time delays
+[29Nov2024 18:28:58.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:28:59.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:29:00.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:29:13.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Nov2024 18:29:40.232] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 18:29:41.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 18:29:41.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 18:30:29.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[29Nov2024 18:30:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Vault Breaker]
+[29Nov2024 18:31:11.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:31:12.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:31:25.604] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:31:26.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:31:30.551] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_start_dungeon
+[29Nov2024 18:31:30.565] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_pyramid1
+[29Nov2024 18:31:30.574] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:mod_structures/desert_ruin7
+[29Nov2024 18:31:30.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:tower_of_the_undead/small
+[29Nov2024 18:31:30.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[29Nov2024 18:31:30.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[29Nov2024 18:31:30.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[29Nov2024 18:31:30.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[29Nov2024 18:31:30.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[29Nov2024 18:31:30.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/top
+[29Nov2024 18:31:30.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/var2
+[29Nov2024 18:31:31.268] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_temple/main
+[29Nov2024 18:31:32.256] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=9610, y=33, z=9626} at Chest with:minecraft:chests/simple_dungeon
+[29Nov2024 18:31:43.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[29Nov2024 18:31:57.008] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[29Nov2024 18:32:02.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3512ms or 70 ticks behind
+[29Nov2024 18:32:08.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Radioactive]
+[29Nov2024 18:32:14.863] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[29Nov2024 18:32:14.868] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[29Nov2024 18:32:14.869] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[29Nov2024 18:32:14.869] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[29Nov2024 18:32:14.869] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[29Nov2024 18:32:14.870] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[29Nov2024 18:32:14.871] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[29Nov2024 18:32:14.873] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[29Nov2024 18:32:14.876] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[29Nov2024 18:32:14.878] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[29Nov2024 18:32:14.880] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[29Nov2024 18:32:14.881] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[29Nov2024 18:32:14.883] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[29Nov2024 18:32:14.884] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[29Nov2024 18:32:14.887] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_and_right
+[29Nov2024 18:32:14.888] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[29Nov2024 18:32:14.889] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_4
+[29Nov2024 18:32:14.890] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[29Nov2024 18:32:14.892] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[29Nov2024 18:32:14.893] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[29Nov2024 18:32:14.894] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[29Nov2024 18:32:14.895] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[29Nov2024 18:32:20.803] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/icy_1
+[29Nov2024 18:32:20.805] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/icy_3
+[29Nov2024 18:32:21.568] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[29Nov2024 18:32:21.579] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[29Nov2024 18:32:23.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6385ms or 127 ticks behind
+[29Nov2024 18:32:23.862] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[29Nov2024 18:32:24.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:antiquus_crypta_main
+[29Nov2024 18:32:24.088] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room1_antiquus
+[29Nov2024 18:32:24.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room3_antiquus
+[29Nov2024 18:32:24.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room2_antiquus
+[29Nov2024 18:32:24.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:room4_antiquus
+[29Nov2024 18:32:24.212] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/icy_2
+[29Nov2024 18:32:28.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Christopher'/76814, l='ServerLevel[Boss_RPG_v16r2_World]', x=9632.15, y=78.00, z=9717.35] died, message: 'Christopher was shot by Stymphalian Bird'
+[29Nov2024 18:32:28.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Christopher'/76814, l='ServerLevel[Boss_RPG_v16r2_World]', x=9632.15, y=78.00, z=9717.35] died: Christopher was shot by Stymphalian Bird
+[29Nov2024 18:32:28.537] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[29Nov2024 18:32:30.838] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=9515, y=47, z=9595} at Chest with:minecraft:chests/simple_dungeon
+[29Nov2024 18:32:42.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
+[29Nov2024 18:32:43.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:ice_pit/var3
+[29Nov2024 18:33:00.122] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 18:33:00.122] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 18:33:00.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[29Nov2024 18:33:11.564] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:33:12.372] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:33:19.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3840ms or 76 ticks behind
+[29Nov2024 18:33:19.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:33:23.629] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-6, y=61, z=762} at Chest with:minecraft:chests/ruined_portal
+[29Nov2024 18:33:26.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[29Nov2024 18:33:36.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[29Nov2024 18:33:42.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:33:59.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:34:00.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:34:19.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 18:34:19.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
