@@ -2909,3 +2909,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 17:10:21.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
 [29Nov2024 17:10:29.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Auto-blasting Upgrade] to Pilin]
 [29Nov2024 17:10:34.047] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[29Nov2024 17:16:01.623] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[29Nov2024 17:18:06.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zxymatthewyxz[/100.120.204.40:50097] logged in with entity id 26377 at (-404.69999998807907, 71.0, -329.30809900335095)
+[29Nov2024 17:18:06.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zxymatthewyxz
+[29Nov2024 17:18:06.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zxymatthewyxz
+[29Nov2024 17:18:06.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zxymatthewyxz
+[29Nov2024 17:18:06.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zxymatthewyxz
+[29Nov2024 17:18:06.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zxymatthewyxz
+[29Nov2024 17:18:06.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zxymatthewyxz
+[29Nov2024 17:18:06.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zxymatthewyxz
+[29Nov2024 17:18:06.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz joined the game
+[29Nov2024 17:18:06.133] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 433be659-15d5-3745-9436-55cee3bfccfc
+[29Nov2024 17:18:14.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[29Nov2024 17:18:48.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Nov2024 17:18:57.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zxymatthewyxz> y la de entrar dc?
+[29Nov2024 17:18:59.110] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/client/render/entity/player/GeckoPlayer$Perspective
+[29Nov2024 17:18:59.112] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/PlayerAbility$HandDisplay
+[29Nov2024 17:19:00.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pilin> voy
+[29Nov2024 17:19:09.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[29Nov2024 17:19:35.726] [defaultEventExecutorGroup-3-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting su/plo/voice/proto/data/audio/source/SourceInfo$Type
+[29Nov2024 17:21:03.450] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[29Nov2024 17:22:11.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 5555.500000, 71.500000, 260.500000]
+[29Nov2024 17:22:48.961] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[29Nov2024 17:29:13.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was blown up by Intruder
+[29Nov2024 17:30:13.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Spectator Mode]
+[29Nov2024 17:30:24.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[29Nov2024 17:33:46.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Eye Spy]
+[29Nov2024 17:40:40.882] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[29Nov2024 17:41:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [This Must be a Sign!]

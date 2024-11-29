@@ -9902,88 +9902,123 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "dungeons_plus:adventure/find_tower": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-11-29 02:19:58 +0000",
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
+      "in_structure": "2024-11-29 01:36:10 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-29 02:19:49 +0000"
-    },
-    "done": false
-  },
-  "stoneworks:recipes/building_blocks/mossy_basalt_brick_slab_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
+      "discover": "2024-11-29 01:48:51 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_stonecutting": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
+      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2024-11-29 01:57:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2024-11-29 02:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-11-29 02:08:43 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/iron_chain_links": {
+    "criteria": {
+      "has_nugget": "2024-11-29 02:08:43 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2024-11-29 02:08:43 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2024-11-29 02:08:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-11-29 02:08:43 +0000"
     },
     "done": true
   },
@@ -10005,33 +10040,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
       "has_copper_ingot": "2024-11-29 02:08:50 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/basalt_tile_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
     },
     "done": true
   },
@@ -10047,21 +10064,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/basalt_shingles_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "dungeons_plus:adventure/find_tower": {
-    "criteria": {
-      "in_structure": "2024-11-29 01:36:10 +0000"
     },
     "done": true
   },
@@ -10077,27 +10082,9 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2024-11-29 01:57:13 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_pavers_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
   "diamethysts:tools/diamethyst_copper_shovel": {
     "criteria": {
       "has_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2024-11-29 02:08:43 +0000"
     },
     "done": true
   },
@@ -10107,81 +10094,15 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/basalt_shingle_slab_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
-    "criteria": {
-      "has_item": "2024-11-29 01:57:13 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_brick_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
   "diamethysts:tools/diamethyst_copper_pickaxe": {
     "criteria": {
       "has_ingot": "2024-11-29 02:08:50 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/basalt_tiles_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_brick_slab_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_bricks_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_slab_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_basalt_brick_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_brick_wall_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
     },
     "done": true
   },
@@ -10209,24 +10130,6 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2024-11-29 01:57:13 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_basalt_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_basalt_wall_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_halberd": {
     "criteria": {
       "has_copper_ingot": "2024-11-29 02:08:50 +0000"
@@ -10236,36 +10139,6 @@
   "spartanweaponry:recipes/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "diamethysts:items/iron_chain_links": {
-    "criteria": {
-      "has_nugget": "2024-11-29 02:08:43 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "beautify:candelabras": {
-    "criteria": {
-      "requirement": "2024-11-29 02:08:43 +0000"
     },
     "done": true
   },
@@ -10287,39 +10160,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2024-11-29 01:57:13 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/service_bell": {
-    "criteria": {
-      "has_nugget": "2024-11-29 02:08:43 +0000"
     },
     "done": true
   },
@@ -10353,39 +10196,15 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/basalt_shingle_stairs_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2024-11-29 02:08:50 +0000"
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2024-11-29 01:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2024-11-29 02:14:55 +0000"
     },
     "done": true
   },
@@ -10413,15 +10232,237 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+  "diamethysts:items/diamethyst_copper_hilt": {
     "criteria": {
-      "has_mossy_cobblestone": "2024-11-29 01:57:13 +0000"
+      "has_ingot": "2024-11-29 02:08:50 +0000"
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
-      "has_item": "2024-11-29 01:57:13 +0000"
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_copper_axe": {
+    "criteria": {
+      "has_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:weapons/diamethyst_copper_battle_axe": {
+    "criteria": {
+      "has_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_copper_arrow": {
+    "criteria": {
+      "has_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_tile_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_shingles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_pavers_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_shingle_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_brick_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_tiles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_brick_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_bricks_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_brick_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_shingle_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-11-29 02:14:55 +0000"
     },
     "done": true
   },
@@ -10437,21 +10478,9 @@
     },
     "done": true
   },
-  "diamethysts:items/diamethyst_copper_hilt": {
-    "criteria": {
-      "has_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
     },
     "done": true
   },
@@ -10491,87 +10520,15 @@
     },
     "done": true
   },
-  "diamethysts:tools/diamethyst_copper_axe": {
-    "criteria": {
-      "has_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-11-29 02:14:55 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/copper_quarterstaff": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_greatsword": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "diamethysts:weapons/diamethyst_copper_battle_axe": {
-    "criteria": {
-      "has_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_tomahawk": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_spear": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_parrying_dagger": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
-    "criteria": {
-      "discover": "2024-11-29 01:48:51 +0000"
-    },
-    "done": true
-  },
-  "diamethysts:items/diamethyst_copper_arrow": {
-    "criteria": {
-      "has_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:recipes/redstone/copper_button": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
     },
     "done": true
   },
@@ -10593,39 +10550,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/copper_longbow": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_longsword": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-11-29 02:14:55 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce_soul": {
-    "criteria": {
-      "has_iron_nugget": "2024-11-29 02:08:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-11-29 02:08:50 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_shovel_repairing": {
-    "criteria": {
-      "has_diamond_shovel": "2024-11-29 02:02:32 +0000"
     },
     "done": true
   },
