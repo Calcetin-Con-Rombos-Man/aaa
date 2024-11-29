@@ -2937,3 +2937,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 17:33:46.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Eye Spy]
 [29Nov2024 17:40:40.882] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
 [29Nov2024 17:41:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [This Must be a Sign!]
+[29Nov2024 17:46:12.570] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40546, l='ServerLevel[Boss_RPG_v16r2_World]', x=5423.50, y=70.00, z=276.50]
+[29Nov2024 17:46:40.215] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40881, l='ServerLevel[Boss_RPG_v16r2_World]', x=5400.50, y=73.00, z=224.50]
+[29Nov2024 17:48:54.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Exorcism]
+[29Nov2024 17:49:06.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was blown up by Spruce Creeper
+[29Nov2024 17:50:25.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by Ghost
+[29Nov2024 17:53:02.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz fell from a high place
+[29Nov2024 17:54:09.210] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[29Nov2024 17:54:09.211] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[29Nov2024 17:54:09.228] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[29Nov2024 17:54:32.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[29Nov2024 17:54:36.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Safe Haven]
+[29Nov2024 17:54:59.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[29Nov2024 17:56:10.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was doomed to fall by Vex
+[29Nov2024 18:00:31.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Nov2024 18:00:32.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Erna'/53511, l='ServerLevel[Boss_RPG_v16r2_World]', x=8874.52, y=81.00, z=10008.66] died: Erna froze to death
+[29Nov2024 18:00:48.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[29Nov2024 18:00:51.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Marlo'/53514, l='ServerLevel[Boss_RPG_v16r2_World]', x=8882.49, y=81.00, z=10009.64] died: Marlo froze to death
+[29Nov2024 18:01:14.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Noel'/53529, l='ServerLevel[Boss_RPG_v16r2_World]', x=8863.67, y=80.00, z=10006.47] died: Noel froze to death
+[29Nov2024 18:01:31.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nieves'/53558, l='ServerLevel[Boss_RPG_v16r2_World]', x=8892.36, y=95.00, z=10017.50] died, message: 'Nieves froze to death'
+[29Nov2024 18:01:31.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nieves'/53558, l='ServerLevel[Boss_RPG_v16r2_World]', x=8892.36, y=95.00, z=10017.50] died: Nieves froze to death
+[29Nov2024 18:01:34.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[29Nov2024 18:01:43.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Valarie'/53561, l='ServerLevel[Boss_RPG_v16r2_World]', x=8861.55, y=86.00, z=10011.40] died, message: 'Valarie froze to death'
+[29Nov2024 18:01:43.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Valarie'/53561, l='ServerLevel[Boss_RPG_v16r2_World]', x=8861.55, y=86.00, z=10011.40] died: Valarie froze to death
+[29Nov2024 18:02:07.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 18:02:32.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
