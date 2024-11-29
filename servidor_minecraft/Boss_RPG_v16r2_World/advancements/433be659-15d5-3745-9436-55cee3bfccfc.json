@@ -11043,6 +11043,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/three_bolt_armor": {
+    "criteria": {
+      "three_bolt_armor": "2024-11-29 20:05:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-29 19:26:50 +0000"
