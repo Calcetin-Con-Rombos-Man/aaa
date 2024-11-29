@@ -4632,6 +4632,7 @@
       "minecraft:evoker": "2024-11-29 00:01:19 +0000",
       "minecraft:witch": "2024-11-28 20:36:16 +0000",
       "minecraft:stray": "2024-11-29 00:16:06 +0000",
+      "minecraft:enderman": "2024-11-29 20:38:49 +0000",
       "minecraft:vex": "2024-11-29 00:00:59 +0000",
       "minecraft:zombie": "2024-11-28 18:58:50 +0000",
       "minecraft:drowned": "2024-11-29 18:22:11 +0000"
@@ -11259,11 +11260,95 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "requirement": "2024-11-29 20:34:04 +0000"
+      "has_chicken": "2024-11-29 20:37:18 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat_from_smoking": {
+    "criteria": {
+      "crab_meat": "2024-11-29 20:35:31 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
+    "criteria": {
+      "crab_meat": "2024-11-29 20:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-11-29 20:37:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-11-29 20:36:04 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-11-29 20:38:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2024-11-29 20:37:18 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat": {
+    "criteria": {
+      "crab_meat": "2024-11-29 20:35:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2024-11-29 20:37:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-11-29 20:37:37 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-11-29 20:37:03 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-11-29 20:37:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2024-11-29 20:37:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-11-29 20:36:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2024-11-29 20:37:18 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -14353,6 +14353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-11-29 20:37:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
@@ -14404,6 +14410,12 @@
   "diamethysts:items/diamethyst_quartz_hilt": {
     "criteria": {
       "has_gem": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2024-11-29 20:42:04 +0000"
     },
     "done": true
   },
@@ -15691,6 +15703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-11-29 20:37:17 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/blaze_rod": {
     "criteria": {
       "has_molten_core": "2024-11-29 18:13:18 +0000"
@@ -16054,6 +16072,12 @@
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-11-29 20:40:34 +0000"
     },
     "done": true
   },

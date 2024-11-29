@@ -3635,3 +3635,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 20:38:43.496] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7a9396e1-947c-3ecf-b472-b97fcf5c0003
 [29Nov2024 20:38:46.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
 [29Nov2024 20:39:05.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3850ms or 77 ticks behind
+[29Nov2024 20:39:24.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4407ms or 88 ticks behind
+[29Nov2024 20:39:42.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2760ms or 55 ticks behind
+[29Nov2024 20:40:34.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [A Seedy Place]
+[29Nov2024 20:40:58.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[29Nov2024 20:41:21.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7971ms or 159 ticks behind
+[29Nov2024 20:41:44.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7784ms or 155 ticks behind
+[29Nov2024 20:42:05.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6437ms or 128 ticks behind
+[29Nov2024 20:42:30.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[29Nov2024 20:42:48.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3422ms or 68 ticks behind
+[29Nov2024 20:43:06.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[29Nov2024 20:43:25.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4266ms or 85 ticks behind
+[29Nov2024 20:43:49.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8953ms or 179 ticks behind
+[29Nov2024 20:44:13.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8996ms or 179 ticks behind
+[29Nov2024 20:44:36.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8623ms or 172 ticks behind
+[29Nov2024 20:44:59.506] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/192852, l='ServerLevel[Boss_RPG_v16r2_World]', x=5908.50, y=74.00, z=-99.50]
+[29Nov2024 20:45:01.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9370ms or 187 ticks behind
+[29Nov2024 20:45:19.564] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/193267, l='ServerLevel[Boss_RPG_v16r2_World]', x=5924.50, y=72.00, z=-126.50]
+[29Nov2024 20:45:23.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7738ms or 154 ticks behind
+[29Nov2024 20:45:46.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7419ms or 148 ticks behind
+[29Nov2024 20:46:07.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5887ms or 117 ticks behind
+[29Nov2024 20:46:19.769] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/194559, l='ServerLevel[Boss_RPG_v16r2_World]', x=5919.50, y=79.00, z=-175.50]
+[29Nov2024 20:46:28.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6417ms or 128 ticks behind
+[29Nov2024 20:46:47.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3549ms or 70 ticks behind
+[29Nov2024 20:46:57.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/195090, l='ServerLevel[Boss_RPG_v16r2_World]', x=5925.50, y=72.00, z=-125.50]
+[29Nov2024 20:47:04.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/195146, l='ServerLevel[Boss_RPG_v16r2_World]', x=5941.50, y=75.00, z=-285.50]
+[29Nov2024 20:47:07.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5168ms or 103 ticks behind
+[29Nov2024 20:47:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Eye Spy]
+[29Nov2024 20:47:25.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3392ms or 67 ticks behind
+[29Nov2024 20:48:38.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [The End?]
+[29Nov2024 20:48:38.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [The End?]
+[29Nov2024 20:48:41.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4119ms or 82 ticks behind
+[29Nov2024 20:48:45.651] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[29Nov2024 20:48:46.906] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[29Nov2024 20:48:46.912] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[29Nov2024 20:48:47.481] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[29Nov2024 20:48:47.481] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=62, z=0}
+[29Nov2024 20:49:19.081] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[29Nov2024 20:49:19.081] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[29Nov2024 20:49:19.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/betterendisland/world/DragonRespawnStage
+[29Nov2024 20:49:49.242] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[29Nov2024 20:49:49.243] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[29Nov2024 20:49:49.244] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=62, z=0}
+[29Nov2024 20:49:49.295] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
