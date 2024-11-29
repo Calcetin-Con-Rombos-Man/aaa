@@ -170,6 +170,7 @@
       "lavender_field": "2024-11-26 20:33:13 +0000",
       "pumpkin_patch": "2024-11-26 21:54:59 +0000",
       "grassland": "2024-11-26 22:20:49 +0000",
+      "tundra": "2024-11-29 18:42:39 +0000",
       "glowing_grotto": "2024-11-26 21:53:30 +0000",
       "rainforest": "2024-11-26 22:25:58 +0000"
     },
@@ -205,7 +206,9 @@
       "minecraft:river": "2024-11-26 21:34:47 +0000",
       "minecraft:lukewarm_ocean": "2024-11-28 21:55:50 +0000",
       "minecraft:stony_shore": "2024-11-26 21:20:39 +0000",
+      "minecraft:snowy_plains": "2024-11-29 18:42:50 +0000",
       "minecraft:dripstone_caves": "2024-11-27 15:22:44 +0000",
+      "minecraft:snowy_taiga": "2024-11-29 18:45:04 +0000",
       "minecraft:grove": "2024-11-27 15:21:25 +0000",
       "minecraft:jagged_peaks": "2024-11-27 15:22:03 +0000",
       "minecraft:cold_ocean": "2024-11-26 22:16:35 +0000",
@@ -217,6 +220,7 @@
       "minecraft:ocean": "2024-11-26 22:19:55 +0000",
       "minecraft:jungle": "2024-11-27 15:20:17 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-11-26 22:05:43 +0000",
+      "minecraft:snowy_beach": "2024-11-29 18:42:53 +0000",
       "minecraft:warm_ocean": "2024-11-26 22:33:29 +0000",
       "minecraft:flower_forest": "2024-11-26 20:36:26 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-26 22:13:46 +0000",
@@ -2432,6 +2436,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2024-11-26 21:41:45 +0000",
+      "entered_castle": "2024-11-29 18:47:30 +0000",
       "entered_ruined_building": "2024-11-26 20:45:14 +0000"
     },
     "done": false
@@ -14287,6 +14292,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-11-29 18:52:00 +0000"
+    },
+    "done": false
+  },
   "reliquary:recipes/misc/angelic_feather": {
     "criteria": {
       "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
@@ -14296,6 +14307,12 @@
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2024-11-29 18:51:54 +0000"
     },
     "done": true
   },
@@ -14314,6 +14331,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_scythe": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
     },
     "done": true
   },
@@ -14401,6 +14424,18 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2024-11-29 18:51:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -14437,6 +14472,18 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_halberd": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2024-11-29 18:51:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -14449,6 +14496,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_javelin": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "diamethysts:tools/diamethyst_quartz_axe": {
     "criteria": {
       "has_gem": "2024-11-29 18:33:24 +0000"
@@ -14458,6 +14511,18 @@
   "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2024-11-29 17:12:02 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_spear": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2024-11-29 18:51:54 +0000"
     },
     "done": true
   },
@@ -14506,6 +14571,12 @@
   "reliquary:recipes/misc/crimson_cloth": {
     "criteria": {
       "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2024-11-29 18:51:29 +0000"
     },
     "done": true
   },
@@ -14569,11 +14640,29 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_glaive": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_longbow": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2024-11-29 18:47:30 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
@@ -14647,6 +14736,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_katana": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
@@ -14713,6 +14808,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2024-11-29 18:47:30 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2024-11-29 16:52:12 +0000"
@@ -14722,6 +14823,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-11-29 17:40:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_rapier": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
     },
     "done": true
   },
@@ -14749,9 +14856,27 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_lance": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
     },
     "done": true
   },
@@ -14773,6 +14898,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_boomerang": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/blaze": {
     "criteria": {
       "has_molten_core": "2024-11-29 18:13:18 +0000"
@@ -14788,6 +14919,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2024-11-29 18:38:18 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_longsword": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
     },
     "done": true
   },
@@ -14839,6 +14976,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -14881,6 +15024,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_saber": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_food": {
     "criteria": {
       "glowing_calamari": "2024-11-29 17:31:53 +0000"
@@ -14893,9 +15042,21 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
     },
     "done": true
   },
@@ -14908,6 +15069,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
     },
     "done": true
   },
@@ -14938,6 +15105,12 @@
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_dagger": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
     },
     "done": true
   },
@@ -14989,6 +15162,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_greatsword": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/blaze_rod": {
     "criteria": {
       "has_molten_core": "2024-11-29 18:13:18 +0000"
@@ -15025,6 +15204,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_pike": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -15046,6 +15231,12 @@
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-11-29 17:39:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-11-29 18:51:56 +0000"
     },
     "done": true
   },
@@ -15151,6 +15342,24 @@
     },
     "done": true
   },
+  "spartanfire:recipes/iced_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_warhammer": {
+    "criteria": {
+      "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_lime_terracotta": "2024-11-29 18:32:30 +0000"
@@ -15208,6 +15417,12 @@
   "reliquary:recipes/misc/wraith_node": {
     "criteria": {
       "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-11-29 18:41:44 +0000"
     },
     "done": true
   },
