@@ -14633,3 +14633,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 05:32:23.550] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [29Nov2024 05:33:01.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
 [29Nov2024 05:33:02.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 05:35:43.800] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 05:37:24.977] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Brady'/28926, l='ServerLevel[Boss_RPG_v16r2_World]', x=8303.98, y=80.00, z=64.07] died, message: 'Brady was slain by Ghost'
+[29Nov2024 05:37:24.977] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Brady'/28926, l='ServerLevel[Boss_RPG_v16r2_World]', x=8303.98, y=80.00, z=64.07] died: Brady was slain by Ghost
+[29Nov2024 05:37:43.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forrest'/28925, l='ServerLevel[Boss_RPG_v16r2_World]', x=8299.55, y=79.41, z=57.61] died, message: 'Forrest was slain by Ghost'
+[29Nov2024 05:37:43.687] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Forrest'/28925, l='ServerLevel[Boss_RPG_v16r2_World]', x=8299.55, y=79.41, z=57.61] died: Forrest was slain by Ghost
+[29Nov2024 05:37:45.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shon'/28919, l='ServerLevel[Boss_RPG_v16r2_World]', x=8278.96, y=68.00, z=18.82] died, message: 'Shon was slain by Zombie Bruiser'
+[29Nov2024 05:37:45.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Shon'/28919, l='ServerLevel[Boss_RPG_v16r2_World]', x=8278.96, y=68.00, z=18.82] died: Shon was slain by Zombie Bruiser
+[29Nov2024 05:37:57.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Necole'/28845, l='ServerLevel[Boss_RPG_v16r2_World]', x=8327.92, y=63.00, z=-36.65] died, message: 'Necole was slain by Zombie'
+[29Nov2024 05:37:57.783] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Necole'/28845, l='ServerLevel[Boss_RPG_v16r2_World]', x=8327.92, y=63.00, z=-36.65] died: Necole was slain by Zombie
+[29Nov2024 05:38:02.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 05:38:02.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 05:38:09.624] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Stephen'/28900, l='ServerLevel[Boss_RPG_v16r2_World]', x=8328.25, y=63.00, z=-42.13] died, message: 'Stephen was slain by Zombie'
+[29Nov2024 05:38:09.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Stephen'/28900, l='ServerLevel[Boss_RPG_v16r2_World]', x=8328.25, y=63.00, z=-42.13] died: Stephen was slain by Zombie
+[29Nov2024 05:39:03.699] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 05:41:47.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jc'/28837, l='ServerLevel[Boss_RPG_v16r2_World]', x=8388.96, y=63.00, z=-59.30] died, message: 'Jc was slain by Zombie'
+[29Nov2024 05:41:47.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jc'/28837, l='ServerLevel[Boss_RPG_v16r2_World]', x=8388.96, y=63.00, z=-59.30] died: Jc was slain by Zombie
+[29Nov2024 05:41:58.833] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ema'/28933, l='ServerLevel[Boss_RPG_v16r2_World]', x=8299.40, y=69.06, z=-53.53] died, message: 'Ema was slain by Decaying Zombie'
+[29Nov2024 05:41:58.834] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ema'/28933, l='ServerLevel[Boss_RPG_v16r2_World]', x=8299.40, y=69.06, z=-53.53] died: Ema was slain by Decaying Zombie
+[29Nov2024 05:42:23.599] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 05:42:23.599] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 05:43:02.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 05:43:02.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
