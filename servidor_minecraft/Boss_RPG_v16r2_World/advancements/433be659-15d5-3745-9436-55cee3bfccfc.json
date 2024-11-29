@@ -10630,6 +10630,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-11-29 18:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-11-29 18:31:03 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/anglers_fang": {
     "criteria": {
       "has_item": "2024-11-29 18:24:24 +0000"
@@ -10654,9 +10666,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-11-29 18:35:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_leggings": {
     "criteria": {
       "has_item": "2024-11-29 18:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-11-29 18:31:03 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/elodea": {
+    "criteria": {
+      "has_item": "2024-11-29 18:30:09 +0000"
     },
     "done": true
   },
@@ -10666,9 +10696,21 @@
     },
     "done": true
   },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2024-11-29 18:35:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_helmet": {
     "criteria": {
       "has_item": "2024-11-29 18:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-11-29 18:35:51 +0000"
     },
     "done": true
   },

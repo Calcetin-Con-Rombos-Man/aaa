@@ -3369,6 +3369,7 @@
       "minecraft:cave_spider": "2024-11-29 17:26:37 +0000",
       "minecraft:piglin": "2024-11-29 18:17:29 +0000",
       "minecraft:silverfish": "2024-11-27 14:58:08 +0000",
+      "minecraft:enderman": "2024-11-29 18:40:32 +0000",
       "minecraft:vex": "2024-11-29 00:26:33 +0000",
       "minecraft:zombie": "2024-11-26 20:51:00 +0000",
       "minecraft:drowned": "2024-11-29 00:16:54 +0000",
@@ -8735,7 +8736,8 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
-      "in_mineshaft_desert": "2024-11-26 22:33:50 +0000"
+      "in_mineshaft_desert": "2024-11-26 22:33:50 +0000",
+      "in_mineshaft_nether": "2024-11-29 18:40:18 +0000"
     },
     "done": false
   },
@@ -14285,9 +14287,27 @@
     },
     "done": false
   },
+  "reliquary:recipes/misc/angelic_feather": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-11-29 18:39:09 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/ender_staff": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
     },
     "done": true
   },
@@ -14302,6 +14322,12 @@
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
     },
     "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_outstation": "2024-11-29 18:30:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/coal": {
     "criteria": {
@@ -14318,6 +14344,12 @@
   "reliquary:recipes/misc/mercy_cross": {
     "criteria": {
       "has_withered_rib": "2024-11-29 18:18:55 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:items/diamethyst_quartz_hilt": {
+    "criteria": {
+      "has_gem": "2024-11-29 18:33:24 +0000"
     },
     "done": true
   },
@@ -14345,9 +14377,21 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/void_tear": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/alkahestry_altar": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
     },
     "done": true
   },
@@ -14360,6 +14404,12 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-11-29 18:33:24 +0000"
     },
     "done": true
   },
@@ -14399,6 +14449,12 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_quartz_axe": {
+    "criteria": {
+      "has_gem": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2024-11-29 17:12:02 +0000"
@@ -14423,15 +14479,45 @@
     },
     "done": true
   },
+  "diamethysts:tools/diamethyst_quartz_shovel": {
+    "criteria": {
+      "has_gem": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglin_outpost": {
+    "criteria": {
+      "nova_structures:piglin_outstation": "2024-11-29 18:30:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2024-11-29 18:32:08 +0000"
+    },
+    "done": false
+  },
   "sophisticatedstorage:recipes/misc/storage_smelting_upgrade_from_backpack_smelting_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2024-11-29 17:09:53 +0000"
     },
     "done": true
   },
+  "reliquary:recipes/misc/crimson_cloth": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/slime": {
     "criteria": {
       "has_slime_pearl": "2024-11-29 17:43:14 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_quartz_pickaxe": {
+    "criteria": {
+      "has_gem": "2024-11-29 18:33:24 +0000"
     },
     "done": true
   },
@@ -14453,9 +14539,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-11-29 18:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-11-29 18:30:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
+    "criteria": {
+      "has_slime_block": "2024-11-29 18:34:22 +0000"
+    },
+    "done": true
+  },
+  "diamethysts:tools/diamethyst_quartz_hoe": {
+    "criteria": {
+      "has_gem": "2024-11-29 18:33:24 +0000"
     },
     "done": true
   },
@@ -14513,6 +14623,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-11-29 18:38:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_plates_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
@@ -14534,6 +14650,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-11-29 18:33:24 +0000"
     },
     "done": true
   },
@@ -14663,6 +14785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-11-29 18:38:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2024-11-29 17:22:46 +0000"
@@ -14693,6 +14821,24 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-11-29 18:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -14711,6 +14857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_shingles_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
@@ -14723,11 +14875,23 @@
     },
     "done": true
   },
+  "diamethysts:weapons/diamethyst_quartz_battle_axe": {
+    "criteria": {
+      "has_gem": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_food": {
     "criteria": {
       "glowing_calamari": "2024-11-29 17:31:53 +0000"
     },
     "done": false
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2024-11-29 18:32:08 +0000"
+    },
+    "done": true
   },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
     "criteria": {
@@ -14744,6 +14908,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/magicbane": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
     },
     "done": true
   },
@@ -14795,6 +14965,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/ender_pearl": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -14831,15 +15007,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-11-29 18:34:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-11-29 17:40:03 +0000"
     },
     "done": true
   },
+  "diamethysts:items/diamethyst_quartz_scales": {
+    "criteria": {
+      "has_gem": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-11-29 18:35:01 +0000"
     },
     "done": true
   },
@@ -14861,6 +15055,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/fortune_coin": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -14879,9 +15079,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2024-11-29 18:38:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
   "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
       "has_platinum_chunk": "2024-11-29 16:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-11-29 18:39:09 +0000"
     },
     "done": true
   },
@@ -14894,6 +15118,18 @@
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/enderman": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
     },
     "done": true
   },
@@ -14915,6 +15151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2024-11-29 18:32:30 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/destruction_catalyst": {
     "criteria": {
       "has_molten_core": "2024-11-29 18:13:18 +0000"
@@ -14924,6 +15166,12 @@
   "reliquary:recipes/misc/interdiction_torch": {
     "criteria": {
       "has_molten_core": "2024-11-29 18:13:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2024-11-29 18:33:24 +0000"
     },
     "done": true
   },
@@ -14954,6 +15202,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/wraith_node": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
     },
     "done": true
   },
