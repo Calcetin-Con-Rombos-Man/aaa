@@ -14178,6 +14178,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-11-29 04:32:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2024-11-29 04:20:26 +0000"
@@ -14187,6 +14193,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2024-11-29 04:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-29 04:31:52 +0000"
     },
     "done": true
   },
@@ -14214,6 +14226,18 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-11-29 04:31:52 +0000"
+    },
+    "done": true
+  },
+  "netheroverhaul:bruger_the_burger": {
+    "criteria": {
+      "bruger_the_burger": "2024-11-29 04:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2024-11-29 04:20:26 +0000"
@@ -14223,6 +14247,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2024-11-29 04:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-29 04:31:52 +0000"
     },
     "done": true
   },
