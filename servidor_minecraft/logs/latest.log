@@ -2962,3 +2962,74 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 18:01:43.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Valarie'/53561, l='ServerLevel[Boss_RPG_v16r2_World]', x=8861.55, y=86.00, z=10011.40] died: Valarie froze to death
 [29Nov2024 18:02:07.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [29Nov2024 18:02:32.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[29Nov2024 18:03:27.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Nov2024 18:03:44.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[29Nov2024 18:04:22.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[29Nov2024 18:04:24.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[29Nov2024 18:04:24.600] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[29Nov2024 18:04:33.485] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[29Nov2024 18:04:33.487] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[29Nov2024 18:04:33.487] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[29Nov2024 18:04:33.488] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[29Nov2024 18:04:33.488] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[29Nov2024 18:04:33.488] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[29Nov2024 18:05:13.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Elijah'/53513, l='ServerLevel[Boss_RPG_v16r2_World]', x=8882.51, y=81.00, z=10009.83] died: Elijah froze to death
+[29Nov2024 18:07:20.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Tamatha'/53563, l='ServerLevel[Boss_RPG_v16r2_World]', x=8821.39, y=60.00, z=9952.92] died: Tamatha froze to death
+[29Nov2024 18:08:29.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin fell from a high place
+[29Nov2024 18:08:50.209] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[29Nov2024 18:08:50.209] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[29Nov2024 18:08:50.209] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[29Nov2024 18:08:50.210] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[29Nov2024 18:08:50.211] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Nov2024 18:08:50.211] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Nov2024 18:08:50.211] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[29Nov2024 18:08:50.212] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[29Nov2024 18:08:50.212] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Nov2024 18:08:50.213] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[29Nov2024 18:10:18.324] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[29Nov2024 18:10:38.704] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[29Nov2024 18:11:06.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: Disconnected
+[29Nov2024 18:11:06.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[29Nov2024 18:11:06.019] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 433be659-15d5-3745-9436-55cee3bfccfc
+[29Nov2024 18:12:22.372] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$Interp
+[29Nov2024 18:12:22.373] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$NoiseType
+[29Nov2024 18:12:22.373] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$FractalType
+[29Nov2024 18:12:22.374] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularDistanceFunction
+[29Nov2024 18:12:22.374] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularReturnType
+[29Nov2024 18:12:28.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8811ms or 176 ticks behind
+[29Nov2024 18:13:19.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [A Terrible Fortress]
+[29Nov2024 18:13:30.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zxymatthewyxz[/100.120.204.40:50185] logged in with entity id 63281 at (9512.416030647633, 64.0, 10018.715194445715)
+[29Nov2024 18:13:30.131] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zxymatthewyxz
+[29Nov2024 18:13:30.132] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zxymatthewyxz
+[29Nov2024 18:13:30.132] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zxymatthewyxz
+[29Nov2024 18:13:30.133] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zxymatthewyxz
+[29Nov2024 18:13:30.135] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zxymatthewyxz
+[29Nov2024 18:13:30.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zxymatthewyxz
+[29Nov2024 18:13:30.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zxymatthewyxz
+[29Nov2024 18:13:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz joined the game
+[29Nov2024 18:13:30.248] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 433be659-15d5-3745-9436-55cee3bfccfc
+[29Nov2024 18:15:02.605] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[29Nov2024 18:15:02.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[29Nov2024 18:15:20.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 18:15:48.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Nov2024 18:16:06.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[29Nov2024 18:16:26.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5292ms or 105 ticks behind
+[29Nov2024 18:16:47.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6001ms or 120 ticks behind
+[29Nov2024 18:16:57.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Those Were the Days]
+[29Nov2024 18:17:31.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Sea? Not a Problem]
+[29Nov2024 18:17:46.990] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[29Nov2024 18:18:53.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Veril the Withered'/66663, l='ServerLevel[Boss_RPG_v16r2_World]', x=624.51, y=70.00, z=290.61] died: Veril the Withered was slain by Pilin using [Flamed Dragon Bone Sword11]
+[29Nov2024 18:19:12.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Nov2024 18:19:28.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=570, y=49, z=382} BlockPos{x=570, y=49, z=381}
+[29Nov2024 18:19:31.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[29Nov2024 18:19:49.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[29Nov2024 18:20:06.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[29Nov2024 18:20:14.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Gboom the Bloated'/69175, l='ServerLevel[Boss_RPG_v16r2_World]', x=493.50, y=46.00, z=486.50] died: Gboom the Bloated suffocated in a wall
+[29Nov2024 18:20:36.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[29Nov2024 18:21:16.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[29Nov2024 18:21:48.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [War Pigs]
+[29Nov2024 18:22:11.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/68855, l='ServerLevel[Boss_RPG_v16r2_World]', x=9831.07, y=71.00, z=9861.30] died: Sargent the Soaked was slain by zxymatthewyxz
+[29Nov2024 18:22:59.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 18:23:23.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/obscuria/obscureapi/api/utils/Icons
+[29Nov2024 18:23:28.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Nov2024 18:23:51.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind

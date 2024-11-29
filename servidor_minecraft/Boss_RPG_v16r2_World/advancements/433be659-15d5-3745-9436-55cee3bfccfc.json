@@ -169,7 +169,8 @@
       "snowy_coniferous_forest": "2024-11-29 01:05:43 +0000",
       "snowy_fir_clearing": "2024-11-29 01:11:52 +0000",
       "tundra": "2024-11-28 23:37:39 +0000",
-      "rainforest": "2024-11-29 01:42:09 +0000"
+      "rainforest": "2024-11-29 01:42:09 +0000",
+      "snowy_maple_woods": "2024-11-29 18:10:48 +0000"
     },
     "done": false
   },
@@ -10556,33 +10557,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_carved_pumpkin": "2024-11-29 17:44:32 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2024-11-29 17:54:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-11-29 17:39:55 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2024-11-29 17:54:36 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2024-11-29 17:48:54 +0000"
     },
     "done": true
   },
@@ -10598,6 +10575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-11-29 17:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2024-11-29 17:44:32 +0000"
@@ -10607,6 +10590,72 @@
   "aether:recipes/food/moa_egg_pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2024-11-29 17:44:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-11-29 17:48:54 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2024-11-29 17:54:36 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-11-29 17:54:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-11-29 17:58:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 17:58:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-29 18:17:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2024-11-29 18:17:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-11-29 18:17:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2024-11-29 18:17:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2024-11-29 18:17:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2024-11-29 18:17:35 +0000"
     },
     "done": true
   },
