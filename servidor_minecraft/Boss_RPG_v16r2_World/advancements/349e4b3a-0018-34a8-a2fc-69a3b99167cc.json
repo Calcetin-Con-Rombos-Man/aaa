@@ -14179,11 +14179,23 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-11-29 04:32:05 +0000"
+      "killed_fire_dragon": "2024-11-29 04:15:38 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 04:18:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2024-11-29 04:19:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
@@ -14197,51 +14209,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-11-29 04:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 04:18:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2024-11-29 04:20:26 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/dispenser_minecart": {
-    "criteria": {
-      "has_dispenser": "2024-11-29 04:19:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2024-11-29 04:15:38 +0000"
-    },
-    "done": true
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2024-11-29 04:31:52 +0000"
-    },
-    "done": true
-  },
-  "netheroverhaul:bruger_the_burger": {
-    "criteria": {
-      "bruger_the_burger": "2024-11-29 04:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2024-11-29 06:01:30 +0000"
     },
     "done": true
   },
@@ -14257,9 +14227,39 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-29 04:31:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-11-29 04:31:52 +0000"
+    },
+    "done": true
+  },
+  "netheroverhaul:bruger_the_burger": {
+    "criteria": {
+      "bruger_the_burger": "2024-11-29 04:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-11-29 04:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-11-29 04:32:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-11-29 06:01:30 +0000"
     },
     "done": true
   },
@@ -14274,6 +14274,18 @@
       "beehive": "2024-11-29 06:02:30 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-11-29 16:52:12 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-11-29 16:51:49 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
