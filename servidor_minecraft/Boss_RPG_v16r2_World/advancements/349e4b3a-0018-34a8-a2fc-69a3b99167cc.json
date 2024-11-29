@@ -10658,6 +10658,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "blueprinttable": "2024-11-29 04:49:49 +0000",
       "fletchingtable": "2024-11-28 22:53:04 +0000",
       "brewingstand": "2024-11-28 19:44:53 +0000",
       "grindstone": "2024-11-28 22:25:20 +0000",

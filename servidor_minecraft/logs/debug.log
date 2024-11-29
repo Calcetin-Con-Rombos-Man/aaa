@@ -14499,3 +14499,137 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 04:43:27.568] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_1
 [29Nov2024 04:43:27.576] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_3
 [29Nov2024 04:43:56.501] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[29Nov2024 04:45:43.571] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 04:45:47.849] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[29Nov2024 04:47:30.144] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[29Nov2024 04:47:59.188] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[29Nov2024 04:47:59.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 04:47:59.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 04:48:14.319] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14159, l='ServerLevel[Boss_RPG_v16r2_World]', x=8392.50, y=70.00, z=-35.50]
+[29Nov2024 04:49:03.499] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 04:49:22.213] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14629, l='ServerLevel[Boss_RPG_v16r2_World]', x=8394.50, y=70.00, z=-36.50]
+[29Nov2024 04:49:23.831] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[29Nov2024 04:49:38.811] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14819, l='ServerLevel[Boss_RPG_v16r2_World]', x=8393.50, y=70.00, z=-35.50]
+[29Nov2024 04:50:42.007] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15206, l='ServerLevel[Boss_RPG_v16r2_World]', x=8394.50, y=70.00, z=-35.50]
+[29Nov2024 04:50:54.413] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[29Nov2024 04:50:54.415] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[29Nov2024 04:50:54.415] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[29Nov2024 04:50:54.415] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[29Nov2024 04:50:56.054] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[29Nov2024 04:50:56.299] [pool-14-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean]] from pos BlockPos{x=8245, y=70, z=-181}
+[29Nov2024 04:50:56.362] [pool-14-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[29Nov2024 04:50:56.397] [pool-14-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[29Nov2024 04:50:56.792] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/ocean/beekeeper_area
+[29Nov2024 04:50:56.793] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/ocean/copper_golem_area
+[29Nov2024 04:50:56.795] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/engineer
+[29Nov2024 04:50:56.796] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/florist
+[29Nov2024 04:50:56.797] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/hunter
+[29Nov2024 04:50:56.798] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/oceanographer
+[29Nov2024 04:50:56.798] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/ocean/woodworker
+[29Nov2024 04:50:59.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
+[29Nov2024 04:51:02.396] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[29Nov2024 04:51:02.402] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[29Nov2024 04:51:02.587] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/town_centers/fountain_01
+[29Nov2024 04:51:05.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[29Nov2024 04:51:54.553] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:54.556] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:55.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:55.185] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:55.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:55.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:56.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:57.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:57.242] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:57.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:57.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:58.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:58.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:51:59.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:52:04.611] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[29Nov2024 04:52:04.612] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[29Nov2024 04:52:22.696] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[29Nov2024 04:52:22.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Asa'/13092, l='ServerLevel[Boss_RPG_v16r2_World]', x=8329.80, y=65.00, z=73.60] died: Asa was blown up by Phantom Creeper
+[29Nov2024 04:52:23.399] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 04:52:23.399] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 04:52:57.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Margret'/13110, l='ServerLevel[Boss_RPG_v16r2_World]', x=8326.90, y=63.00, z=-34.64] died: Margret was slain by Halloweed
+[29Nov2024 04:52:57.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:52:59.305] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 04:52:59.347] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Louis'/13148, l='ServerLevel[Boss_RPG_v16r2_World]', x=8324.76, y=63.00, z=-35.93] died, message: 'Louis was slain by Zombie Bruiser'
+[29Nov2024 04:52:59.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Louis'/13148, l='ServerLevel[Boss_RPG_v16r2_World]', x=8324.76, y=63.00, z=-35.93] died: Louis was slain by Zombie Bruiser
+[29Nov2024 04:53:02.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 04:53:02.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 04:53:04.606] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16776, l='ServerLevel[Boss_RPG_v16r2_World]', x=8394.50, y=70.00, z=-37.50]
+[29Nov2024 04:54:08.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shirely'/17233, l='ServerLevel[Boss_RPG_v16r2_World]', x=8371.11, y=63.00, z=-34.01] died, message: 'Shirely was slain by Zombie Lumberjack'
+[29Nov2024 04:54:08.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Shirely'/17233, l='ServerLevel[Boss_RPG_v16r2_World]', x=8371.11, y=63.00, z=-34.01] died: Shirely was slain by Zombie Lumberjack
+[29Nov2024 04:55:13.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Albert'/17360, l='ServerLevel[Boss_RPG_v16r2_World]', x=8233.70, y=64.00, z=8.83] died, message: 'Albert was slain by Fallen Chaos Knight'
+[29Nov2024 04:55:13.930] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Albert'/17360, l='ServerLevel[Boss_RPG_v16r2_World]', x=8233.70, y=64.00, z=8.83] died: Albert was slain by Fallen Chaos Knight
+[29Nov2024 04:55:43.598] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 04:55:48.578] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Micah'/17281, l='ServerLevel[Boss_RPG_v16r2_World]', x=8411.29, y=68.00, z=-49.55] died, message: 'Micah was slain by Zombie Bruiser'
+[29Nov2024 04:55:48.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Micah'/17281, l='ServerLevel[Boss_RPG_v16r2_World]', x=8411.29, y=68.00, z=-49.55] died: Micah was slain by Zombie Bruiser
+[29Nov2024 04:56:01.361] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18412, l='ServerLevel[Boss_RPG_v16r2_World]', x=8393.50, y=70.00, z=-37.50]
+[29Nov2024 04:56:28.557] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18882, l='ServerLevel[Boss_RPG_v16r2_World]', x=8392.50, y=70.00, z=-37.50]
+[29Nov2024 04:57:28.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Nada'/18923, l='ServerLevel[Boss_RPG_v16r2_World]', x=8325.08, y=63.00, z=-46.70] died: Nada was slain by Lillie
+[29Nov2024 04:57:40.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Otha'/17332, l='ServerLevel[Boss_RPG_v16r2_World]', x=8288.95, y=81.00, z=51.41] died, message: 'Otha was slain by Zombie Bruiser'
+[29Nov2024 04:57:40.940] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Otha'/17332, l='ServerLevel[Boss_RPG_v16r2_World]', x=8288.95, y=81.00, z=51.41] died: Otha was slain by Zombie Bruiser
+[29Nov2024 04:57:44.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lillie'/17215, l='ServerLevel[Boss_RPG_v16r2_World]', x=8324.76, y=63.00, z=-35.93] died: Lillie was pricked to death
+[29Nov2024 04:58:02.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 04:58:02.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 04:58:28.029] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Darcey'/17253, l='ServerLevel[Boss_RPG_v16r2_World]', x=8324.31, y=62.40, z=-43.21] died, message: 'Darcey was slain by Zombie'
+[29Nov2024 04:58:28.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Darcey'/17253, l='ServerLevel[Boss_RPG_v16r2_World]', x=8324.31, y=62.40, z=-43.21] died: Darcey was slain by Zombie
+[29Nov2024 04:58:37.280] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rolf'/17257, l='ServerLevel[Boss_RPG_v16r2_World]', x=8322.42, y=63.00, z=-45.07] died, message: 'Rolf was slain by Darcey'
+[29Nov2024 04:58:37.281] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rolf'/17257, l='ServerLevel[Boss_RPG_v16r2_World]', x=8322.42, y=63.00, z=-45.07] died: Rolf was slain by Darcey
+[29Nov2024 04:59:03.549] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 04:59:09.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mattie'/17335, l='ServerLevel[Boss_RPG_v16r2_World]', x=8289.28, y=81.23, z=64.49] died, message: 'Mattie was slain by Equestrian'
+[29Nov2024 04:59:09.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mattie'/17335, l='ServerLevel[Boss_RPG_v16r2_World]', x=8289.28, y=81.23, z=64.49] died: Mattie was slain by Equestrian
+[29Nov2024 04:59:55.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Orville'/17343, l='ServerLevel[Boss_RPG_v16r2_World]', x=8310.43, y=76.00, z=116.81] died, message: 'Orville was slain by Ghost'
+[29Nov2024 04:59:55.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Orville'/17343, l='ServerLevel[Boss_RPG_v16r2_World]', x=8310.43, y=76.00, z=116.81] died: Orville was slain by Ghost
+[29Nov2024 05:02:23.400] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 05:02:23.400] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 05:03:02.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 05:03:02.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 05:03:40.644] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[29Nov2024 05:04:59.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8343, y=64, z=18} BlockPos{x=8342, y=64, z=19}
+[29Nov2024 05:04:59.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8345, y=65, z=14} BlockPos{x=8345, y=63, z=12}
+[29Nov2024 05:05:00.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8345, y=65, z=14} BlockPos{x=8345, y=63, z=12}
+[29Nov2024 05:05:00.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8345, y=65, z=14} BlockPos{x=8345, y=63, z=12}
+[29Nov2024 05:05:02.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8353, y=64, z=13} BlockPos{x=8354, y=63, z=14}
+[29Nov2024 05:05:43.649] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 05:08:02.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 05:08:02.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 05:09:03.600] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 05:12:23.450] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 05:12:23.450] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 05:12:54.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lulu'/17239, l='ServerLevel[Boss_RPG_v16r2_World]', x=8389.13, y=62.49, z=-56.70] died, message: 'Lulu was slain by Zombie Lumberjack'
+[29Nov2024 05:12:54.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lulu'/17239, l='ServerLevel[Boss_RPG_v16r2_World]', x=8389.13, y=62.49, z=-56.70] died: Lulu was slain by Zombie Lumberjack
+[29Nov2024 05:13:01.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Allie'/17241, l='ServerLevel[Boss_RPG_v16r2_World]', x=8385.34, y=63.00, z=-57.40] died, message: 'Allie was slain by Zombie Lumberjack'
+[29Nov2024 05:13:01.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Allie'/17241, l='ServerLevel[Boss_RPG_v16r2_World]', x=8385.34, y=63.00, z=-57.40] died: Allie was slain by Zombie Lumberjack
+[29Nov2024 05:13:02.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 05:13:02.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 05:13:09.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Celia'/17234, l='ServerLevel[Boss_RPG_v16r2_World]', x=8388.48, y=62.03, z=-55.73] died, message: 'Celia was slain by Zombie Lumberjack'
+[29Nov2024 05:13:09.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Celia'/17234, l='ServerLevel[Boss_RPG_v16r2_World]', x=8388.48, y=62.03, z=-55.73] died: Celia was slain by Zombie Lumberjack
+[29Nov2024 05:13:15.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Maribel'/17235, l='ServerLevel[Boss_RPG_v16r2_World]', x=8389.39, y=63.00, z=-55.50] died, message: 'Maribel was slain by Zombie Lumberjack'
+[29Nov2024 05:13:15.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Maribel'/17235, l='ServerLevel[Boss_RPG_v16r2_World]', x=8389.39, y=63.00, z=-55.50] died: Maribel was slain by Zombie Lumberjack
+[29Nov2024 05:13:44.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 05:13:54.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Danita'/17203, l='ServerLevel[Boss_RPG_v16r2_World]', x=8304.36, y=63.34, z=-28.06] died: Danita tried to swim in lava
+[29Nov2024 05:15:43.700] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 05:18:01.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 05:18:02.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 05:18:31.458] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[29Nov2024 05:19:03.649] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 05:19:15.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set the weather to clear]
+[29Nov2024 05:19:30.545] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mercy'/26649, l='ServerLevel[Boss_RPG_v16r2_World]', x=8371.13, y=66.50, z=-41.70] died, message: 'Mercy was slain by Sprinter'
+[29Nov2024 05:19:30.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mercy'/26649, l='ServerLevel[Boss_RPG_v16r2_World]', x=8371.13, y=66.50, z=-41.70] died: Mercy was slain by Sprinter
+[29Nov2024 05:22:23.498] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 05:22:23.499] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 05:23:02.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 05:23:02.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 05:25:43.750] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 05:26:28.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set the time to 1000]
+[29Nov2024 05:27:06.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 05:28:02.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 05:28:02.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 05:29:03.650] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 05:32:23.550] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 05:32:23.550] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 05:33:01.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 05:33:02.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
