@@ -14703,3 +14703,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Nov2024 06:04:13.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Eda'/28894, l='ServerLevel[Boss_RPG_v16r2_World]', x=8386.34, y=63.00, z=-58.15] died, message: 'Eda was slain by Zombie'
 [29Nov2024 06:04:13.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Eda'/28894, l='ServerLevel[Boss_RPG_v16r2_World]', x=8386.34, y=63.00, z=-58.15] died: Eda was slain by Zombie
 [29Nov2024 06:04:14.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[29Nov2024 06:05:43.949] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 06:06:09.789] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 06:06:11.242] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Nov2024 06:08:02.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 06:08:02.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
+[29Nov2024 06:09:03.850] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 06:12:23.698] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 06:12:23.699] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 06:13:02.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Boss_RPG_v16r2_World
+[29Nov2024 06:13:02.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Boss_RPG_v16r2_World
