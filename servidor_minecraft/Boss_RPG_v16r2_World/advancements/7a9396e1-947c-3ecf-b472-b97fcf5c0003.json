@@ -2649,6 +2649,7 @@
       "minecraft:phantom": "2024-11-29 20:34:06 +0000",
       "minecraft:witch": "2024-11-28 20:55:33 +0000",
       "minecraft:wither_skeleton": "2024-11-29 00:55:40 +0000",
+      "minecraft:shulker": "2024-11-29 21:14:20 +0000",
       "minecraft:cave_spider": "2024-11-28 20:41:28 +0000",
       "minecraft:piglin": "2024-11-28 22:07:43 +0000",
       "minecraft:silverfish": "2024-11-28 23:22:15 +0000",
@@ -3128,6 +3129,7 @@
       "cooked_mutton": "2024-11-28 20:05:18 +0000",
       "cooked_beef": "2024-11-28 19:12:43 +0000",
       "chorus_fruit": "2024-11-29 21:04:51 +0000",
+      "baked_potato": "2024-11-29 21:11:48 +0000",
       "porkchop": "2024-11-29 20:58:53 +0000",
       "apple": "2024-11-28 20:01:31 +0000",
       "bread": "2024-11-28 18:55:52 +0000",
@@ -12995,6 +12997,18 @@
     },
     "done": false
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
+    "criteria": {
+      "has_planks": "2024-11-29 21:09:25 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/angelic_feather": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 21:16:38 +0000"
+    },
+    "done": true
+  },
   "enlightened_end:enlightened_end_root": {
     "criteria": {
       "enlightened_end_root": "2024-11-29 21:03:28 +0000"
@@ -13004,6 +13018,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/ender_staff": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 21:16:38 +0000"
     },
     "done": true
   },
@@ -13025,6 +13045,18 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/void_tear": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 21:16:38 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/alkahestry_altar": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 21:16:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_end_stone_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
@@ -13034,6 +13066,24 @@
   "stoneworks:recipes/building_blocks/end_stone_plates_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-11-29 21:09:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-11-29 21:09:25 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_fir": {
+    "criteria": {
+      "has_planks": "2024-11-29 21:09:25 +0000"
     },
     "done": true
   },
@@ -13073,6 +13123,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-11-29 21:14:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_pavers_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
@@ -13088,6 +13144,12 @@
   "stoneworks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/crimson_cloth": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 21:16:38 +0000"
     },
     "done": true
   },
@@ -13109,9 +13171,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-11-29 21:09:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_plate_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-11-29 21:13:07 +0000"
     },
     "done": true
   },
@@ -13151,6 +13225,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2024-11-29 21:09:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_end_stone_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
@@ -13166,6 +13246,12 @@
   "stoneworks:recipes/building_blocks/end_stone_shingle_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-29 21:09:25 +0000"
     },
     "done": true
   },
@@ -13229,9 +13315,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-11-29 21:09:25 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2024-11-29 20:57:56 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2024-11-29 21:14:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-29 21:09:25 +0000"
     },
     "done": true
   },
@@ -13244,6 +13348,12 @@
   "stoneworks:recipes/building_blocks/end_stone_tiles_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/magicbane": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 21:16:38 +0000"
     },
     "done": true
   },
@@ -13277,6 +13387,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/ender_pearl": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 21:16:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_end_stone_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
@@ -13295,15 +13411,51 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/fortune_coin": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 21:16:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_paver_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:58:39 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-29 21:09:25 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/enderman": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 21:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-11-29 21:12:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-29 21:09:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2024-11-29 20:55:27 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/wraith_node": {
+    "criteria": {
+      "has_nebulous_heart": "2024-11-29 21:16:38 +0000"
     },
     "done": true
   },

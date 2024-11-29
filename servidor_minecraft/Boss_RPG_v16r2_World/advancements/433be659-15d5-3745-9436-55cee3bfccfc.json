@@ -4633,6 +4633,7 @@
       "minecraft:evoker": "2024-11-29 00:01:19 +0000",
       "minecraft:witch": "2024-11-28 20:36:16 +0000",
       "minecraft:ender_dragon": "2024-11-29 20:56:47 +0000",
+      "minecraft:shulker": "2024-11-29 21:11:14 +0000",
       "minecraft:stray": "2024-11-29 00:16:06 +0000",
       "minecraft:enderman": "2024-11-29 20:38:49 +0000",
       "minecraft:vex": "2024-11-29 00:00:59 +0000",
@@ -11310,6 +11311,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-11-29 21:12:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
@@ -11379,6 +11386,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-11-29 21:13:09 +0000"
     },
     "done": true
   },
@@ -11604,6 +11617,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2024-11-29 21:13:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-11-29 20:53:43 +0000"
@@ -11631,6 +11650,12 @@
   "stoneworks:recipes/building_blocks/end_stone_paver_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:55:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-11-29 21:12:04 +0000"
     },
     "done": true
   },
@@ -11724,6 +11749,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-11-29 21:12:02 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/fortune_coin": {
     "criteria": {
       "has_nebulous_heart": "2024-11-29 20:59:27 +0000"
@@ -11769,6 +11800,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-11-29 20:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-11-29 21:11:01 +0000"
     },
     "done": true
   },

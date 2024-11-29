@@ -3372,6 +3372,7 @@
       "minecraft:zombified_piglin": "2024-11-29 18:17:16 +0000",
       "minecraft:witch": "2024-11-28 21:52:22 +0000",
       "minecraft:wither_skeleton": "2024-11-27 15:02:03 +0000",
+      "minecraft:shulker": "2024-11-29 21:13:47 +0000",
       "minecraft:cave_spider": "2024-11-29 17:26:37 +0000",
       "minecraft:piglin": "2024-11-29 18:17:29 +0000",
       "minecraft:silverfish": "2024-11-27 14:58:08 +0000",
@@ -14293,6 +14294,18 @@
     },
     "done": false
   },
+  "sophisticatedstorage:recipes/misc/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-11-29 21:13:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/light_gray_cushion": {
     "criteria": {
       "has_light_gray_cushion": "2024-11-29 20:14:09 +0000"
@@ -14323,6 +14336,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_purpur_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
     "criteria": {
       "has_zombie_heart": "2024-11-29 18:51:54 +0000"
@@ -14338,6 +14357,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-11-29 20:16:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_tiles_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -14428,6 +14453,12 @@
   "reliquary:recipes/misc/mercy_cross": {
     "criteria": {
       "has_withered_rib": "2024-11-29 18:18:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -14533,6 +14564,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_shingle_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -14551,6 +14588,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_shingles_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_grottol_fortune": {
     "criteria": {
       "steal_crystal": "2024-11-29 20:22:28 +0000"
@@ -14566,6 +14609,12 @@
   "handcrafted:recipes/misc/white_plate": {
     "criteria": {
       "has_white_plate": "2024-11-29 20:16:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_purpur_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -14596,6 +14645,18 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-11-29 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_paver_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_purpur_tiles_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -14665,6 +14726,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:52:03 +0000"
@@ -14692,6 +14759,12 @@
   "reliquary:recipes/misc/gold_nugget": {
     "criteria": {
       "has_empty_bullet": "2024-11-29 19:19:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_brick_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -14749,9 +14822,21 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-11-29 21:17:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2024-11-29 17:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -14770,6 +14855,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_end_stone_bricks": "2024-11-29 20:58:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_purpur_brick_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -14809,6 +14900,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_brick_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:toxic_heap": "2024-11-29 18:32:08 +0000"
@@ -14845,6 +14942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-11-29 21:13:49 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2024-11-29 18:51:29 +0000"
@@ -14866,6 +14969,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2024-11-29 20:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -14908,6 +15017,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -14956,6 +15071,12 @@
   "another_furniture:recipes/light_gray_sofa": {
     "criteria": {
       "has_wool": "2024-11-29 20:14:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -15034,6 +15155,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_shingle_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -15169,6 +15296,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/raw_purpur_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2024-11-29 17:59:28 +0000"
@@ -15223,6 +15356,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_shingle_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_gray_tall_stool": {
     "criteria": {
       "has_wool": "2024-11-29 20:14:09 +0000"
@@ -15256,6 +15395,12 @@
   "reliquary:recipes/misc/fertile_essence": {
     "criteria": {
       "has_slime_pearl": "2024-11-29 17:43:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -15298,6 +15443,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2024-11-29 19:44:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_tile_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -15475,6 +15626,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_purpur_brick_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_stool": {
     "criteria": {
       "has_wool": "2024-11-29 20:10:41 +0000"
@@ -15529,6 +15686,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_purpur_brick_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_boomerang": {
     "criteria": {
       "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
@@ -15538,6 +15701,12 @@
   "stoneworks:recipes/building_blocks/end_stone_plate_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -15571,6 +15740,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_paver_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2024-11-29 18:38:18 +0000"
@@ -15589,6 +15770,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_brick_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_paver_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:52:03 +0000"
@@ -15604,6 +15791,12 @@
   "reliquary:recipes/misc/midas_touchstone": {
     "criteria": {
       "has_molten_core": "2024-11-29 18:13:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -15691,6 +15884,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2024-11-29 21:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-11-29 18:33:24 +0000"
@@ -15700,6 +15899,18 @@
   "stoneworks:recipes/building_blocks/nether_brick_shingles_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -15805,6 +16016,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_tile_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_ice_dragon_blood": "2024-11-29 18:46:40 +0000"
@@ -15901,6 +16118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_shingle_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:52:03 +0000"
@@ -15943,6 +16166,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -15970,6 +16199,12 @@
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -16177,6 +16412,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_purpur_bricks_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-11-29 18:22:19 +0000"
@@ -16249,6 +16490,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_tile_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2024-11-29 20:16:52 +0000"
@@ -16279,9 +16526,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_paver_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/enderman": {
     "criteria": {
       "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_pavers_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_purpur_bricks_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -16345,9 +16610,27 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-11-29 21:13:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_purpur_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_lime_terracotta": "2024-11-29 18:32:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_bricks_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -16417,6 +16700,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/raw_purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 17:09:18 +0000"
@@ -16450,6 +16739,12 @@
   "reliquary:recipes/misc/wraith_node": {
     "criteria": {
       "has_nebulous_heart": "2024-11-29 18:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
@@ -16492,6 +16787,12 @@
   "stoneworks:recipes/building_blocks/mossy_end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-11-29 20:52:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 21:10:06 +0000"
     },
     "done": true
   },
